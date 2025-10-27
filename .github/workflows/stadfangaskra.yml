@@ -8,10 +8,11 @@ on:
 jobs:
   process:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # For pushing back
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -19,15 +20,17 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install pandas
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas
 
       - name: Run processing script
         run: python stadfangaskra.py
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
           git pull origin main --rebase
           git add stadfangaskra_trimmed.csv icelandic_addresses.csv || true
           git commit -m "Weekly update: Processed Icelandic addresses" || echo "No changes to commit"
