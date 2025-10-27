@@ -19,6 +19,8 @@ jobs:
       run: pip install requests beautifulsoup4
     - name: Run script
       run: python manutd.py
+    - name: List files for debugging
+      run: ls -l
     - name: Commit and push changes
       run: |
         git config --global user.name "GitHub Action"
