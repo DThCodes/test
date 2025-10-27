@@ -186,7 +186,7 @@ if response.status_code == 200:
         df['ID'] = df.apply(generate_id, axis=1)
 
         # Ensure 'Stöð' column is string type for final output and replace "nan" with empty string
-        df['Stöð'] = df['Stöð'].astype(str).replace('\.0$', '', regex=True).replace('nan', '')
+        df['Stöð'] = df['Stöð'].astype(str).replace(r'\.0$', '', regex=True).replace('nan', '')
 
 
         # Group by 'ID' to find the min and max dates for each unique ID
