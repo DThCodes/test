@@ -1,3 +1,5 @@
+name: staðfangaskrá
+
 on:
   schedule:
     - cron: '0 0 * * 0'  # Runs every Sunday at 00:00 UTC
