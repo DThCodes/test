@@ -1,4 +1,4 @@
-name: Run Combined Script
+name: man utd Script
 
 on:
   schedule:
