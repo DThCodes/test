@@ -28,6 +28,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
+          git pull origin main --rebase
           git add stadfangaskra_trimmed.csv icelandic_addresses.csv || true
           git commit -m "Weekly update: Processed Icelandic addresses" || echo "No changes to commit"
-          git push || echo "No changes to push"
+          git push origin main || echo "No changes to push"
