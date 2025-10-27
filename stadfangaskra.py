@@ -11,9 +11,9 @@ selected_columns_df_a['HEITI_TGF'] = selected_columns_df_a.groupby(['POSTNR', 'H
 
 
 # Save the new DataFrame to a CSV file for part a
-selected_columns_df_a.to_csv('trimmed_stadfangaskra.csv', index=False)
+selected_columns_df_a.to_csv('stadfangaskra_trimmed.csv', index=False)
 
-print("New CSV file 'trimmed_stadfangaskra.csv' created successfully!")
+print("New CSV file 'stadfangaskra_trimmed.csv' created successfully!")
 
 # Select the desired columns for part b
 selected_columns_df_b = df[['POSTNR', 'HEITI_NF', 'HEITI_TGF', 'HUSMERKING']].copy()
@@ -38,6 +38,6 @@ selected_columns_df_b = selected_columns_df_b.sort_values(by=['POSTNR', 'HEITI_N
 
 
 # Save the new DataFrame to a CSV file for part b
-selected_columns_df_b.to_csv('addresses.csv', index=False)
+selected_columns_df_b.to_csv('icelandic_addresses.csv', index=False)
 
-print("New CSV file 'addresses.csv' created successfully!")
+print("New CSV file 'icelandic_addresses.csv' created successfully!")
