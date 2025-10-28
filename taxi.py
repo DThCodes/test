@@ -1,5 +1,3 @@
-from IPython import get_ipython
-from IPython.display import display
 import requests
 from bs4 import BeautifulSoup
 import csv
