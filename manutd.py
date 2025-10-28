@@ -116,7 +116,7 @@ else:
 # --- Part A: Write to manchester_united_data.csv ---
 csv_filename_data = "manchester_united_data.csv"
 header_data = ["season", "position", "", "team", "played", "won", "drawn", "lost", "goals", "goal difference", "points", "goals for", "goals against", "points per game", "last result", "form", "gf", "ga", "games scored in", "clean sheets"]
-new_row_data = [] # Initialize new_row_data
+data_to_write = [] # Initialize data_to_write here
 
 if extracted_data:
     try:
@@ -233,7 +233,7 @@ if extracted_data:
         # Apply the function to create 'last result' column on temp_df_data
         temp_df_data['last result'] = temp_df_data.apply(lambda row: calculate_last_result(row, temp_df_data), axis=1)
 
-        # Function to calculate 'form' (newest result first, oldest last, max 5 results)
+        # Function to calculate 'form' (oldest result first, newest last, max 5 results)
         def calculate_form(row, df):
             if pd.isna(row['played']) or row['played'] == 0:
                 return ''
@@ -251,11 +251,9 @@ if extracted_data:
             # Get results in chronological order (oldest to newest)
             results = form_df['last result'].tolist()
 
-            # Reverse the list to get newest first
-            results.reverse()
-
-            # Join with hyphens
+            # Join with hyphens (oldest first, newest last)
             return "-".join(results)
+
 
         # Apply the function to create 'form' column on temp_df_data
         temp_df_data['form'] = temp_df_data.apply(lambda row: calculate_form(row, temp_df_data), axis=1)
