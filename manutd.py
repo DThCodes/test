@@ -134,9 +134,8 @@ if extracted_data:
 
         points_per_game = round(points / played, 2) if played > 0 else 0 # Added rounding
 
-        # Construct the new row for _data.csv with the desired columns and order
-        # Desired order: season, position, "", team, played, won, drawn, lost, goals, goal difference, points, goals for, goals against, points per game
-        new_row_data_base = [
+        # Construct the new row data as a list with the desired columns and order
+        new_row_list = [
             season_string,          # season
             extracted_data[0],      # position
             "",                     # empty column
@@ -153,49 +152,42 @@ if extracted_data:
             points_per_game         # points per game (calculated)
         ]
 
-        # Load existing data to calculate form, gf, ga, games scored in, and clean sheets
-        existing_data_list = []
-        if os.path.exists(csv_filename_data):
-            with open(csv_filename_data, 'r', newline='') as csvfile:
-                reader = csv.reader(csvfile)
-                try:
-                    # Skip the header row when reading existing data if it exists
-                    header_row = next(reader)
-                    if header_row != header_data:
-                         existing_data_list.append(header_row) # Keep non-matching header
-                    for row in reader:
-                        existing_data_list.append(row)
-                except csv.Error as e:
-                    print(f"Error reading CSV file {csv_filename_data}: {e}")
-                    existing_data_list = [] # Reset existing_data if there's an error
-                except StopIteration:
-                     pass # Handle empty file case
+        # Load existing data into a DataFrame
+        existing_df_data = pd.DataFrame(columns=header_data)
+        if os.path.exists(csv_filename_data) and os.stat(csv_filename_data).st_size > 0:
+            try:
+                existing_df_data = pd.read_csv(csv_filename_data)
+                # Ensure existing_df_data has all columns from header_data
+                for col in header_data:
+                    if col not in existing_df_data.columns:
+                        existing_df_data[col] = np.nan
+            except Exception as e:
+                print(f"Error reading existing CSV file {csv_filename_data}: {e}")
+                existing_df_data = pd.DataFrame(columns=header_data) # Reset if there's an error
 
-        # Create a temporary DataFrame with existing and new data to calculate indicators
-        # Ensure all rows in existing_data_list have the same number of columns as header_data
-        padded_existing_data = []
-        for row in existing_data_list:
-            if len(row) < len(header_data):
-                padded_row = row + [''] * (len(header_data) - len(row))
-                padded_existing_data.append(padded_row)
-            else:
-                padded_existing_data.append(row)
+        # Ensure 'played' column in existing_df_data is numeric before filtering
+        existing_df_data['played'] = pd.to_numeric(existing_df_data['played'], errors='coerce')
 
-        temp_df_data = pd.DataFrame(padded_existing_data, columns=header_data)
+        # Filter out the existing row for the current season and played value, if it exists
+        filtered_df_data = existing_df_data[(existing_df_data['season'] != season_string) | (existing_df_data['played'] != played)]
 
-        # Ensure temp_df_data has all columns from header_data before concatenation
-        for col in header_data:
-            if col not in temp_df_data.columns:
-                temp_df_data[col] = np.nan # Add missing columns with NaN values
+        # Create a DataFrame for the new row from the list
+        new_row_df = pd.DataFrame([new_row_list], columns=header_data[:14])
 
-        # Create a DataFrame for the new row with all header columns
-        new_row_df = pd.DataFrame([new_row_data_base], columns=header_data[:14])
         # Add placeholder columns for the calculated fields (last result, form, gf, ga, games scored in, clean sheets)
-        for col in header_data[14:]:
-            new_row_df[col] = np.nan
+        # These columns should be in header_data[14:]
+        calculated_cols_placeholder_data = {col: np.nan for col in header_data[14:]}
+        new_row_df = new_row_df.assign(**calculated_cols_placeholder_data)
 
 
-        temp_df_data = pd.concat([temp_df_data, new_row_df], ignore_index=True)
+        # Ensure all columns from header_data are present in new_row_df before concatenation
+        for col in header_data:
+            if col not in new_row_df.columns:
+                new_row_df[col] = np.nan # Add missing columns with NaN placeholders
+
+
+        # Concatenate filtered existing data and the new row
+        temp_df_data = pd.concat([filtered_df_data, new_row_df], ignore_index=True)
 
         # Ensure necessary columns are numeric for calculations
         temp_df_data['played'] = pd.to_numeric(temp_df_data['played'], errors='coerce')
@@ -295,7 +287,7 @@ if extracted_data:
                  return 0 # Return 0 for played=0 or NaN
             if row['played'] == 1:
                 goals_against = row['goals against']
-                return 1 if goals_against > 0 else 0
+                return 1 if goals_against > 0 else 0 # This should be 1 if goals_against > 0, not always 1
             else:
                 current_played = row['played']
                 current_season = row['season']
@@ -318,7 +310,7 @@ if extracted_data:
             current_season = None
             for idx, row in df.iterrows():
                 if pd.isna(row['played']):
-                    games_scored.append('')
+                    games_scored.append(np.nan) # Use NaN for missing played value
                     continue
                 if row['season'] != current_season or row['played'] == 1:
                     current_sum = 1 if row['gf'] == 1 else 0
@@ -338,7 +330,7 @@ if extracted_data:
             current_season = None
             for idx, row in df.iterrows():
                 if pd.isna(row['played']):
-                    clean_sheets.append('')
+                    clean_sheets.append(np.nan) # Use NaN for missing played value
                     continue
                 if row['season'] != current_season or row['played'] == 1:
                     current_sum = 1 if row['ga'] == 0 else 0  # 1 if no goals conceded, 0 if conceded
@@ -352,69 +344,54 @@ if extracted_data:
         temp_df_data['clean sheets'] = calculate_clean_sheets(temp_df_data)
 
 
-        # Extract the last row (the newly added data with calculated indicators)
-        new_row_data = temp_df_data.iloc[-1].tolist()
+        # Prepare data to be written to CSV as a list of lists
+        # Ensure correct order and handle NaN values for CSV
+        data_to_write = [header_data] # Start with the header
+        for index, row in temp_df_data.iterrows():
+            # Convert row to list, handling potential NaN values by converting them to empty strings or 0 as appropriate
+            # Ensure the empty string column is preserved
+            csv_row = [
+                row['season'],
+                row['position'],
+                "", # Explicitly keep this column as an empty string
+                row['team'],
+                row['played'],
+                row['won'],
+                row['drawn'],
+                row['lost'],
+                row['goals'],
+                row['goal difference'],
+                row['points'],
+                row['goals for'],
+                row['goals against'],
+                row['points per game'],
+                row['last result'] if pd.notna(row['last result']) else '', # Handle NaN for string columns
+                row['form'] if pd.notna(row['form']) else '', # Handle NaN for string columns
+                int(row['gf']) if pd.notna(row['gf']) else 0, # Convert NaN to 0 for integer columns
+                int(row['ga']) if pd.notna(row['ga']) else 0, # Convert NaN to 0 for integer columns
+                int(row['games scored in']) if pd.notna(row['games scored in']) else 0, # Convert NaN to 0 for integer columns
+                int(row['clean sheets']) if pd.notna(row['clean sheets']) else 0 # Convert NaN to 0 for integer columns
+            ]
+            data_to_write.append(csv_row)
+
 
     except (ValueError, IndexError, KeyError) as e:
-        print(f"Error calculating new columns for {csv_filename_data}: {e}")
-        new_row_data = [] # If there's an error, new_row_data will remain empty or contain partial data.
+        print(f"Error processing data for {csv_filename_data}: {e}")
+        data_to_write = [] # Clear data to write if there's an error
 
 
-# Check if the CSV file exists and read all rows
-existing_data_data = []
-if os.path.exists(csv_filename_data):
-    with open(csv_filename_data, 'r', newline='') as csvfile:
-        reader = csv.reader(csvfile)
-        try:
-            # Skip the header row when reading existing data if it exists
-            header_row = next(reader)
-            if header_row != header_data:
-                 existing_data_data.append(header_row) # Keep non-matching header
-            for row in reader:
-                existing_data_data.append(row)
-        except csv.Error as e:
-            print(f"Error reading CSV file {csv_filename_data}: {e}")
-            existing_data_data = [] # Reset existing_data if there's an error
-        except StopIteration:
-             pass # Handle empty file case
-
-# Write to file
-if new_row_data: # Check if new_row_data was successfully created
-    # Check if a row with the same season and played value already exists
-    row_exists = False
-    if existing_data_data:
-        for row in existing_data_data:
-            if len(row) > 4 and row[0] == season_string and row[4] == str(played):
-                row_exists = True
-                break
-
-    if not row_exists:
-        with open(csv_filename_data, 'a', newline='') as csvfile: # Use 'a' to append
+# Write to file using the csv module
+if data_to_write: # Check if data_to_write was successfully created
+     try:
+        with open(csv_filename_data, 'w', newline='') as csvfile: # Use 'w' to overwrite
             writer = csv.writer(csvfile)
-            # Write header only if the file is empty
-            if not os.path.exists(csv_filename_data) or os.stat(csv_filename_data).st_size == 0:
-                 writer.writerow(header_data)
-                 print(f"Header successfully written to {csv_filename_data}")
-
-            writer.writerow(new_row_data) # Write the new row
-            print(f"New data successfully appended to {csv_filename_data}.")
-    elif new_row_data != existing_data_data[-1]:
-         # If row exists and is different from the last row, overwrite the file
-         with open(csv_filename_data, 'w', newline='') as csvfile: # Use 'w' to overwrite
-            writer = csv.writer(csvfile)
-            writer.writerow(header_data) # Always write the header
-            # Write existing data back, excluding the old row for the current season and played value
-            for row in existing_data_data:
-                 if len(row) > 4 and (row[0] != season_string or row[4] != str(played)):
-                    writer.writerow(row)
-            writer.writerow(new_row_data) # Write the new row
-            print(f"Existing row for season {season_string} and played {played} updated in {csv_filename_data}.")
-    else:
-        print(f"New data is the same as the last row or existing row for season {season_string} and played {played} in {csv_filename_data}. Not appending or updating.")
-
+            writer.writerows(data_to_write)
+        print(f"Data successfully written to {csv_filename_data}.")
+     except Exception as e:
+        print(f"Error writing to {csv_filename_data}: {e}")
 
 else:
-    print(f"No data to write to {csv_filename_data} due to calculation errors or no extracted data.")
+    print(f"No data to write to {csv_filename_data} due to processing errors.")
 
 
 # --- Part B: Write to manchester_united_data_sheets.csv ---
@@ -435,7 +412,7 @@ if extracted_data:
             extracted_data[0],      # position
             "",                     # empty column
             extracted_data[2],      # team
-            extracted_data[3],      # played
+            extracted_data[3],       # played
             extracted_data[4],      # won
             extracted_data[5],      # drawn
             extracted_data[6],      # lost
