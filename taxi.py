@@ -119,7 +119,6 @@ if response.status_code == 200:
 
 
     # Part (b): Update the summary CSV file
-
     summary_filename = "taxi_licenses_summary.csv"
 
     # Define the columns expected in the summary file
