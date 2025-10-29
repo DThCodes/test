@@ -6,6 +6,9 @@ from datetime import datetime
 import os
 import pandas as pd # Import pandas for the second part
 
+# Create Data directory if it doesn't exist
+os.makedirs('Data', exist_ok=True)
+
 # Define the desired output column names and their corresponding expected scraped header names
 OUTPUT_COLUMN_MAPPING = {
     "Nafn": "Nafn",
@@ -120,7 +123,7 @@ if response.status_code == 200:
 
     # Part (b): Update the summary CSV file
 
-    summary_filename = "taxi_licenses_summary.csv"
+    summary_filename = "Data/taxi_licenses_summary.csv"
 
     # Define the columns expected in the summary file
     summary_cols = ['Nafn', 'First appearance', 'Last appearance', 'ID']
@@ -201,9 +204,9 @@ if response.status_code == 200:
     print(f"Updated summary data successfully saved to {summary_filename}")
 
     # Part (c): Save daily data to a dated file and move to year directory
-    daily_filename_temp = "taxi_licenses_daily_scrape_temp.csv" # Temporary filename for daily data
+    daily_filename_temp = "Data/taxi_licenses_daily_scrape_temp.csv" # Temporary filename for daily data
     dated_filename = f"taxi_license_{current_date_yyyymmdd}.csv" # Desired dated filename
-    year_directory = f"./{current_year}"
+    year_directory = f"Data/{current_year}"
     dated_filepath = os.path.join(year_directory, dated_filename)
 
     try:
