@@ -8,8 +8,16 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
-
+    # Skip job if current hour is 00 to 11 (UTC)
+    if: ${{ steps.get-hour.outputs.hour >= 12 }}
     steps:
+    - name: Get current UTC hour
+      id: get-hour
+      run: echo "hour=$(date -u +%H)" >> $GITHUB_OUTPUT
+
+    - name: Debug current hour
+      run: echo "Current UTC hour: ${{ steps.get-hour.outputs.hour }}"
+
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
