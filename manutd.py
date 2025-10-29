@@ -7,9 +7,6 @@ import os
 import pandas as pd
 import numpy as np
 
-# Create Data directory if it doesn't exist
-os.makedirs('Data', exist_ok=True)
-
 # Define start and end months for the season
 SEASON_START_MONTH = 8 # August
 SEASON_END_MONTH = 6 # June
@@ -117,7 +114,7 @@ else:
 
 
 # --- Part A: Write to manchester_united_data.csv ---
-csv_filename_data = "Data/manchester_united_data.csv"
+csv_filename_data = "manchester_united_data.csv"
 header_data = ["season", "position", "", "team", "played", "won", "drawn", "lost", "goals", "goal difference", "points", "goals for", "goals against", "points per game", "last result", "form", "gf", "ga", "games scored in", "clean sheets"]
 data_to_write = [] # Initialize data_to_write here
 
@@ -396,7 +393,7 @@ else:
 
 
 # --- Part B: Write to manchester_united_data_sheets.csv ---
-csv_filename_sheets = "Data/manchester_united_data_sheets.csv"
+csv_filename_sheets = "manchester_united_data_sheets.csv"
 header_sheets = ["season", "position", "", "team", "played", "won", "drawn", "lost", "goals", "goal difference", "points"]
 new_row_sheets = [] # Initialize new_row_sheets
 
