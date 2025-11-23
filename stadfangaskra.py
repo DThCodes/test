@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the original CSV file, specifying 'HUSMERKING' and 'SVFNR' as string columns
-df = pd.read_csv('https://fasteignaskra.is/Stadfangaskra.csv', dtype={'HUSMERKING': 'string', 'SVFNR': 'string'})
+df = pd.read_csv('https://hmsstgsftpprodweu001.blob.core.windows.net/fasteignaskra/Stadfangaskra.csv', dtype={'HUSMERKING': 'string', 'SVFNR': 'string'})
 
 # Select the desired columns for part a
 selected_columns_df_a = df[['SVFNR', 'POSTNR', 'HEITI_NF', 'HEITI_TGF', 'HUSMERKING']].copy()
