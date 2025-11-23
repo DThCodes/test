@@ -1,382 +1,754 @@
 [
     {
-        "title": "Víkin",
+        "title": "Wicked: For Good",
         "year": "2025",
-        "imdb_id": "tt35308819",
-        "imdb_rating": "",
+        "imdb_id": "tt19847976",
+        "imdb_rating": "7.4",
         "rotten_tomatoes_rating": "N/A",
         "showings": [
             {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
                 "theater": "Sambíóin Kringlunni",
-                "time": "14:40",
+                "time": "12:20",
                 "screen": "Ásberg"
             },
             {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
                 "theater": "Sambíóin Kringlunni",
-                "time": "17:00",
-                "screen": "Salur 1"
+                "time": "12:20",
+                "screen": "Salur 3"
             },
             {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
                 "theater": "Sambíóin Kringlunni",
-                "time": "19:00",
-                "screen": "Salur 1"
+                "time": "15:10",
+                "screen": "Salur 3"
             },
             {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
                 "theater": "Sambíóin Kringlunni",
-                "time": "19:20",
+                "time": "15:10",
                 "screen": "Ásberg"
             },
             {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Kringlunni",
+                "time": "15:30",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Kringlunni",
+                "time": "18:00",
+                "screen": "Ásberg"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Kringlunni",
+                "time": "18:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Kringlunni",
+                "time": "18:20",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-23",
                 "theater": "Sambíóin Kringlunni",
                 "time": "21:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "12.50",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "13.00",
+                "screen": "MAX"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "13.10",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "15.50",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "16.00",
+                "screen": "MAX"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "16.10",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "18.45",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "19.10",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "21.10",
+                "screen": "MAX"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "13:00",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "14:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
                 "time": "16:00",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "18:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "22:10",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
                 "time": "17:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
-                "time": "22:10",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "18:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "20:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:10",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "19:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "21:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Akureyri",
+                "time": "13:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Akureyri",
                 "time": "16:00",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "18:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "20:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "22:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:40",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "17:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Akureyri",
                 "time": "19:00",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:00",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
+                "time": "13:00",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "18:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "20:00",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
+                "time": "14:30",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:10",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
+                "time": "16:40",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
+                "time": "16:50",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
+                "time": "17:20",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:20",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
+                "time": "20:10",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Laugarásbíó",
+                "time": "14:00",
+                "screen": "AXL"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Laugarásbíó",
+                "time": "14:00",
+                "screen": "A salur"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Laugarásbíó",
+                "time": "17:00",
+                "screen": "AXL"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Laugarásbíó",
+                "time": "17:00",
+                "screen": "A salur"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Laugarásbíó",
+                "time": "20:00",
+                "screen": "AXL"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
+                "time": "14:30",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-02",
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
+                "time": "15:10",
+                "screen": "Ásberg"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
+                "time": "16:10",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
+                "time": "18:00",
+                "screen": "Ásberg"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
+                "time": "18:20",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:10",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Smárabíó",
+                "time": "15.00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Smárabíó",
+                "time": "15.00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Smárabíó",
+                "time": "18.00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Smárabíó",
+                "time": "20.00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Álfabakka",
+                "time": "16:40",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Álfabakka",
+                "time": "16:40",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Álfabakka",
+                "time": "17:20",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:20",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Álfabakka",
+                "time": "20:10",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Akureyri",
+                "time": "17:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-24",
                 "theater": "Sambíóin Akureyri",
                 "time": "20:00",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:40",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "15:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
+                "date": "2025-11-24",
+                "theater": "Sambíóin Egilshöll",
                 "time": "17:00",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "19:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "19:20",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "18:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "20:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "22:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Akureyri",
+                "date": "2025-11-24",
+                "theater": "Sambíóin Egilshöll",
                 "time": "19:30",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-03",
+                "date": "2025-11-24",
                 "theater": "Sambíóin Egilshöll",
                 "time": "22:00",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:40",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "15:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:40",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
+                "date": "2025-11-24",
+                "theater": "Laugarásbíó",
                 "time": "17:00",
-                "screen": "Salur 1"
+                "screen": "AXL"
             },
             {
-                "date": "2025-11-04",
+                "date": "2025-11-24",
+                "theater": "Laugarásbíó",
+                "time": "17:00",
+                "screen": "A salur"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Laugarásbíó",
+                "time": "20:00",
+                "screen": "AXL"
+            },
+            {
+                "date": "2025-11-25",
                 "theater": "Sambíóin Kringlunni",
-                "time": "19:00",
+                "time": "15:10",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "15:10",
+                "screen": "Ásberg"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "15:20",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-04",
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "18:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "18:00",
+                "screen": "Ásberg"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "18:10",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-25",
                 "theater": "Sambíóin Kringlunni",
                 "time": "21:00",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Egilshöll",
-                "time": "18:00",
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "15.00",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-04",
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "15.00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "15.20",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "18.00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "20.00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "20.30",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Álfabakka",
+                "time": "16:40",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Álfabakka",
+                "time": "16:40",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Álfabakka",
+                "time": "17:20",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:20",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Álfabakka",
+                "time": "20:10",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-25",
                 "theater": "Sambíóin Egilshöll",
                 "time": "20:00",
-                "screen": "Salur 2"
+                "screen": "Salur 1"
             },
             {
-                "date": "2025-11-04",
+                "date": "2025-11-25",
                 "theater": "Sambíóin Egilshöll",
-                "time": "22:10",
+                "time": "22:00",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "18:00",
-                "screen": "Salur 1"
+                "date": "2025-11-25",
+                "theater": "Laugarásbíó",
+                "time": "17:00",
+                "screen": "AXL"
             },
             {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
+                "date": "2025-11-25",
+                "theater": "Laugarásbíó",
+                "time": "17:00",
+                "screen": "A salur"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Laugarásbíó",
+                "time": "20:00",
+                "screen": "AXL"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Akureyri",
+                "time": "17:30",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Akureyri",
                 "time": "20:00",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "22:00",
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "14:30",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "15:10",
+                "screen": "Ásberg"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "16:10",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-04",
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "18:00",
+                "screen": "Ásberg"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "18:20",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:10",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "15.00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "15.00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "15.20",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "18.00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "20.30",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "21.00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Álfabakka",
+                "time": "16:40",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Álfabakka",
+                "time": "16:40",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Álfabakka",
+                "time": "17:20",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:20",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Álfabakka",
+                "time": "20:10",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Egilshöll",
+                "time": "19:30",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
                 "theater": "Sambíóin Akureyri",
                 "time": "20:00",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:40",
-                "screen": "Ásberg"
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "15.00",
+                "screen": "Salur 5"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "15:00",
-                "screen": "Salur 1"
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "16.00",
+                "screen": "Lúxus"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "18.00",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "21.00",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Akureyri",
                 "time": "17:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Akureyri",
+                "time": "19:20",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "19:00",
-                "screen": "Salur 3"
+                "date": "2025-11-27",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
+                "screen": "Salur 2"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
+                "date": "2025-11-27",
+                "theater": "Sambíóin Egilshöll",
                 "time": "19:20",
-                "screen": "Ásberg"
+                "screen": "Salur 1"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
+                "date": "2025-11-27",
+                "theater": "Sambíóin Egilshöll",
                 "time": "21:20",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Egilshöll",
-                "time": "18:00",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-05",
+                "date": "2025-11-28",
+                "theater": "Smárabíó",
+                "time": "16.00",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Egilshöll",
+                "time": "19:20",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Egilshöll",
+                "time": "21:20",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-28",
                 "theater": "Sambíóin Akureyri",
-                "time": "18:00",
-                "screen": "Salur 1"
+                "time": "17:30",
+                "screen": "Salur 2"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "18:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "20:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "22:00",
-                "screen": "Salur 1"
+                "date": "2025-11-28",
+                "theater": "Sambíóin Akureyri",
+                "time": "20:30",
+                "screen": "Salur 2"
             }
         ]
     },
@@ -384,568 +756,649 @@
         "title": "Skrímslasveitin",
         "year": "2025",
         "imdb_id": "tt26720001",
-        "imdb_rating": "6.2",
-        "rotten_tomatoes_rating": "N/A",
+        "imdb_rating": "5.9",
+        "rotten_tomatoes_rating": "69%",
         "showings": [
             {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "12:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "14:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "16:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
-                "time": "13:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
-                "time": "15:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
-                "time": "17:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "13:15",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "15:15",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "17:50",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
                 "theater": "Smárabíó",
-                "time": "13.00",
-                "screen": "MAX"
+                "time": "12.50",
+                "screen": "Salur 5"
             },
             {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "15.10",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "17.25",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "12:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "14:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "16:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Akureyri",
-                "time": "13:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Akureyri",
-                "time": "15:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Akureyri",
-                "time": "17:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "13:15",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "15:15",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "17:50",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "13.00",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "15.10",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "17.25",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
+                "date": "2025-11-23",
                 "theater": "Smárabíó",
                 "time": "15.00",
-                "screen": "MAX"
+                "screen": "Salur 5"
             },
             {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "17.20",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Akureyri",
-                "time": "17:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
+                "date": "2025-11-23",
                 "theater": "Sambíóin Egilshöll",
-                "time": "17:30",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Laugarásbíó",
-                "time": "17:50",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "15.00",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "17.20",
+                "time": "13:00",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-04",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "15:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-23",
                 "theater": "Sambíóin Egilshöll",
                 "time": "17:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Akureyri",
-                "time": "17:30",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Laugarásbíó",
-                "time": "17:50",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "15.00",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "17.20",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-05",
+                "date": "2025-11-23",
+                "theater": "Laugarásbíó",
+                "time": "13:30",
+                "screen": "B salur"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Laugarásbíó",
+                "time": "15:30",
+                "screen": "B salur"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Akureyri",
+                "time": "15:15",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
                 "theater": "Sambíóin Egilshöll",
                 "time": "17:30",
-                "screen": "Salur 1"
+                "screen": "Salur 4"
             }
         ]
     },
     {
-        "title": "Regretting You",
+        "title": "The Running Man",
         "year": "2025",
-        "imdb_id": "tt33088452",
-        "imdb_rating": "6.3",
-        "rotten_tomatoes_rating": "30%",
+        "imdb_id": "tt14107334",
+        "imdb_rating": "6.8",
+        "rotten_tomatoes_rating": "66%",
         "showings": [
             {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:40",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Akureyri",
+                "time": "19:20",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "19:00",
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "19.20",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "22.05",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
                 "theater": "Sambíóin Kringlunni",
                 "time": "21:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:40",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:40",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:20",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "17.05",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "19.40",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "22.15",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "19:30",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
-                "time": "19:40",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "14:15",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:40",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:00",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:20",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:40",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "19:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:20",
                 "screen": "Ásberg"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "17.05",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:15",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
+                "time": "22:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Egilshöll",
+                "time": "19:15",
                 "screen": "Salur 4"
             },
             {
-                "date": "2025-11-02",
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:00",
+                "screen": "Ásberg"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:30",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Álfabakka",
+                "time": "21:50",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
                 "theater": "Smárabíó",
-                "time": "19.40",
+                "time": "21.00",
                 "screen": "Salur 4"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "22.15",
-                "screen": "Salur 5"
+                "date": "2025-11-25",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:30",
+                "screen": "Salur 2"
             },
             {
-                "date": "2025-11-02",
+                "date": "2025-11-25",
                 "theater": "Sambíóin Egilshöll",
                 "time": "19:30",
                 "screen": "Salur 4"
             },
             {
-                "date": "2025-11-02",
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "20:50",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:00",
+                "screen": "Ásberg"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Álfabakka",
+                "time": "21:50",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "21.00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-26",
                 "theater": "Sambíóin Egilshöll",
-                "time": "22:00",
+                "time": "19:15",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:00",
+                "screen": "Ásberg"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:40",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Álfabakka",
+                "time": "21:50",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Akureyri",
-                "time": "22:00",
-                "screen": "Salur 2"
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "22.00",
+                "screen": "Salur 5"
+            }
+        ]
+    },
+    {
+        "title": "Predator: Badlands",
+        "year": "2025",
+        "imdb_id": "tt31227572",
+        "imdb_rating": "7.5",
+        "rotten_tomatoes_rating": "85%",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
+                "time": "14:00",
+                "screen": "Lúxus VIP"
             },
             {
-                "date": "2025-11-03",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
+                "time": "22:00",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-23",
                 "theater": "Sambíóin Kringlunni",
                 "time": "16:40",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-03",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:20",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Akureyri",
+                "time": "22:10",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
                 "theater": "Sambíóin Kringlunni",
+                "time": "16:40",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Álfabakka",
+                "time": "22:00",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Egilshöll",
+                "time": "19:40",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "16:40",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Álfabakka",
+                "time": "22:00",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:10",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "16:40",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Akureyri",
+                "time": "17:30",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Álfabakka",
+                "time": "22:00",
+                "screen": "Lúxus VIP"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Egilshöll",
+                "time": "19:45",
+                "screen": "Salur 3"
+            }
+        ]
+    },
+    {
+        "title": "Jujutsu Kaisen: Execution - Shibuya Incident x The Culling Game Begins",
+        "year": "2025",
+        "imdb_id": "tt38121182",
+        "imdb_rating": "6.8",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Akureyri",
+                "time": "17:20",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "17.20",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "19.00",
+                "screen": "MAX"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "22.10",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
                 "time": "19:00",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:50",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:15",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:15",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Smárabíó",
+                "time": "18.00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Smárabíó",
+                "time": "22.00",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "18.00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "18.20",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "22.00",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Egilshöll",
+                "time": "20:20",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Akureyri",
+                "time": "20:30",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:15",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:15",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Akureyri",
+                "time": "17:50",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "18.00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "18.20",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "22.10",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:00",
-                "screen": "Lúxus VIP"
+                "date": "2025-11-27",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:00",
+                "screen": "Salur 2"
             },
             {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:20",
+                "date": "2025-11-27",
+                "theater": "Sambíóin Akureyri",
+                "time": "21:50",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-03",
+                "date": "2025-11-28",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:00",
+                "screen": "Salur 2"
+            }
+        ]
+    },
+    {
+        "title": "Now You See Me: Now You Don't",
+        "year": "2025",
+        "imdb_id": "tt4712810",
+        "imdb_rating": "6.3",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Laugarásbíó",
+                "time": "17:30",
+                "screen": "B salur"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Laugarásbíó",
+                "time": "20:00",
+                "screen": "A salur"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "19:40",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "19.30",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "22.00",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Akureyri",
+                "time": "22:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Akureyri",
+                "time": "17:30",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Laugarásbíó",
+                "time": "17:30",
+                "screen": "B salur"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Laugarásbíó",
+                "time": "20:00",
+                "screen": "A salur"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Smárabíó",
+                "time": "19.30",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:30",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-25",
                 "theater": "Sambíóin Akureyri",
                 "time": "17:30",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "17.10",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "19.50",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Egilshöll",
-                "time": "19:30",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:40",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "18:40",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "19:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:50",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:00",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:20",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Akureyri",
+                "date": "2025-11-25",
+                "theater": "Laugarásbíó",
                 "time": "17:30",
+                "screen": "B salur"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Laugarásbíó",
+                "time": "20:00",
+                "screen": "A salur"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "19.30",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-04",
+                "date": "2025-11-26",
                 "theater": "Smárabíó",
-                "time": "17.10",
+                "time": "19.30",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
                 "screen": "Salur 4"
             },
             {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "19.50",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-04",
+                "date": "2025-11-27",
                 "theater": "Sambíóin Egilshöll",
                 "time": "19:30",
                 "screen": "Salur 4"
             },
             {
-                "date": "2025-11-04",
+                "date": "2025-11-28",
                 "theater": "Sambíóin Egilshöll",
-                "time": "22:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:40",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "19:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:50",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:00",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:20",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "17.10",
+                "time": "17:00",
                 "screen": "Salur 4"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "19.50",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Akureyri",
-                "time": "18:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
+                "date": "2025-11-28",
                 "theater": "Sambíóin Egilshöll",
-                "time": "18:00",
+                "time": "19:30",
                 "screen": "Salur 4"
             }
         ]
@@ -958,526 +1411,52 @@
         "rotten_tomatoes_rating": "N/A",
         "showings": [
             {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
                 "theater": "Sambíóin Kringlunni",
-                "time": "10:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "11:10",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "12:20",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "13:30",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:40",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
                 "time": "12:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
-                "time": "14:20",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "13:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "14:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "15:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "10:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "11:10",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "12:10",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
+                "date": "2025-11-23",
                 "theater": "Sambíóin Kringlunni",
                 "time": "13:10",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-02",
+                "date": "2025-11-23",
                 "theater": "Sambíóin Kringlunni",
-                "time": "13:30",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:40",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Akureyri",
-                "time": "12:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Akureyri",
                 "time": "14:20",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-02",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Kringlunni",
+                "time": "15:30",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-23",
                 "theater": "Sambíóin Álfabakka",
-                "time": "13:00",
+                "time": "13:20",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
+                "time": "15:10",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "14:00",
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "14:20",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "15:00",
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "15:10",
                 "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:50",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:50",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:50",
-                "screen": "Salur 1"
-            }
-        ]
-    },
-    {
-        "title": "Dúkkuhús Gabbýjar: Bíómyndin",
-        "year": "2025",
-        "imdb_id": "tt32214143",
-        "imdb_rating": "5.6",
-        "rotten_tomatoes_rating": "82%",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "12:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "14:15",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "12.50",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "15.10",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "13:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "15:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "14:00",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:15",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
-                "time": "15:20",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "12:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "14:15",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "12.50",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "15.10",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "13:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "15:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "14:00",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:15",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Akureyri",
-                "time": "15:20",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:50",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:50",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:15",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:50",
-                "screen": "Salur 2"
-            }
-        ]
-    },
-    {
-        "title": "Bugonia",
-        "year": "2025",
-        "imdb_id": "tt12300742",
-        "imdb_rating": "7.5",
-        "rotten_tomatoes_rating": "90%",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "14:15",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "17:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:00",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "21:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:10",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "17:15",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "19:45",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "22:15",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
-                "time": "19:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:40",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "17:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "22:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "17:15",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "19:45",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "22:15",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "18:30",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:40",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:40",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "21:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Laugarásbíó",
-                "time": "17:15",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Laugarásbíó",
-                "time": "19:45",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Laugarásbíó",
-                "time": "22:15",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:15",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:40",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "21:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Laugarásbíó",
-                "time": "17:15",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Laugarásbíó",
-                "time": "19:45",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Laugarásbíó",
-                "time": "22:15",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:15",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "16:40",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "19:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "21:30",
-                "screen": "Salur 2"
             }
         ]
     },
@@ -1486,1501 +1465,271 @@
         "year": "2025",
         "imdb_id": "tt30017619",
         "imdb_rating": "7",
-        "rotten_tomatoes_rating": "88%",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
-                "time": "12:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "12:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "12.50",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "15.10",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "13:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "15:20",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "13:30",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "15:40",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Akureyri",
-                "time": "12:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "12:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "12.50",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "15.10",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "13:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "15:20",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "13:30",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "15:40",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "15.00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "15.00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "15.00",
-                "screen": "Salur 2"
-            }
-        ]
-    },
-    {
-        "title": "Chainsaw Man – The Movie: Reze Arc",
-        "year": "2025",
-        "imdb_id": "tt30472557",
-        "imdb_rating": "8.6",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "16.40",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "17.15",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "22.00",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "17:40",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "20:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:15",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Akureyri",
-                "time": "21:40",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "16.40",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "17.15",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "22.00",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "17:40",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "20:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:15",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Akureyri",
-                "time": "19:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "16.30",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "17.10",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "19.40",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "22.00",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Egilshöll",
-                "time": "17:40",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Egilshöll",
-                "time": "20:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:15",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Akureyri",
-                "time": "21:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "16.30",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "17.10",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "19.40",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "22.00",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Egilshöll",
-                "time": "17:40",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Egilshöll",
-                "time": "20:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:15",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Akureyri",
-                "time": "20:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "16.30",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "17.40",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "22.00",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Egilshöll",
-                "time": "17:40",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Egilshöll",
-                "time": "20:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:15",
-                "screen": "Salur 2"
-            }
-        ]
-    },
-    {
-        "title": "Springsteen: Deliver Me from Nowhere",
-        "year": "2025",
-        "imdb_id": "tt31923069",
-        "imdb_rating": "6.9",
-        "rotten_tomatoes_rating": "59%",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "12:00",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:40",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "18:30",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:20",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "14:30",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "17:00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:00",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:10",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "18:40",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "14:30",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "17:00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Akureyri",
-                "time": "17:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:40",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:20",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Egilshöll",
-                "time": "17:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Egilshöll",
-                "time": "17:00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "18:30",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:20",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "16:40",
-                "screen": "Ásberg"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:15",
-                "screen": "Salur 1"
-            }
-        ]
-    },
-    {
-        "title": "The Last Viking",
-        "year": "2025",
-        "imdb_id": "tt27817389",
-        "imdb_rating": "7.4",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "19:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "21:20",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "19.00",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "19.30",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "21.30",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "22.00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
-                "time": "19:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
-                "time": "21:20",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "19.00",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "19.30",
-                "screen": "MAX"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "21.30",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "22.00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Bíó Paradís",
-                "time": "16:45",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Bíó Paradís",
-                "time": "21:15",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "19.00",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "19.30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "21.30",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "22.00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Bíó Paradís",
-                "time": "16:45",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Bíó Paradís",
-                "time": "21:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "19.00",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "19.30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "21.30",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "22.00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Bíó Paradís",
-                "time": "14:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Bíó Paradís",
-                "time": "19:15",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Bíó Paradís",
-                "time": "21:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "19.00",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "19.30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "21.30",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "22.00",
-                "screen": "Salur 2"
-            }
-        ]
-    },
-    {
-        "title": "Grand Prix of Europe",
-        "year": "2025",
-        "imdb_id": "tt32897929",
-        "imdb_rating": "5.9",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "10:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "12:10",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "12:00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "12:40",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "14:40",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "10:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "12:00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "12:40",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "14:40",
-                "screen": "Salur 3"
-            }
-        ]
-    },
-    {
-        "title": "Black Phone 2",
-        "year": "2025",
-        "imdb_id": "tt29644189",
-        "imdb_rating": "6.6",
-        "rotten_tomatoes_rating": "81%",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "19:50",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "22:10",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "19.30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "22.15",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "19:50",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "22:10",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "19.30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "22.15",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Laugarásbíó",
-                "time": "17:30",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Laugarásbíó",
-                "time": "19:50",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "20.50",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "22.20",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Laugarásbíó",
-                "time": "17:30",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Laugarásbíó",
-                "time": "19:50",
-                "screen": "A salur"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "20.50",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "22.20",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Akureyri",
-                "time": "20:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "20.50",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "22.20",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "21:30",
-                "screen": "Salur 2"
-            }
-        ]
-    },
-    {
-        "title": "One Battle After Another",
-        "year": "2025",
-        "imdb_id": "tt30144839",
-        "imdb_rating": "8.2",
-        "rotten_tomatoes_rating": "96%",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "16:50",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "19:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Álfabakka",
-                "time": "21:20",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "16:50",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "19:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Akureyri",
-                "time": "21:15",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Álfabakka",
-                "time": "21:20",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Laugarásbíó",
-                "time": "20:00",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Egilshöll",
-                "time": "20:30",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Álfabakka",
-                "time": "21:20",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Egilshöll",
-                "time": "19:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Laugarásbíó",
-                "time": "20:00",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "21:20",
-                "screen": "Lúxus VIP"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Egilshöll",
-                "time": "20:30",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Álfabakka",
-                "time": "21:20",
-                "screen": "Lúxus VIP"
-            }
-        ]
-    },
-    {
-        "title": "<span class=\"fire\">E</span>",
-        "year": "2025",
-        "imdb_id": "tt31272500",
-        "imdb_rating": "8",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "14.10",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "17.30",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "19.50",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
-                "time": "14:40",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "14.10",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "17.30",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "19.50",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "16.00",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "18.30",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Bíó Paradís",
-                "time": "16:50",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "16.00",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "18.30",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "16.00",
-                "screen": "Salur 5"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "18.30",
-                "screen": "Salur 5"
-            }
-        ]
-    },
-    {
-        "title": "Einar Áskell og leynivinurinn Mangi",
-        "year": "2022",
-        "imdb_id": "tt18953378",
-        "imdb_rating": "6.7",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "10:30",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "11:30",
-                "screen": "Salur 2"
-            }
-        ]
-    },
-    {
-        "title": "Hola Frida!",
-        "year": "2024",
-        "imdb_id": "tt35683445",
-        "imdb_rating": "6.8",
         "rotten_tomatoes_rating": "87%",
         "showings": [
             {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "11:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
                 "time": "13:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
-                "time": "11:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Bíó Paradís",
-                "time": "16:45",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Bíó Paradís",
-                "time": "15:40",
-                "screen": "Salur 2"
-            }
-        ]
-    },
-    {
-        "title": "Shelby Oaks",
-        "year": "2025",
-        "imdb_id": "tt14999684",
-        "imdb_rating": "5.9",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "20:00",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Laugarásbíó",
-                "time": "22:15",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "20:00",
-                "screen": "B salur"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Laugarásbíó",
-                "time": "22:15",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Laugarásbíó",
-                "time": "22:15",
-                "screen": "AXL"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Laugarásbíó",
-                "time": "22:15",
-                "screen": "AXL"
-            }
-        ]
-    },
-    {
-        "title": "Letidýrin: Hasar í höfuðborginni",
-        "year": "2024",
-        "imdb_id": "tt29362046",
-        "imdb_rating": "5.7",
-        "rotten_tomatoes_rating": "71%",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "12.50",
                 "screen": "Salur 4"
             },
             {
-                "date": "2025-11-01",
-                "theater": "Smárabíó",
-                "time": "15.00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "12.50",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Smárabíó",
-                "time": "15.00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Smárabíó",
-                "time": "15.00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Smárabíó",
-                "time": "15.00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "15.00",
-                "screen": "Salur 4"
-            }
-        ]
-    },
-    {
-        "title": "Tron: Ares",
-        "year": "2025",
-        "imdb_id": "tt6604188",
-        "imdb_rating": "6.6",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "16:30",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "16:30",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Egilshöll",
-                "time": "18:00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:00",
-                "screen": "Salur 4"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:00",
-                "screen": "Salur 3"
-            }
-        ]
-    },
-    {
-        "title": "Jörðin undir fótum okkar",
-        "year": "2025",
-        "imdb_id": "tt35933132",
-        "imdb_rating": "7.3",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "17:20",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Akureyri",
                 "time": "13:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Bíó Paradís",
-                "time": "16:50",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Bíó Paradís",
-                "time": "14:00",
-                "screen": "Salur 2"
-            }
-        ]
-    },
-    {
-        "title": "The Home",
-        "year": "2025",
-        "imdb_id": "tt29011016",
-        "imdb_rating": "6",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "21:20",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
-                "time": "21:45",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Bíó Paradís",
-                "time": "21:15",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Bíó Paradís",
-                "time": "21:30",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Bíó Paradís",
-                "time": "22:30",
-                "screen": "Salur 3"
-            }
-        ]
-    },
-    {
-        "title": "An American Werewolf in London",
-        "year": "1981",
-        "imdb_id": "tt0082010",
-        "imdb_rating": "7.5",
-        "rotten_tomatoes_rating": "89%",
-        "showings": [
-            {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
                 "theater": "Sambíóin Álfabakka",
-                "time": "20:00",
-                "screen": "Salur 1"
-            }
-        ]
-    },
-    {
-        "title": "Dancing Queen in Hollywood",
-        "year": "2025",
-        "imdb_id": "tt36302675",
-        "imdb_rating": "6.6",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "17:00",
-                "screen": "Salur 2"
+                "time": "13:00",
+                "screen": "Salur 3"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
                 "time": "15:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Bíó Paradís",
-                "time": "16:15",
                 "screen": "Salur 3"
             }
         ]
     },
     {
-        "title": "Bóndinn og verksmiðjan",
+        "title": "Benjamín Dúfa",
+        "year": "1995",
+        "imdb_id": "tt0115655",
+        "imdb_rating": "7.2",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "13.00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "15.10",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Smárabíó",
+                "time": "15.00",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "10.00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "15.00",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "15.00",
+                "screen": "Salur 5"
+            }
+        ]
+    },
+    {
+        "title": "Víkin",
         "year": "2025",
-        "imdb_id": "tt0",
+        "imdb_id": "tt35308819",
         "imdb_rating": "",
         "rotten_tomatoes_rating": "N/A",
         "showings": [
             {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "13:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "19:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Álfabakka",
                 "time": "17:00",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-03",
-                "theater": "Bíó Paradís",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Kringlunni",
+                "time": "19:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Álfabakka",
                 "time": "17:00",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-04",
-                "theater": "Bíó Paradís",
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
                 "time": "19:00",
-                "screen": "Salur 1"
+                "screen": "Salur 2"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Bíó Paradís",
-                "time": "18:15",
+                "date": "2025-11-25",
+                "theater": "Sambíóin Álfabakka",
+                "time": "17:00",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Bíó Paradís",
-                "time": "17:35",
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "19:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Álfabakka",
+                "time": "17:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "19:00",
                 "screen": "Salur 2"
             }
         ]
     },
     {
-        "title": "Good Fortune",
+        "title": "Dom dobry",
         "year": "2025",
-        "imdb_id": "tt27543578",
-        "imdb_rating": "6.9",
-        "rotten_tomatoes_rating": "85%",
+        "imdb_id": "tt32246406",
+        "imdb_rating": "7.5",
+        "rotten_tomatoes_rating": "N/A",
         "showings": [
             {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
+                "theater": "Bíó Paradís",
+                "time": "16:45",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-23",
                 "theater": "Sambíóin Álfabakka",
-                "time": "21:50",
+                "time": "19:40",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Bíó Paradís",
+                "time": "18:20",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:30",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:30",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Bíó Paradís",
+                "time": "21:10",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:30",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Bíó Paradís",
+                "time": "16:50",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Bíó Paradís",
+                "time": "21:00",
+                "screen": "Salur 2"
+            }
+        ]
+    },
+    {
+        "title": "Keeper",
+        "year": "2025",
+        "imdb_id": "tt32332404",
+        "imdb_rating": "6",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "19:50",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-02",
+                "date": "2025-11-23",
                 "theater": "Sambíóin Álfabakka",
-                "time": "21:50",
+                "time": "21:20",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-03",
+                "date": "2025-11-24",
                 "theater": "Sambíóin Álfabakka",
-                "time": "21:50",
+                "time": "21:20",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Álfabakka",
-                "time": "21:50",
+                "date": "2025-11-24",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Egilshöll",
+                "time": "19:50",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-05",
+                "date": "2025-11-25",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:15",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
                 "theater": "Sambíóin Álfabakka",
-                "time": "21:50",
+                "time": "21:20",
                 "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Álfabakka",
+                "time": "21:20",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:00",
+                "screen": "Salur 4"
             }
         ]
     },
@@ -2992,109 +1741,82 @@
         "rotten_tomatoes_rating": "97%",
         "showings": [
             {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
                 "theater": "Bíó Paradís",
-                "time": "21:20",
+                "time": "19:30",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Bíó Paradís",
+                "time": "16:50",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Bíó Paradís",
+                "time": "16:50",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-02",
+                "date": "2025-11-26",
                 "theater": "Bíó Paradís",
                 "time": "19:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Bíó Paradís",
-                "time": "21:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Bíó Paradís",
-                "time": "21:00",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-05",
-                "theater": "Bíó Paradís",
-                "time": "14:00",
-                "screen": "Salur 1"
-            },
-            {
-                "date": "2025-11-05",
+                "date": "2025-11-27",
                 "theater": "Bíó Paradís",
                 "time": "21:15",
-                "screen": "Salur 1"
-            }
-        ]
-    },
-    {
-        "title": "Mission Ulja Funk",
-        "year": "2021",
-        "imdb_id": "tt11545370",
-        "imdb_rating": "6.8",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "15:00",
                 "screen": "Salur 3"
-            }
-        ]
-    },
-    {
-        "title": "Downton Abbey: The Grand Finale",
-        "year": "2025",
-        "imdb_id": "tt31888477",
-        "imdb_rating": "7.4",
-        "rotten_tomatoes_rating": "90%",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:20",
-                "screen": "Salur 2"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:20",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:20",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:20",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "14:20",
-                "screen": "Salur 2"
-            }
-        ]
-    },
-    {
-        "title": "The Goonies",
-        "year": "1985",
-        "imdb_id": "tt0089218",
-        "imdb_rating": "7.7",
-        "rotten_tomatoes_rating": "77%",
-        "showings": [
-            {
-                "date": "2025-11-01",
+                "date": "2025-11-28",
                 "theater": "Bíó Paradís",
-                "time": "15:00",
+                "time": "16:45",
                 "screen": "Salur 1"
+            }
+        ]
+    },
+    {
+        "title": "One Battle After Another",
+        "year": "2025",
+        "imdb_id": "tt30144839",
+        "imdb_rating": "8",
+        "rotten_tomatoes_rating": "95%",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Laugarásbíó",
+                "time": "20:00",
+                "screen": "B salur"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Laugarásbíó",
+                "time": "20:00",
+                "screen": "B salur"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Laugarásbíó",
+                "time": "20:00",
+                "screen": "B salur"
+            }
+        ]
+    },
+    {
+        "title": "Dúkkuhús Gabbýjar: Bíómyndin",
+        "year": "2025",
+        "imdb_id": "tt32214143",
+        "imdb_rating": "5.6",
+        "rotten_tomatoes_rating": "85%",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Sambíóin Egilshöll",
+                "time": "15:15",
+                "screen": "Salur 4"
             }
         ]
     },
@@ -3106,33 +1828,45 @@
         "rotten_tomatoes_rating": "96%",
         "showings": [
             {
-                "date": "2025-11-01",
+                "date": "2025-11-23",
                 "theater": "Bíó Paradís",
-                "time": "18:50",
+                "time": "17:00",
                 "screen": "Salur 3"
             },
             {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
-                "time": "19:15",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-03",
-                "theater": "Bíó Paradís",
-                "time": "18:45",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-04",
+                "date": "2025-11-24",
                 "theater": "Bíó Paradís",
                 "time": "18:30",
                 "screen": "Salur 2"
             },
             {
-                "date": "2025-11-05",
+                "date": "2025-11-25",
                 "theater": "Bíó Paradís",
-                "time": "20:00",
+                "time": "20:45",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Bíó Paradís",
+                "time": "14:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Bíó Paradís",
+                "time": "21:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Bíó Paradís",
+                "time": "16:50",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Bíó Paradís",
+                "time": "21:30",
                 "screen": "Salur 3"
             }
         ]
@@ -3145,136 +1879,211 @@
         "rotten_tomatoes_rating": "N/A",
         "showings": [
             {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "11:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
-                "time": "11:00",
-                "screen": "Salur 3"
-            }
-        ]
-    },
-    {
-        "title": "Töfragarðurinn",
-        "year": "2025",
-        "imdb_id": "tt10312938",
-        "imdb_rating": "7.4",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Bíó Paradís",
-                "time": "15:00",
-                "screen": "Salur 2"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
-                "time": "11:00",
-                "screen": "Salur 1"
-            }
-        ]
-    },
-    {
-        "title": "Strumparnir",
-        "year": "2025",
-        "imdb_id": "tt18069420",
-        "imdb_rating": "4.3",
-        "rotten_tomatoes_rating": "20%",
-        "showings": [
-            {
-                "date": "2025-11-01",
-                "theater": "Sambíóin Kringlunni",
-                "time": "10:00",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-02",
-                "theater": "Sambíóin Kringlunni",
-                "time": "10:00",
-                "screen": "Salur 3"
-            }
-        ]
-    },
-    {
-        "title": "A Useful Ghost",
-        "year": "2025",
-        "imdb_id": "tt22530226",
-        "imdb_rating": "6.9",
-        "rotten_tomatoes_rating": "92%",
-        "showings": [
-            {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
-                "time": "16:45",
-                "screen": "Salur 3"
-            },
-            {
-                "date": "2025-11-04",
-                "theater": "Bíó Paradís",
-                "time": "19:00",
-                "screen": "Salur 3"
-            }
-        ]
-    },
-    {
-        "title": "DJ Ahmet",
-        "year": "2025",
-        "imdb_id": "tt34964187",
-        "imdb_rating": "7.7",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
-                "time": "17:00",
-                "screen": "Salur 2"
-            }
-        ]
-    },
-    {
-        "title": "Skýjahöllin",
-        "year": "1994",
-        "imdb_id": "tt0111213",
-        "imdb_rating": "6.9",
-        "rotten_tomatoes_rating": "N/A",
-        "showings": [
-            {
-                "date": "2025-11-02",
+                "date": "2025-11-23",
                 "theater": "Bíó Paradís",
                 "time": "13:00",
-                "screen": "Salur 1"
+                "screen": "Salur 2"
             }
         ]
     },
     {
-        "title": "The Witches",
-        "year": "1990",
-        "imdb_id": "tt0100944",
-        "imdb_rating": "6.8",
-        "rotten_tomatoes_rating": "94%",
+        "title": "<span class=\"fire\">E</span>",
+        "year": "2025",
+        "imdb_id": "tt31272500",
+        "imdb_rating": "7.9",
+        "rotten_tomatoes_rating": "N/A",
         "showings": [
             {
-                "date": "2025-11-02",
-                "theater": "Bíó Paradís",
-                "time": "17:00",
-                "screen": "Salur 1"
+                "date": "2025-11-23",
+                "theater": "Smárabíó",
+                "time": "17.05",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Smárabíó",
+                "time": "17.10",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Smárabíó",
+                "time": "17.10",
+                "screen": "Salur 5"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "17.10",
+                "screen": "Salur 5"
             }
         ]
     },
     {
-        "title": "The Green Dinosaur",
-        "year": "2024",
-        "imdb_id": "tt27850528",
+        "title": "The Home",
+        "year": "2025",
+        "imdb_id": "tt29011016",
         "imdb_rating": "6.2",
         "rotten_tomatoes_rating": "N/A",
         "showings": [
             {
-                "date": "2025-11-02",
+                "date": "2025-11-23",
+                "theater": "Bíó Paradís",
+                "time": "22:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Bíó Paradís",
+                "time": "21:50",
+                "screen": "Salur 1"
+            }
+        ]
+    },
+    {
+        "title": "The Last Viking",
+        "year": "2025",
+        "imdb_id": "tt27817389",
+        "imdb_rating": "7.4",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Bíó Paradís",
+                "time": "21:30",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Bíó Paradís",
+                "time": "21:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Bíó Paradís",
+                "time": "18:30",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Bíó Paradís",
+                "time": "21:10",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Bíó Paradís",
+                "time": "19:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Bíó Paradís",
+                "time": "19:15",
+                "screen": "Salur 3"
+            }
+        ]
+    },
+    {
+        "title": "Young Mothers",
+        "year": "2025",
+        "imdb_id": "tt32909489",
+        "imdb_rating": "7",
+        "rotten_tomatoes_rating": "95%",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Bíó Paradís",
+                "time": "15:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Bíó Paradís",
+                "time": "21:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Bíó Paradís",
+                "time": "16:50",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Bíó Paradís",
+                "time": "16:50",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Bíó Paradís",
+                "time": "16:45",
+                "screen": "Salur 2"
+            }
+        ]
+    },
+    {
+        "title": "Bugonia",
+        "year": "2025",
+        "imdb_id": "tt12300742",
+        "imdb_rating": "7.7",
+        "rotten_tomatoes_rating": "86%",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Bíó Paradís",
+                "time": "21:15",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Bíó Paradís",
+                "time": "20:30",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Bíó Paradís",
+                "time": "20:30",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Bíó Paradís",
+                "time": "14:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Bíó Paradís",
+                "time": "19:30",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Bíó Paradís",
+                "time": "21:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Bíó Paradís",
+                "time": "18:50",
+                "screen": "Salur 2"
+            }
+        ]
+    },
+    {
+        "title": "Contempt",
+        "year": "1963",
+        "imdb_id": "tt0057345",
+        "imdb_rating": "7.4",
+        "rotten_tomatoes_rating": "92%",
+        "showings": [
+            {
+                "date": "2025-11-23",
                 "theater": "Bíó Paradís",
                 "time": "15:00",
                 "screen": "Salur 1"
@@ -3282,71 +2091,134 @@
         ]
     },
     {
-        "title": "Suspiria",
-        "year": "2018",
-        "imdb_id": "tt1034415",
-        "imdb_rating": "6.7",
-        "rotten_tomatoes_rating": "65%",
+        "title": "Regretting You",
+        "year": "2025",
+        "imdb_id": "tt33088452",
+        "imdb_rating": "6.2",
+        "rotten_tomatoes_rating": "30%",
         "showings": [
             {
-                "date": "2025-11-02",
+                "date": "2025-11-23",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:00",
+                "screen": "Salur 2"
+            }
+        ]
+    },
+    {
+        "title": "Pollywood",
+        "year": "2020",
+        "imdb_id": "tt5594424",
+        "imdb_rating": "5.5",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-23",
                 "theater": "Bíó Paradís",
-                "time": "21:10",
+                "time": "19:00",
+                "screen": "Salur 2"
+            }
+        ]
+    },
+    {
+        "title": "Dancing Queen in Hollywood",
+        "year": "2025",
+        "imdb_id": "tt36302675",
+        "imdb_rating": "6.5",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Bíó Paradís",
+                "time": "14:50",
+                "screen": "Salur 2"
+            }
+        ]
+    },
+    {
+        "title": "Tár úr steini",
+        "year": "1995",
+        "imdb_id": "tt0117868",
+        "imdb_rating": "6.5",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-23",
+                "theater": "Bíó Paradís",
+                "time": "17:00",
                 "screen": "Salur 1"
             }
         ]
     },
     {
-        "title": "The Wolf of Wall Street",
-        "year": "2013",
-        "imdb_id": "tt0993846",
-        "imdb_rating": "8.2",
-        "rotten_tomatoes_rating": "79%",
+        "title": "Hola Frida!",
+        "year": "2024",
+        "imdb_id": "tt35683445",
+        "imdb_rating": "6.8",
+        "rotten_tomatoes_rating": "87%",
         "showings": [
             {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Akureyri",
-                "time": "20:00",
+                "date": "2025-11-23",
+                "theater": "Bíó Paradís",
+                "time": "13:00",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Egilshöll",
-                "time": "20:00",
-                "screen": "Salur 1"
-            }
-        ]
-    },
-    {
-        "title": "Out of Africa",
-        "year": "1985",
-        "imdb_id": "tt0089755",
-        "imdb_rating": "7.2",
-        "rotten_tomatoes_rating": "62%",
-        "showings": [
-            {
-                "date": "2025-11-03",
-                "theater": "Sambíóin Kringlunni",
-                "time": "19:00",
+                "date": "2025-11-26",
+                "theater": "Bíó Paradís",
+                "time": "15:40",
                 "screen": "Salur 3"
             }
         ]
     },
     {
-        "title": "Interstellar",
-        "year": "2014",
-        "imdb_id": "tt0816692",
-        "imdb_rating": "8.7",
-        "rotten_tomatoes_rating": "73%",
+        "title": "Vengeance Is Mine",
+        "year": "2021",
+        "imdb_id": "tt11650226",
+        "imdb_rating": "5",
+        "rotten_tomatoes_rating": "67%",
         "showings": [
             {
-                "date": "2025-11-05",
+                "date": "2025-11-23",
+                "theater": "Bíó Paradís",
+                "time": "19:30",
+                "screen": "Salur 1"
+            }
+        ]
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": "2012",
+        "imdb_id": "tt1345836",
+        "imdb_rating": "8.4",
+        "rotten_tomatoes_rating": "87%",
+        "showings": [
+            {
+                "date": "2025-11-24",
                 "theater": "Sambíóin Akureyri",
                 "time": "20:00",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-05",
+                "date": "2025-11-24",
                 "theater": "Sambíóin Egilshöll",
                 "time": "20:00",
                 "screen": "Salur 1"
@@ -3354,107 +2226,602 @@
         ]
     },
     {
-        "title": "Sisu",
-        "year": "2022",
-        "imdb_id": "tt14846026",
-        "imdb_rating": "6.9",
-        "rotten_tomatoes_rating": "94%",
-        "showings": [
-            {
-                "date": "2025-11-05",
-                "theater": "Smárabíó",
-                "time": "20.00",
-                "screen": "MAX"
-            }
-        ]
-    },
-    {
-        "title": "Star Trek: Insurrection",
-        "year": "1998",
-        "imdb_id": "tt0120844",
-        "imdb_rating": "6.4",
-        "rotten_tomatoes_rating": "54%",
-        "showings": [
-            {
-                "date": "2025-11-05",
-                "theater": "Sambíóin Kringlunni",
-                "time": "19:00",
-                "screen": "Salur 1"
-            }
-        ]
-    },
-    {
-        "title": "Predator: Badlands",
+        "title": "Frá ómi til hljóms",
         "year": "2025",
-        "imdb_id": "tt31227572",
+        "imdb_id": "tt0",
         "imdb_rating": "",
         "rotten_tomatoes_rating": "N/A",
         "showings": [
             {
-                "date": "2025-11-06",
-                "theater": "Sambíóin Egilshöll",
+                "date": "2025-11-24",
+                "theater": "Bíó Paradís",
+                "time": "17:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-25",
+                "theater": "Bíó Paradís",
+                "time": "19:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Bíó Paradís",
+                "time": "18:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Bíó Paradís",
+                "time": "16:30",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Bíó Paradís",
+                "time": "16:45",
+                "screen": "Salur 3"
+            }
+        ]
+    },
+    {
+        "title": "The Extraordinary Miss Flower",
+        "year": "2024",
+        "imdb_id": "tt32654722",
+        "imdb_rating": "6.8",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-24",
+                "theater": "Bíó Paradís",
+                "time": "16:50",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Bíó Paradís",
                 "time": "17:30",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Bíó Paradís",
+                "time": "19:30",
                 "screen": "Salur 1"
             },
             {
-                "date": "2025-11-06",
-                "theater": "Sambíóin Egilshöll",
-                "time": "19:50",
-                "screen": "Salur 1"
+                "date": "2025-11-28",
+                "theater": "Bíó Paradís",
+                "time": "17:45",
+                "screen": "Salur 3"
+            }
+        ]
+    },
+    {
+        "title": "O",
+        "year": "2024",
+        "imdb_id": "tt32365707",
+        "imdb_rating": "8",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-24",
+                "theater": "Sambíóin Kringlunni",
+                "time": "17:20",
+                "screen": "Salur 3"
             },
             {
-                "date": "2025-11-06",
-                "theater": "Sambíóin Egilshöll",
-                "time": "22:10",
-                "screen": "Salur 1"
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "14:20",
+                "screen": "Salur 3"
             },
             {
-                "date": "2025-11-06",
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "17:20",
+                "screen": "Salur 3"
+            }
+        ]
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": "1987",
+        "imdb_id": "tt0093058",
+        "imdb_rating": "8.2",
+        "rotten_tomatoes_rating": "90%",
+        "showings": [
+            {
+                "date": "2025-11-24",
                 "theater": "Sambíóin Kringlunni",
                 "time": "19:00",
-                "screen": "Ásberg"
-            },
+                "screen": "Salur 1"
+            }
+        ]
+    },
+    {
+        "title": "Downton Abbey: The Grand Finale",
+        "year": "2025",
+        "imdb_id": "tt31888477",
+        "imdb_rating": "7.4",
+        "rotten_tomatoes_rating": "91%",
+        "showings": [
             {
-                "date": "2025-11-06",
+                "date": "2025-11-24",
                 "theater": "Sambíóin Kringlunni",
-                "time": "21:25",
-                "screen": "Ásberg"
+                "time": "14:20",
+                "screen": "Salur 2"
             },
             {
-                "date": "2025-11-06",
+                "date": "2025-11-25",
+                "theater": "Sambíóin Kringlunni",
+                "time": "14:20",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "14:20",
+                "screen": "Salur 2"
+            }
+        ]
+    },
+    {
+        "title": "Jörðin undir fótum okkar",
+        "year": "2025",
+        "imdb_id": "tt35933132",
+        "imdb_rating": "7.3",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-25",
+                "theater": "Bíó Paradís",
+                "time": "16:50",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Bíó Paradís",
+                "time": "14:00",
+                "screen": "Salur 3"
+            }
+        ]
+    },
+    {
+        "title": "Jurassic Park",
+        "year": "1993",
+        "imdb_id": "tt0107290",
+        "imdb_rating": "8.2",
+        "rotten_tomatoes_rating": "91%",
+        "showings": [
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Akureyri",
+                "time": "20:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Egilshöll",
+                "time": "20:00",
+                "screen": "Salur 1"
+            }
+        ]
+    },
+    {
+        "title": "Judge Dredd",
+        "year": "1995",
+        "imdb_id": "tt0113492",
+        "imdb_rating": "5.6",
+        "rotten_tomatoes_rating": "21%",
+        "showings": [
+            {
+                "date": "2025-11-26",
+                "theater": "Smárabíó",
+                "time": "20.00",
+                "screen": "Salur 2"
+            }
+        ]
+    },
+    {
+        "title": "Star Trek Into Darkness",
+        "year": "2013",
+        "imdb_id": "tt1408101",
+        "imdb_rating": "7.7",
+        "rotten_tomatoes_rating": "84%",
+        "showings": [
+            {
+                "date": "2025-11-26",
+                "theater": "Sambíóin Kringlunni",
+                "time": "19:00",
+                "screen": "Salur 1"
+            }
+        ]
+    },
+    {
+        "title": "Zootropolis 2",
+        "year": "2025",
+        "imdb_id": "tt26443597",
+        "imdb_rating": "",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Kringlunni",
+                "time": "14:20",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Kringlunni",
+                "time": "16:40",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Kringlunni",
+                "time": "18:40",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:10",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-27",
                 "theater": "Laugarásbíó",
-                "time": "19:45",
+                "time": "15:40",
                 "screen": "AXL"
             },
             {
-                "date": "2025-11-06",
+                "date": "2025-11-27",
+                "theater": "Laugarásbíó",
+                "time": "18:00",
+                "screen": "AXL"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Egilshöll",
+                "time": "19:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Álfabakka",
+                "time": "17:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:20",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Akureyri",
+                "time": "17:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "14.50",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "15.00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "17.15",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "17.30",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "19.00",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "19.40",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "22.00",
+                "screen": "Salur 4"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Kringlunni",
+                "time": "14:20",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Kringlunni",
+                "time": "16:40",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Kringlunni",
+                "time": "19:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Kringlunni",
+                "time": "21:20",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Smárabíó",
+                "time": "14.50",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Smárabíó",
+                "time": "15.00",
+                "screen": "MAX"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Smárabíó",
+                "time": "17.15",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Smárabíó",
+                "time": "17.30",
+                "screen": "MAX"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Smárabíó",
+                "time": "19.00",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Smárabíó",
+                "time": "19.40",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Smárabíó",
+                "time": "22.10",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Laugarásbíó",
+                "time": "15:30",
+                "screen": "AXL"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Laugarásbíó",
+                "time": "17:50",
+                "screen": "AXL"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Egilshöll",
+                "time": "17:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Egilshöll",
+                "time": "19:00",
+                "screen": "Salur 3"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Álfabakka",
+                "time": "17:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Álfabakka",
+                "time": "19:20",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Akureyri",
+                "time": "17:00",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Akureyri",
+                "time": "19:20",
+                "screen": "Salur 1"
+            }
+        ]
+    },
+    {
+        "title": "Sisu: Road to Revenge",
+        "year": "2025",
+        "imdb_id": "tt31844586",
+        "imdb_rating": "7.4",
+        "rotten_tomatoes_rating": "96%",
+        "showings": [
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Akureyri",
+                "time": "19:50",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Akureyri",
+                "time": "22:10",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Egilshöll",
+                "time": "20:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:10",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Laugarásbíó",
+                "time": "20:20",
+                "screen": "AXL"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Laugarásbíó",
+                "time": "22:20",
+                "screen": "AXL"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "20.00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "21.30",
+                "screen": "Lúxus"
+            },
+            {
+                "date": "2025-11-27",
+                "theater": "Smárabíó",
+                "time": "22.10",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Egilshöll",
+                "time": "20:00",
+                "screen": "Salur 2"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Egilshöll",
+                "time": "22:10",
+                "screen": "Salur 1"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Laugarásbíó",
+                "time": "20:10",
+                "screen": "AXL"
+            },
+            {
+                "date": "2025-11-28",
                 "theater": "Laugarásbíó",
                 "time": "22:10",
                 "screen": "AXL"
             },
             {
-                "date": "2025-11-06",
+                "date": "2025-11-28",
                 "theater": "Smárabíó",
-                "time": "19.10",
-                "screen": "Lúxus"
-            },
-            {
-                "date": "2025-11-06",
-                "theater": "Smárabíó",
-                "time": "19.40",
+                "time": "20.00",
                 "screen": "MAX"
             },
             {
-                "date": "2025-11-06",
+                "date": "2025-11-28",
                 "theater": "Smárabíó",
-                "time": "21.40",
+                "time": "21.30",
                 "screen": "Lúxus"
             },
             {
-                "date": "2025-11-06",
+                "date": "2025-11-28",
                 "theater": "Smárabíó",
-                "time": "22.15",
+                "time": "22.10",
                 "screen": "MAX"
+            },
+            {
+                "date": "2025-11-28",
+                "theater": "Sambíóin Akureyri",
+                "time": "21:40",
+                "screen": "Salur 1"
+            }
+        ]
+    },
+    {
+        "title": "Planes, Trains and Automobiles",
+        "year": "1987",
+        "imdb_id": "tt0093748",
+        "imdb_rating": "7.6",
+        "rotten_tomatoes_rating": "93%",
+        "showings": [
+            {
+                "date": "2025-11-27",
+                "theater": "Sambíóin Kringlunni",
+                "time": "19:00",
+                "screen": "Salur 1"
+            }
+        ]
+    },
+    {
+        "title": "Uwierz w Mikolaja 2",
+        "year": "2025",
+        "imdb_id": "tt38705053",
+        "imdb_rating": "4.6",
+        "rotten_tomatoes_rating": "N/A",
+        "showings": [
+            {
+                "date": "2025-11-28",
+                "theater": "Bíó Paradís",
+                "time": "19:00",
+                "screen": "Salur 1"
+            }
+        ]
+    },
+    {
+        "title": "The Holiday",
+        "year": "2006",
+        "imdb_id": "tt0457939",
+        "imdb_rating": "7",
+        "rotten_tomatoes_rating": "51%",
+        "showings": [
+            {
+                "date": "2025-11-28",
+                "theater": "Bíó Paradís",
+                "time": "21:00",
+                "screen": "Salur 1"
             }
         ]
     }
