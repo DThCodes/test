@@ -1,4 +1,5 @@
 POSTNR,HEITI_NF,HEITI_TGF
+0.0,Bakkatún 3,
 101.0,Amtmannsstígur 1,Amtmannsstíg 1
 101.0,Amtmannsstígur 2,Amtmannsstíg 2
 101.0,Amtmannsstígur 2B,Amtmannsstíg 2B
@@ -2827,7 +2828,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 101.0,Vesturgata 64,Vesturgötu 64
 101.0,Vesturgata 65,Vesturgötu 65
 101.0,Vesturgata 65A,Vesturgötu 65A
-101.0,Vesturgata 66,Vesturgötu 66
 101.0,Vesturgata 67,Vesturgötu 67
 101.0,Vesturgata 69,Vesturgötu 69
 101.0,Vesturgata 7,Vesturgötu 7
@@ -2875,7 +2875,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 101.0,Ánanaust 12,Ánanaustum 12
 101.0,Ánanaust 15,Ánanaustum 15
 101.0,Ánanaust 3,Ánanaustum 3
-101.0,Ánanaust 5,Ánanaustum 5
 101.0,Ánanaust 8,Ánanaustum 8
 101.0,Ásvallag./Ho./Hr.,Ásvallag./Ho./Hr.
 101.0,Ásvallagata 1,Ásvallagötu 1
@@ -24767,6 +24766,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 191.0,Hvassahraun 20,Hvassahrauni 20
 191.0,Hvassahraun 21,Hvassahrauni 21
 191.0,Hvassahraun 22,Hvassahrauni 22
+191.0,Hvassahraun 22A,Hvassahrauni 22A
 191.0,Hvassahraun 22B,Hvassahrauni 22B
 191.0,Hvassahraun 23,Hvassahrauni 23
 191.0,Hvassahraun 24,Hvassahrauni 24
@@ -60950,7 +60950,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 301.0,Vestra-Súlunes,Vestra-Súlunesi
 301.0,Vestra-Súlunes Vegsvæði,Vestra-Súlunesi Vegsvæði
 301.0,Vestri Reynir,Vestri Reyni
-301.0,Vestri-Leirárgarðaland,Vestri-Leirárgarðalandi
 301.0,Vestri-Leirárgarðar,Vestri-Leirárgörðum
 301.0,Vestri-Reynir,Vestri-Reyni
 301.0,Vesturás 1,Vesturás 1
@@ -77812,7 +77811,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 550.0,Víðihlíð 9,Víðihlíð 9
 550.0,Víðimýri 10,Víðimýri 10
 550.0,Víðimýri 4,Víðimýri 4
-550.0,Víðimýri 6,Víðimýri 6
 550.0,Víðimýri 8,Víðimýri 8
 550.0,Árkíll 2,Árkíl 2
 550.0,Ártorg 1,Ártorgi 1
@@ -78879,6 +78877,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 565.0,Skólagata,Skólagötu
 565.0,Skólagata 1A,Skólagötu 1A
 565.0,Skólagata 1B,Skólagötu 1B
+565.0,Skólagata 2,Skólagötu 2
+565.0,Skólagata 4,Skólagötu 4
 565.0,Sunnuhvoll,Sunnuhvoli
 565.0,Suðurbraut,Suðurbraut
 565.0,Suðurbraut 1,Suðurbraut 1
@@ -86886,7 +86886,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 606.0,Bakkatún 27,Bakkatúni 27
 606.0,Bakkatún 28,Bakkatúni 28
 606.0,Bakkatún 29,Bakkatúni 29
-606.0,Bakkatún 3,Bakkatúni 3
 606.0,Bakkatún 30,Bakkatúni 30
 606.0,Bakkatún 31,Bakkatúni 31
 606.0,Bakkatún 32,Bakkatúni 32
@@ -88073,6 +88072,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 620.0,Hafnarbraut 29,Hafnarbraut 29
 620.0,Hafnarbraut 2A,Hafnarbraut 2A
 620.0,Hafnarbraut 2B,Hafnarbraut 2B
+620.0,Hafnarbraut 3,Hafnarbraut 3
 620.0,Hafnarbraut 4,Hafnarbraut 4
 620.0,Hafnarbraut 5,Hafnarbraut 5
 620.0,Hafnarbraut 7,Hafnarbraut 7
@@ -88575,12 +88575,12 @@ POSTNR,HEITI_NF,HEITI_TGF
 621.0,Fossbrún 6A,Fossbrún 6A
 621.0,Fossbrún 6B,Fossbrún 6B
 621.0,Fosshólsbrekka,Fosshólsbrekku
+621.0,Garðatröð 1,Garðatröð 1
+621.0,Garðatröð 12,Garðatröð 12
 621.0,Garðatröð 1A,Garðatröð 1A
-621.0,Garðatröð 1B,Garðatröð 1B
-621.0,Garðatröð 1C,Garðatröð 1C
-621.0,Garðatröð 1D,Garðatröð 1D
-621.0,Garðatröð 2,Garðatröð 2
-621.0,Garðatröð 4,Garðatröð 4
+621.0,Garðatröð 3,Garðatröð 3
+621.0,Garðatröð 5,Garðatröð 5
+621.0,Garðatröð 7,Garðatröð 7
 621.0,Gata,Götu
 621.0,Gilvegur 1,Gilvegi 1
 621.0,Grund,Grund
@@ -104142,6 +104142,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 801.0,Flóagaflsmýri,Flóagaflsmýri
 801.0,Flóagaflstún,Flógaflstúni
 801.0,Framnes,Framnesi
+801.0,Féþúfa,Féþúfu
 801.0,Gamla-Hraun,Gamla-Hrauni
 801.0,Garðshorn,Garðshorni
 801.0,Garður,Garði
@@ -106412,6 +106413,14 @@ POSTNR,HEITI_NF,HEITI_TGF
 805.0,Borgargil 22,Borgargili 22
 805.0,Borgargil 24,Borgargili 24
 805.0,Borgargil 6,Borgargili 6
+805.0,Borgargil 6A,Borgargili 6A
+805.0,Borgargil 6B,Borgargili 6B
+805.0,Borgargil 6C,Borgargili 6C
+805.0,Borgargil 6D,Borgargili 6D
+805.0,Borgargil 6E,Borgargili 6E
+805.0,Borgargil 6F,Borgargili 6F
+805.0,Borgargil 6G,Borgargili 6G
+805.0,Borgargil 6H,Borgargili 6H
 805.0,Borgargil 8,Borgargili 8
 805.0,Borgarheiði 1,Borgarheiði 1
 805.0,Borgarheiði 10,Borgarheiði 10
@@ -110327,7 +110336,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 805.0,Árvegsendi 2,Árvegsenda 2
 805.0,Árvegsendi 8,Árvegsenda 8
 805.0,Árvegur 1,Árvegi 1
-805.0,Árvegur 10,Árvegi 10
 805.0,Árvegur 11,Árvegi 11
 805.0,Árvegur 12,Árvegi 12
 805.0,Árvegur 13,Árvegi 13
@@ -114882,9 +114890,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 810.0,Stóri-Saurbær,Stóra-Saurbæ
 810.0,Sunnumörk 1,Sunnumörk 1
 810.0,Sunnumörk 2,Sunnumörk 2
-810.0,Sunnumörk 3,Sunnumörk 3
 810.0,Sunnumörk 4,Sunnumörk 4
-810.0,Sunnumörk 5,Sunnumörk 5
 810.0,Sunnumörk 6,Sunnumörk 6
 810.0,Sunnumörk 7,Sunnumörk 7
 810.0,Tröllahraun 1,Tröllahrauni 1
@@ -114908,6 +114914,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 810.0,Tröllahraun 48,Tröllahrauni 48
 810.0,Tröllahraun 49,Tröllahrauni 49
 810.0,Tröllahraun 50,Tröllahrauni 50
+810.0,Tröllahraun 51,Tröllahrauni 51
 810.0,Tröllahraun 52,Tröllahrauni 52
 810.0,Tröllahraun 53,Tröllahrauni 53
 810.0,Tröllahraun 54,Tröllahrauni 54
@@ -116698,6 +116705,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 816.0,Raufarhóll,Raufarhól
 816.0,Rauðilækur,Rauðalæk
 816.0,Rauðilækur 2,Rauðalæk 2
+816.0,Rauðilækur 3,Rauðalæk 3
 816.0,Rein,Rein
 816.0,Reykir,Reykjum
 816.0,Reykjakot,Reykjakoti
@@ -120877,6 +120885,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 851.0,Stekkjarhóll,Stekkjarhóli
 851.0,Stekkjarhóll 2,Stekkjarhóli 2
 851.0,Stekkjarkot,Stekkjarkoti
+851.0,Stekkjartún,Stekkjartúni
 851.0,Stekkjatúnsbjalli,Stekkjatúnsbjalla
 851.0,Stekkur,Stekk
 851.0,Stelpuhof,Stelpuhofi
@@ -125771,11 +125780,34 @@ POSTNR,HEITI_NF,HEITI_TGF
 900.0,Ægisgata 2,Ægisgötu 2
 900.0,Ægisgata 3,Ægisgötu 3
 900.0,Þrídrangaviti,Þrídrangavita
+,Bakkatún 3B,
+,Bakkatún 3C,
+,Bakkatún 3D,
+,Bæjarstæði,
 ,Dverghella 3,
 ,Eyrarvegur 12,
+,Fuglavík 29A,
+,Fuglavík 29B,
+,Fuglavík 29C,
+,Fuglavík 29D,
+,Fuglavík 29E,
+,Fuglavík 29F,
+,Fuglavík 29G,
+,Fuglavík 29H,
+,Fuglavík 29I,
+,Fuglavík 29J,
+,Fuglavík 29K,
+,Fuglavík 29L,
+,Fuglavík 29M,
+,Fuglavík 29N,
+,Hallstún,
 ,Hólmatröð 10C,
 ,Höfn II,
 ,Járnháls 4,
+,Miðás,
+,Skólagata 2A,
+,Sunnumörk 3,
+,Sunnumörk 5,
 ,Trölladalur 11A,
 ,Trölladalur 11B,
 ,Trölladalur 11C,
@@ -125806,3 +125838,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 ,Trölladalur 9C,
 ,Trölladalur 9D,
 ,Trölladalur 9E,
+,Túngata 1,
+,Túngata 1A,
+,Vesturgata 66,
+,Ánanaust 5,
+,Öxnalækur,
