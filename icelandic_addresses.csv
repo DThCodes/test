@@ -271,6 +271,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 101,Bergþórugata 17,Bergþórugötu 17
 101,Bergþórugata 18,Bergþórugötu 18
 101,Bergþórugata 19,Bergþórugötu 19
+101,Bergþórugata 1B,Bergþórugötu 1B
 101,Bergþórugata 2,Bergþórugötu 2
 101,Bergþórugata 20,Bergþórugötu 20
 101,Bergþórugata 21,Bergþórugötu 21
@@ -38797,6 +38798,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Axlarás 26A,Axlarási 26A
 221,Axlarás 26B,Axlarási 26B
 221,Axlarás 27A,Axlarási 27A
+221,Axlarás 27B,Axlarási 27B
 221,Axlarás 28,Axlarási 28
 221,Axlarás 29,Axlarási 29
 221,Axlarás 3,Axlarási 3
@@ -40931,9 +40933,12 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Kléberg 4,Klébergi 4
 221,Kléberg 6,Klébergi 6
 221,Koparhella 1,Koparhellu 1
+221,Koparhella 11,Koparhellu 11
 221,Koparhella 1H,Koparhellu 1H
 221,Koparhella 3,Koparhellu 3
 221,Koparhella 5,Koparhellu 5
+221,Koparhella 7,Koparhellu 7
+221,Koparhella 9,Koparhellu 9
 221,Kríuás 1,Kríuási 1
 221,Kríuás 11,Kríuási 11
 221,Kríuás 13,Kríuási 13
@@ -41335,6 +41340,14 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Móhella 7F,Móhellu 7F
 221,Móhella 7G,Móhellu 7G
 221,Móhella 7H,Móhellu 7H
+221,Nikkelhella 1,Nikkelhellu 1
+221,Nikkelhella 2,Nikkelhellu 2
+221,Nikkelhella 3,Nikkelhellu 3
+221,Nikkelhella 4,Nikkelhellu 4
+221,Nikkelhella 5,Nikkelhellu 5
+221,Nikkelhella 6,Nikkelhellu 6
+221,Nikkelhella 7,Nikkelhellu 7
+221,Nikkelhella 8,Nikkelhellu 8
 221,Norðan Krísuvíkur,Norðan Krísuvíkur
 221,Norðurhella 1,Norðurhellu 1
 221,Norðurhella 10,Norðurhellu 10
@@ -41422,6 +41435,14 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Selhella 8,Selhellu 8
 221,Selhella 9,Selhellu 9
 221,Setberg,Setbergi
+221,Sindurhella 1,Sindurhellu 1
+221,Sindurhella 1H,Sindurhellu 1H
+221,Sindurhella 2,Sindurhellu 2
+221,Sindurhella 3,Sindurhellu 3
+221,Sindurhella 4,Sindurhellu 4
+221,Sindurhella 5,Sindurhellu 5
+221,Sindurhella 6,Sindurhellu 6
+221,Sindurhella 8,Sindurhellu 8
 221,Skálaberg 2,Skálabergi 2
 221,Skálaberg 4,Skálabergi 4
 221,Skógarhlíð 1,Skógarhlíð 1
@@ -41886,6 +41907,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Stálhella 22T,Stálhellu 22T
 221,Stálhella 22U,Stálhellu 22U
 221,Stálhella 22V,Stálhellu 22V
+221,Stálhella 24,Stálhellu 24
+221,Stálhella 24D,Stálhellu 24D
 221,Stálhella 2B,Stálhellu 2B
 221,Stálhella 2C,Stálhellu 2C
 221,Stálhella 2D,Stálhellu 2D
@@ -42102,6 +42125,25 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Tunguhella 9G,Tunguhellu 9G
 221,Tunguhella 9H,Tunguhellu 9H
 221,Tunguhella 9I,Tunguhellu 9I
+221,Títanhella 1,Títanhellu 1
+221,Títanhella 10,Títanhellu 10
+221,Títanhella 11,Títanhellu 11
+221,Títanhella 12,Títanhellu 12
+221,Títanhella 12H,Títanhellu 12H
+221,Títanhella 13,Títanhellu 13
+221,Títanhella 14,Títanhellu 14
+221,Títanhella 15,Títanhellu 15
+221,Títanhella 16,Títanhellu 16
+221,Títanhella 17,Títanhellu 17
+221,Títanhella 19,Títanhellu 19
+221,Títanhella 2,Títanhellu 2
+221,Títanhella 3,Títanhellu 3
+221,Títanhella 4,Títanhellu 4
+221,Títanhella 5,Títanhellu 5
+221,Títanhella 6,Títanhellu 6
+221,Títanhella 7,Títanhellu 7
+221,Títanhella 8,Títanhellu 8
+221,Títanhella 9,Títanhellu 9
 221,Vikurskarð 1,Vikurskarði 1
 221,Vikurskarð 10,Vikurskarði 10
 221,Vikurskarð 10A,Vikurskarði 10A
@@ -56891,6 +56933,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 276,Hólmahjalli 5,Hólmahjalla 5
 276,Hólmahjalli 6,Hólmahjalla 6
 276,Hólmahjalli 7,Hólmahjalla 7
+276,Hólmahjalli 8,Hólmahjalla 8
 276,Hólmahjalli 9,Hólmahjalla 9
 276,Höfuðból,Höfuðbóli
 276,Ingunnarstaðir,Ingunnarstöðum
@@ -71881,8 +71924,10 @@ POSTNR,HEITI_NF,HEITI_TGF
 415,Höfðastígur 1,Höfðastíg 1
 415,Höfðastígur 10,Höfðastíg 10
 415,Höfðastígur 12,Höfðastíg 12
+415,Höfðastígur 13,Höfðastíg 13
 415,Höfðastígur 14,Höfðastíg 14
 415,Höfðastígur 15,Höfðastíg 15
+415,Höfðastígur 15 B,Höfðastíg 15 B
 415,Höfðastígur 17,Höfðastíg 17
 415,Höfðastígur 18,Höfðastíg 18
 415,Höfðastígur 20,Höfðastíg 20
@@ -72040,9 +72085,11 @@ POSTNR,HEITI_NF,HEITI_TGF
 415,Völusteinsstræti 32,Völusteinsstræti 32
 415,Völusteinsstræti 34,Völusteinsstræti 34
 415,Völusteinsstræti 36,Völusteinsstræti 36
+415,Völusteinsstræti 37,Völusteinsstræti 37
 415,Völusteinsstræti 38,Völusteinsstræti 38
 415,Völusteinsstræti 4,Völusteinsstræti 4
 415,Völusteinsstræti 40,Völusteinsstræti 40
+415,Völusteinsstræti 41,Völusteinsstræti 41
 415,Völusteinsstræti 5,Völusteinsstræti 5
 415,Völusteinsstræti 6,Völusteinsstræti 6
 415,Völusteinsstræti 7,Völusteinsstræti 7
@@ -73227,6 +73274,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 451,Heimraleiti,Heimraleiti
 451,Hella,Hellu
 451,Hlaðseyri,Hlaðseyri
+451,Hlíðarhvammur,Hlíðarhvammi
 451,Hnjótur 1,Hnjóti 1
 451,Hnjótur 2,Hnjóti 2
 451,Holt,Holti
@@ -74531,6 +74579,15 @@ POSTNR,HEITI_NF,HEITI_TGF
 511,Kleifar,Kleifum
 511,Kleppustaðir,Kleppustöðum
 511,Klúka,Klúku
+511,Klúka 1,Klúku 1
+511,Klúka 2,Klúku 2
+511,Klúka 3,Klúku 3
+511,Klúka 4,Klúku 4
+511,Klúka 5,Klúku 5
+511,Klúka 6,Klúku 6
+511,Klúka 7,Klúku 7
+511,Klúka 8,Klúku 8
+511,Klúka 9,Klúku 9
 511,Kollafjarðarnes,Kollafjarðarnesi
 511,Kvíaból,Kvíabóli
 511,Kálfanes 1,Kálfanesi 1
@@ -74607,6 +74664,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 512,Dalamynni,Dalamynni
 512,Fremri-Bakki,Fremri-Bakka
 512,Gervidalur,Gervidal
+512,Hafnardalsárvirkjun,
 512,Hafnardalur,Hafnardal
 512,Hallsstaðir,Hallsstöðum
 512,Hamar,Hamri
@@ -78393,6 +78451,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 551,Öxl,Öxl
 551,Útvík,Útvík
 551,Útvík 4,Útvík 4
+551,Útvík 5,Útvík 5
 551,Þangskáli,Þangskála
 551,Þorbjargarstaðir,Þorbjargarstöðum
 551,Þröm,Þröm
@@ -78864,6 +78923,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 561,Víkurkot,Víkurkoti
 561,Víðbrún 1,Víðibrún 1
 561,Víðibrekka 16,Víðibrekku 16
+561,Víðibrekka 4,Víðibrekku 4
 561,Víðibrekka 6,Víðibrekku 6
 561,Víðibrekka 8,Víðibrekku 8
 561,Víðibrekka 9,Víðibrekku 9
@@ -88005,6 +88065,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 616,Kolgerði,Kolgerði
 616,Kussungsstaðir,Kussungsstöðum
 616,Laufás,Laufási
+616,Laufás 2,Laufási 2
 616,Laufásbær,Laufásbæ
 616,Laufáskirkja,Laufáskirkju
 616,Litlagerði,Litlagerði
@@ -102759,9 +102820,11 @@ POSTNR,HEITI_NF,HEITI_TGF
 800,Móstekkur 100,Móstekk 100
 800,Móstekkur 101,Móstekk 101
 800,Móstekkur 102,Móstekk 102
+800,Móstekkur 103,Móstekk 103
 800,Móstekkur 104,Móstekk 104
 800,Móstekkur 105,Móstekk 105
 800,Móstekkur 106,Móstekk 106
+800,Móstekkur 107,Móstekk 107
 800,Móstekkur 108,Móstekk 108
 800,Móstekkur 109,Móstekk 109
 800,Móstekkur 10A,Móstekk 10A
@@ -102769,8 +102832,11 @@ POSTNR,HEITI_NF,HEITI_TGF
 800,Móstekkur 10C,Móstekk 10C
 800,Móstekkur 11,Móstekk 11
 800,Móstekkur 110,Móstekk 110
+800,Móstekkur 111,Móstekk 111
 800,Móstekkur 113,Móstekk 113
+800,Móstekkur 115,Móstekk 115
 800,Móstekkur 117,Móstekk 117
+800,Móstekkur 119,Móstekk 119
 800,Móstekkur 121,Móstekk 121
 800,Móstekkur 123,Móstekk 123
 800,Móstekkur 125,Móstekk 125
@@ -106041,6 +106107,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 804,Stóri-Núpur,Stóra-Núpi
 804,Stóri-Núpur 2,Stóra-Núpi 2
 804,Stöng,Stöng
+804,Stöng í Þjórsárdal,Stöng í Þjórsárdal
 804,Stöðulfell,Stöðulfelli
 804,Sultarfit,Sultarfit
 804,Sultartangavirkjun,Sultartangavirkjun
@@ -108598,6 +108665,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 805,Kristínarkot 2,Kristínarkoti 2
 805,Króarholt,Króarholti
 805,Krókur,Króki
+805,Krókur 1,Króki 1
 805,Kvennagönguhólar 1,Kvennagönguhólum 1
 805,Kvennagönguhólar 10,Kvennagönguhólum 10
 805,Kvennagönguhólar 11,Kvennagönguhólum 11
@@ -115115,10 +115183,23 @@ POSTNR,HEITI_NF,HEITI_TGF
 810,Sunnumörk 1,Sunnumörk 1
 810,Sunnumörk 2,Sunnumörk 2
 810,Sunnumörk 3,Sunnumörk 3
+810,Sunnumörk 3B,Sunnumörk 3B
+810,Sunnumörk 3C,Sunnumörk 3C
+810,Sunnumörk 3D,Sunnumörk 3D
+810,Sunnumörk 3E,Sunnumörk 3E
+810,Sunnumörk 3F,Sunnumörk 3F
 810,Sunnumörk 4,Sunnumörk 4
 810,Sunnumörk 5,Sunnumörk 5
+810,Sunnumörk 5B,Sunnumörk 5B
+810,Sunnumörk 5C,Sunnumörk 5C
+810,Sunnumörk 5D,Sunnumörk 5D
+810,Sunnumörk 5E,Sunnumörk 5E
 810,Sunnumörk 6,Sunnumörk 6
 810,Sunnumörk 7,Sunnumörk 7
+810,Sunnumörk 7B,Sunnumörk 7B
+810,Sunnumörk 7C,Sunnumörk 7C
+810,Sunnumörk 7D,Sunnumörk 7D
+810,Sunnumörk 7E,Sunnumörk 7E
 810,Tröllahraun 1,Tröllahrauni 1
 810,Tröllahraun 2,Tröllahrauni 2
 810,Tröllahraun 21,Tröllahrauni 21
@@ -117755,6 +117836,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 825,Stardalur,Stardal
 825,Stardalur 1,Stardal 1
 825,Stardalur 2,Stardal 2
+825,Stardalur 3,Stardali 3
 825,Starkaðarhús 2,Starkaðarhúsi 2
 825,Stjörnusteinar 1,Stjörnusteinum 1
 825,Stjörnusteinar 10,Stjörnusteinum 10
@@ -118397,6 +118479,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 846,Efra-Langholt 2,Efra-Langholti 2
 846,Efra-Sel,Efra-Seli
 846,Efri-Kisubotnar,Efri-Kisubotnum
+846,Fagra-Sel,Fagra-Seli
 846,Fannborgarskáli,Fannborgarskála
 846,Fannborgartangi 1,Fannborgartanga 1
 846,Fannborgartangi 10,Fannborgartanga 10
@@ -118817,6 +118900,11 @@ POSTNR,HEITI_NF,HEITI_TGF
 846,Sandhólar 7,Sandhólum 7
 846,Sandhólar 8,Sandhólum 8
 846,Sandhólar 9,Sandhólum 9
+846,Selsvegur 1,Selsvegi 1
+846,Selsvegur 2,Selsvegi 2
+846,Selsvegur 3,Selsvegi 3
+846,Selsvegur 4,Selsvegi 4
+846,Selsvegur 5,Selsvegi 5
 846,Siggalundur,Siggalundi
 846,Silfurmýri,Silfurmýri
 846,Skipholt 1,Skipholti 1
@@ -122061,6 +122149,12 @@ POSTNR,HEITI_NF,HEITI_TGF
 861,Arnarhóll 2,Arnarhóli 2
 861,Arngeirsstaðir,Arngeirsstöðum
 861,Arngeirsstaðir 2,Arngeirsstöðum 2
+861,Austurmörk 1,Austurmörk 1
+861,Austurmörk 2,Austurmörk 2
+861,Austurmörk 3,Austurmörk 3
+861,Austurmörk 4,Austurmörk 4
+861,Austurmörk 5,Austurmörk 5
+861,Austurmörk 6,Austurmörk 6
 861,B-Gata 10,B-Götu 10
 861,B-Gata 11,B-Götu 11
 861,B-Gata 12,B-Götu 12
@@ -122824,6 +122918,11 @@ POSTNR,HEITI_NF,HEITI_TGF
 861,Neðri-Þverá,Neðri-Þverá
 861,Nikulásarhús,Nikulásarhúsi
 861,Njálsbúð,Njálsbúð
+861,Norðurmörk 1,Norðurmörk 1
+861,Norðurmörk 2,Norðurmörk 2
+861,Norðurmörk 3,Norðurmörk 3
+861,Norðurmörk 4,Norðurmörk 4
+861,Norðurmörk 5,Norðurmörk 5
 861,Nátthagi 1,Nátthaga 1
 861,Nátthagi 10,Nátthaga 10
 861,Nátthagi 11,Nátthaga 11
@@ -123055,6 +123154,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 861,Syðri-Úlfsstaðir,Syðri-Úlfsstöðum
 861,Syðsta-Grund,Syðstu-Grund
 861,Syðsta-Mörk,Syðstu-Mörk
+861,Syðsta-Mörk 1,Syðstu-Mörk 1
 861,Sámsstaðarbakki,Sámsstaðarbakka
 861,Sámsstaðir 1,Sámsstöðum 1
 861,Sámsstaðir 2,Sámsstöðum 2
@@ -123126,6 +123226,13 @@ POSTNR,HEITI_NF,HEITI_TGF
 861,Vesturholt,Vesturholti
 861,Vesturholt Gljábakki,Vesturholt Gljábakka
 861,Vesturskák 1,Vesturskák 1
+861,Veturmörk 1,Vesturmörk 1
+861,Veturmörk 2,Vesturmörk 2
+861,Veturmörk 3,Vesturmörk 3
+861,Veturmörk 4,Vesturmörk 4
+861,Veturmörk 5,Vesturmörk 5
+861,Veturmörk 6,Vesturmörk 6
+861,Veturmörk 7,Vesturmörk 7
 861,Vin,Vin
 861,Vindás,Vindási
 861,Virkishamar,Virkishamri
