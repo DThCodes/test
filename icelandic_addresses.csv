@@ -7798,8 +7798,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 105,Skógarhlíð 18,Skógarhlíð 18
 105,Skógarhlíð 2,Skógarhlíð 2
 105,Skógarhlíð 20,Skógarhlíð 20
-105,Skógarhlíð 20 Bl 1,Skógarhlíð
-105,Skógarhlíð 20 Bl 2,Skógarhlíð
 105,Skógarhlíð 22,Skógarhlíð 22
 105,Skógarhlíð 2B,Skógarhlíð 2B
 105,Skógarhlíð 6,Skógarhlíð 6
@@ -25396,7 +25394,10 @@ POSTNR,HEITI_NF,HEITI_TGF
 200,Digranesheiði 4,Digranesheiði 4
 200,Digranesheiði 41,Digranesheiði 41
 200,Digranesheiði 43,Digranesheiði 43
-200,Digranesheiði 45,Digranesheiði 45
+200,Digranesheiði 45A,Digranesheiði 45A
+200,Digranesheiði 45B,Digranesheiði 45B
+200,Digranesheiði 45C,Digranesheiði 45C
+200,Digranesheiði 45D,Digranesheiði 45D
 200,Digranesheiði 47,Digranesheiði 47
 200,Digranesheiði 5,Digranesheiði 5
 200,Digranesheiði 6,Digranesheiði 6
@@ -62329,6 +62330,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 311,Brennistaðir,Brennistöðum
 311,Brennuland,Brennulandi
 311,Bræðrasel,Bræðraseli
+311,Brókarstígur,Brókarstíg
 311,Brókarstígur 1,Brókarstíg 1
 311,Brókarstígur 10,Brókarstíg 10
 311,Brókarstígur 11,Brókarstíg 11
@@ -67438,6 +67440,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 341,Hraunsfjörður,Hraunsfirði
 341,Hrísafell,Hrísafelli
 341,Hrísakot,Hrísakoti
+341,Hrísakot spennistöð,Hrísakoti spennistöð
 341,Hrísanes,Hrísanesi
 341,Hrísar,Hrísum
 341,Hrísar - Millispilda Hrísanes,
@@ -68028,6 +68031,9 @@ POSTNR,HEITI_NF,HEITI_TGF
 350,Hrannarstígur 38,Hrannarstíg 38
 350,Hrannarstígur 4,Hrannarstíg 4
 350,Hrannarstígur 40,Hrannarstíg 40
+350,Hrannarstígur 42,Hrannarstíg 42
+350,Hrannarstígur 44,Hrannarstíg 44
+350,Hrannarstígur 46,Hrannarstíg 46
 350,Hrannarstígur 5,Hrannarstíg 5
 350,Hrannarstígur 5A,Hrannarstíg 5A
 350,Hrannarstígur 5B,Hrannarstíg 5B
@@ -68739,6 +68745,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 356,Bjarnarfoss,Bjarnarfossi
 356,Bjarnarfoss II,Bjarnarfossi II
 356,Bjarnarfosskot,Bjarnarfosskoti
+356,Bjarnarfosskot II,Bjarnarfosskoti II
 356,Bjálkastaðir,Bjálkastöðum
 356,Bláfeldur,Bláfeldi
 356,Brautarholt,Brautarholti
@@ -69462,6 +69469,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 370,Bakkahvammur 8D,Bakkahvammi 8D
 370,Bakkahvammur 8E,Bakkahvammi 8E
 370,Bakkahvammur 9,Bakkahvammi 9
+370,Borgarbraut,Borgarbraut
 370,Borgarbraut 1,Borgarbraut 1
 370,Borgarbraut 2,Borgarbraut 2
 370,Borgarbraut 2A,Borgarbraut 2A
@@ -70828,6 +70836,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 400,Hnífsdalsvegur 8,Hnífsdalsvegi 8
 400,Hnífsdalsvegur 8A,Hnífsdalsvegi 8A
 400,Holt,Holti
+400,Hrafnatangi 1,Hrafnatanga 1
 400,Hrafnatangi 2,Hrafnatanga 2
 400,Hrafnatangi 4,Hrafnatanga 4
 400,Hrafnatangi 6,Hrafnatanga 6
@@ -71066,6 +71075,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 400,Sindragata 7,Sindragötu 7
 400,Sindragata 8,Sindragötu 8
 400,Sindragata 9,Sindragötu 9
+400,Skarfatangi 1,Skarfatanga 1
 400,Skarfatangi 6,Skarfatanga 6
 400,Skeið 1,Skeiði 1
 400,Skeið 3,Skeiði 3
@@ -71186,6 +71196,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 400,Suðurgata 8,Suðurgötu 8
 400,Suðurgata 9,Suðurgötu 9
 400,Suðurtangi 14,Suðurtanga 14
+400,Suðurtangi 1A,Suðurtanga 1A
 400,Suðurtangi 2,Suðurtanga 2
 400,Suðurtangi 6,Suðurtanga 6
 400,Suðurtangi 7,Suðurtanga 7
@@ -74228,6 +74239,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 500,Melar 2,Melum 2
 500,Melar 3,Melum 3
 500,Meleyri,Meleyri
+500,Mið-Foss,Mið-Fossi
 500,Miðhús,Miðhúsum
 500,Neðri-Foss,Neðri-Fossi
 500,Oddsstaðir,Oddsstöðum
@@ -92028,7 +92040,9 @@ POSTNR,HEITI_NF,HEITI_TGF
 671,Rjúpnalundur 12,Rjúpnalundi 12
 671,Rjúpnalundur 3,Rjúpnalundi 3
 671,Rjúpnalundur 5,Rjúpnalundi 5
+671,Rjúpnalundur 6,Rjúpnalundi 6
 671,Rjúpnalundur 7,Rjúpnalundi 7
+671,Rjúpnalundur 8,Rjúpnalundi 8
 671,Röndin,Röndinni
 671,Sandfell,Sandfelli
 671,Sandfellshagi 1,Sandfellshaga 1
@@ -96134,6 +96148,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 730,Búðareyri 1,Búðareyri 1
 730,Búðareyri 10,Búðareyri 10
 730,Búðareyri 11,Búðareyri 11
+730,Búðareyri 12,Búðareyri 12
 730,Búðareyri 15,Búðareyri 15
 730,Búðareyri 17,Búðareyri 17
 730,Búðareyri 19,Búðareyri 19
@@ -96651,6 +96666,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 731,Seljateigshjáleiga 2,Seljateigshjáleigu 2
 731,Seljateigur,Seljateigi
 731,Slétta,Sléttu
+731,Slétta 1,Sléttu 1
 731,Slétta 2,Sléttu 2
 731,Sléttunes 1,Sléttunesi 1
 731,Stuðlar,Stuðlum
@@ -104853,7 +104869,14 @@ POSTNR,HEITI_NF,HEITI_TGF
 801,Útgarður,Útgarði
 801,Þórðarkot,Þórðarkoti
 803,Akurholt,Akurholti
+803,Akurholt 1,Akurholti 1
+803,Akurholt 10,Akurholti 10
+803,Akurholt 2,Akurholti 2
+803,Akurholt 3,Akurholti 3
+803,Akurholt 4,Akurholti 4
+803,Akurholt 5,Akurholti 5
 803,Akurholt 6,Akurholti 6
+803,Akurholt 7,Akurholti 7
 803,Akurholt 8,Akurholti 8
 803,Arabæjarhjáleiga,Arabæjarhjáleigu
 803,Arabær,Arabæ
@@ -111416,6 +111439,13 @@ POSTNR,HEITI_NF,HEITI_TGF
 806,Brúsaholt 5,Brúsaholti 5
 806,Brúsaholt 9,Brúsaholti 9
 806,Brúsastaðir,Brúsastöðum
+806,Bæjargilsvegur 59,Bæjargilsvegi 59
+806,Bæjargilsvegur 67,Bæjargilsvegi 67
+806,Bæjargilsvegur 76,Bæjargilsvegi 76
+806,Bæjargilsvegur 77,Bæjargilsvegi 77
+806,Bæjargilsvegur 78,Bæjargilsvegi 78
+806,Bæjargilsvegur 79,Bæjargilsvegi 79
+806,Bæjargilsvegur 88,Bæjargilsvegi 88
 806,Bæjarholt 1,Bæjarholti 1
 806,Bæjarholt 10,Bæjarholti 10
 806,Bæjarholt 11,Bæjarholti 11
@@ -115452,9 +115482,17 @@ POSTNR,HEITI_NF,HEITI_TGF
 815,Arnarvík 12,Arnarvík 12
 815,Arnarvík 14,Arnarvík 14
 815,Arnarvík 16,Arnarvík 16
+815,Arnarvík 17,Arnarvík 17
 815,Arnarvík 18,Arnarvík 18
 815,Arnarvík 2,Arnarvík 2
 815,Arnarvík 20,Arnarvík 20
+815,Arnarvík 22,Arnarvík 22
+815,Arnarvík 23,Arnarvík 23
+815,Arnarvík 24,Arnarvík 24
+815,Arnarvík 26,Arnarvík 26
+815,Arnarvík 28,Arnarvík 28
+815,Arnarvík 29,Arnarvík 29
+815,Arnarvík 30,Arnarvík 30
 815,Arnarvík 9,Arnarvík 9
 815,Birkimói 1,Birkimóa 1
 815,Birkimói 10,Birkimóa 10
@@ -116013,6 +116051,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 815,Lyngberg 7,Lyngbergi 7
 815,Lyngberg 8,Lyngbergi 8
 815,Lyngberg 9,Lyngbergi 9
+815,Lóuvík 2,Lóuvík 2
+815,Lóuvík 8,Lóuvík 8
 815,Lýsuberg 10,Lýsubergi 10
 815,Lýsuberg 11,Lýsubergi 11
 815,Lýsuberg 12,Lýsubergi 12
@@ -116048,6 +116088,12 @@ POSTNR,HEITI_NF,HEITI_TGF
 815,Mánabraut 7,Mánabraut 7
 815,Mánabraut 8,Mánabraut 8
 815,Mánabraut 9,Mánabraut 9
+815,Mávavík 14,Mávavík 14
+815,Mávavík 2,Mávavík 2
+815,Mávavík 20,Mávavík 20
+815,Mávavík 26,Mávavík 26
+815,Mávavík 32,Mávavík 32
+815,Mávavík 8,Mávavík 8
 815,Nesbraut 1,Nesbraut 1
 815,Nesbraut 25,Nesbraut 25
 815,Nesbraut 3,Nesbraut 3
@@ -116299,6 +116345,13 @@ POSTNR,HEITI_NF,HEITI_TGF
 815,Skálholtsbraut 7,Skálholtsbraut 7
 815,Skálholtsbraut 9,Skálholtsbraut 9
 815,Skötubót,Skötubót
+815,Smyrlavík 10,Smyrlavík 10
+815,Smyrlavík 18,Smyrlavík 18
+815,Smyrlavík 2,Smyrlavík 2
+815,Smyrlavík 26,Smyrlavík 26
+815,Smyrlavík 30,Smyrlavík 30
+815,Smyrlavík 36,Smyrlavík 36
+815,Smyrlavík 40,Smyrlavík 40
 815,Sunnubraut 1,Sunnubraut 1
 815,Sunnubraut 10,Sunnubraut 10
 815,Sunnubraut 11,Sunnubraut 11
