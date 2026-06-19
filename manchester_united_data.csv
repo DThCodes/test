@@ -1265,6 +1265,7 @@ season,position,,team,played,won,drawn,lost,goals,goal difference,points,goals f
 2024-2025,16.0,,Manchester United,36,10,9,17,42:53,-11,39,42,53,1.08,L,L-L-D-L-L,0,1,22,9
 2024-2025,16.0,,Manchester United,37,10,9,18,42:54,-12,39,42,54,1.05,L,L-D-L-L-L,0,1,22,9
 2024-2025,15.0,,Manchester United,38,11,9,18,44:54,-10,42,44,54,1.11,W,D-L-L-L-W,1,0,23,10
+2025-2026,16,,Manchester United,0,0,0,0,0:0,0,0,0,0,0.0,,,0,0,0,1
 2025-2026,nan,,Manchester United,1,0,0,1,0:1,-1,0,0,1,0.0,L,L,0,1,0,0
 2025-2026,16.0,,Manchester United,2,0,1,1,1:2,-1,1,1,2,0.5,D,L-D,1,1,1,0
 2025-2026,9.0,,Manchester United,3,1,1,1,4:4,0,4,4,4,1.33,W,L-D-W,1,1,2,0
@@ -1302,4 +1303,4 @@ season,position,,team,played,won,drawn,lost,goals,goal difference,points,goals f
 2025-2026,3.0,,Manchester United,35,18,10,7,63:48,15,64,63,48,1.83,W,D-L-W-W-W,1,1,32,6
 2025-2026,3.0,,Manchester United,36,18,11,7,63:48,15,65,63,48,1.81,D,L-W-W-W-D,0,0,32,7
 2025-2026,3.0,,Manchester United,37,19,11,7,66:50,16,68,66,50,1.84,W,W-W-W-D-W,1,1,33,7
-2025-2026,3,,Manchester United,38,20,11,7,69:50,19,71,69,50,1.87,W,W-W-D-W-W,1,0,34,8
+2025-2026,3.0,,Manchester United,38,20,11,7,69:50,19,71,69,50,1.87,W,W-W-D-W-W,1,0,34,8
