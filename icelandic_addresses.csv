@@ -55895,6 +55895,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 271.0,Hraðastaðavegur 10,Hraðastaðavegi 10
 271.0,Hraðastaðavegur 11,Hraðastaðavegi 11
 271.0,Hraðastaðavegur 11A,Hraðastaðavegi 11A
+271.0,Hraðastaðavegur 12,Hraðastaðavegi 12
 271.0,Hraðastaðavegur 13,Hraðastaðavegi 13
 271.0,Hraðastaðavegur 15,Hraðastaðavegi 15
 271.0,Hraðastaðavegur 17,Hraðastaðavegi 17
@@ -56330,7 +56331,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 271.0,Tjarnavegur 8,Tjarnavegi 8
 271.0,Trölladyngja,Trölladyngju
 271.0,Tígulsteinn,Tígulsteini
-271.0,Túnfótur,
 271.0,Undraland,Undralandi
 271.0,Varmaland,Varmalandi
 271.0,Varmaland 2,Varmalandi 2
@@ -67440,10 +67440,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 341.0,Birkilundur 2,Birkilundi 2
 341.0,Birkilundur 20,Birkilundi 20
 341.0,Birkilundur 21,Birkilundi 21
-341.0,Birkilundur 21a,Birkilundi 21a
-341.0,Birkilundur 22,Birkilundi 22
-341.0,Birkilundur 22a,Birkilundi 22a
-341.0,Birkilundur 23,Birkilundi 23
 341.0,Birkilundur 24,Birkilundi 24
 341.0,Birkilundur 25,Birkilundi 25
 341.0,Birkilundur 26,Birkilundi 26
@@ -69040,6 +69036,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 356.0,Kjarvalströð 9,Kjarvalströð 9
 356.0,Klettaborg,Klettaborg
 356.0,Klettakot,Klettakoti
+356.0,Klettakot 2,Klettakoti 2
+356.0,Klettakot 3,Klettakoti 3
 356.0,Knarrarland landsp.,Knarrarlandi landsp.
 356.0,Knörr,Knerri
 356.0,Kreppukot,Kreppukoti
@@ -78321,7 +78319,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 551.0,Hóladómkirkja,Hóladómkirkju
 551.0,Hólakot,Hólakoti
 551.0,Hólar,Hólum
-551.0,Hólaskóli,Hólaskóla
+551.0,Hólar/skólahús,
 551.0,Hólkot,Hólkoti
 551.0,Hóll,Hóli
 551.0,Illugastaðir,Illugastöðum
@@ -87187,6 +87185,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 605.0,Öxnafell,Öxnafelli
 605.0,Öxnafell II,Öxnafelli II
 605.0,Útibær,Útibæ
+605.0,Þorbjargarhagi,Þorbjargarhaga
 605.0,Þormóðsstaðir,Þormóðsstöðum
 605.0,Þormóðsstaðir II,Þormóðsstöðum II
 605.0,Þrastalundur,Þrastalundi
@@ -88225,7 +88224,9 @@ POSTNR,HEITI_NF,HEITI_TGF
 616.0,Rimar,Rimum
 616.0,Réttarholt,Réttarholti
 616.0,Réttarholt 3,Réttarholti 3
+616.0,Réttarholt 4,Réttarholti 4
 616.0,Réttarholt II,Réttarholti II
+616.0,Réttarholt II millispilda,Réttarholti II millispildu
 616.0,Saurbrúargerði,Saurbrúargerði
 616.0,Sigríðarstaðir,Sigríðarstöðum
 616.0,Skarð,Skarði
@@ -105804,7 +105805,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 804.0,Gljúfurleit,Gljúfurleit
 804.0,Glóruhlíð,Glóruhlíð
 804.0,Gnúpverjaafréttur,Gnúpverjaafrétti
-804.0,Gnúpverjaskóli,Gnúpverjaskóla
 804.0,Grandi 1,Granda 1
 804.0,Grandi 3,Granda 3
 804.0,Grandi 5,Granda 5
@@ -106421,6 +106421,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 804.0,Þjórsárdalur,Þjórsárdal
 804.0,Þjórsárholt,Þjórsárholti
 804.0,Þjórsárjökull,Þjórsárjökli
+804.0,Þjórsárskóli,Þjórsárskóla
 804.0,Þjóðveldisbær 1,Þjóðveldisbæ 1
 804.0,Þjóðveldisbær 2,Þjóðveldisbæ 2
 804.0,Þrándarholt,Þrándarholti
@@ -119752,7 +119753,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 850.0,Rangárflatir 10,Rangárflötum 10
 850.0,Rangárflatir 2,Rangárflötum 2
 850.0,Rangárflatir 4,Rangárflötum 4
-850.0,Rangárflatir 4B,Rangárflötum 4B
 850.0,Rangárflatir 6,Rangárflötum 6
 850.0,Rangárflatir 8,Rangárflötum 8
 850.0,Sandalda 10,Sandöldu 10
@@ -126371,4 +126371,5 @@ POSTNR,HEITI_NF,HEITI_TGF
 900.0,Ægisgata 3,Ægisgötu 3
 900.0,Þrídrangaviti,Þrídrangavita
 ,Keldunúpur 1,
+,Straumur,
 ,Vaðnesvegur 2A,
