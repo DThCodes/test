@@ -31778,7 +31778,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 1000,201,Sólarsalir,Sólarsölum,9
 1000,201,Rjúpnasalir,Rjúpnasölum,4
 1000,201,Rjúpnasalir,Rjúpnasölum,8
-1400,220,Óseyrarbraut,Óseyrarbraut,40A
+1400,220,Hvaleyrarbakki,Hvaleyrarbakka,2
 1300,210,Birkiás,Birkiási,15
 1300,210,Birkiás,Birkiási,19
 0000,112,Ljósavík,Ljósuvík,52A
@@ -105604,6 +105604,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 6515,604,Lerkigerði,Lerkigerði,
 8401,781,Sefdalur,Sefdal,5
 5508,531,Víðigerði,Víðigerði,
+1604,271,Djúpadalsvegur,Djúpadalsvegi,2
 1604,271,Djúpadalsvegur,Djúpadalsvegi,10
 1000,200,Álftröð,Álftröð,7
 6513,605,Höskuldsstaðir,Höskuldsstöðum,
@@ -130264,7 +130265,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 8200,801,Suðurbraut,Suðurbraut,37
 8200,801,Suðurbraut,Suðurbraut,44
 8613,861,Hólavatn,Hólavatni,
-1400,220,Óseyrarbraut,Óseyrarbraut,40M
+1400,220,Suðurgarður,Suðurgarði,1
 1400,220,Hjallabraut,Hjallabraut,55
 7300,730,Réttarholt,Réttarholti,3
 3716,341,Hofsstaðaland,Hofsstaðalandi,

@@ -36497,6 +36497,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 220,Hringbraut 78,Hringbraut 78
 220,Hringbraut 80,Hringbraut 80
 220,Hringbraut 9,Hringbraut 9
+220,Hvaleyrarbakki 2,Hvaleyrarbakka 2
 220,Hvaleyrarbraut,Hvaleyrarbraut
 220,Hvaleyrarbraut 10,Hvaleyrarbraut 10
 220,Hvaleyrarbraut 12,Hvaleyrarbraut 12
@@ -37971,6 +37972,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 220,Suðurbraut 4,Suðurbraut 4
 220,Suðurbraut 6,Suðurbraut 6
 220,Suðurbraut 8,Suðurbraut 8
+220,Suðurgarður 1,Suðurgarði 1
 220,Suðurgata 100,Suðurgötu 100
 220,Suðurgata 104,Suðurgötu 104
 220,Suðurgata 106,Suðurgötu 106
@@ -38623,12 +38625,10 @@ POSTNR,HEITI_NF,HEITI_TGF
 220,Óseyrarbraut 31A,Óseyrarbraut 31A
 220,Óseyrarbraut 31B,Óseyrabraut 31B
 220,Óseyrarbraut 4,Óseyrarbraut 4
-220,Óseyrarbraut 40A,Óseyrarbraut 40A
 220,Óseyrarbraut 40E,Óseyrarbraut 40E
 220,Óseyrarbraut 40F,Óseyrarbraut 40F
 220,Óseyrarbraut 40G,Óseyrarbraut 40G
 220,Óseyrarbraut 40K,Óseyrarbraut 40K
-220,Óseyrarbraut 40M,Óseyrarbraut 40M
 220,Óseyrarbraut 5,Óseyrarbraut 5
 220,Óseyrarbraut 5A,Óseyrarbraut 5A
 220,Óseyrarbraut 6,Óseyrarbraut 6
@@ -55741,6 +55741,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 271,Djúpadalsvegur 10,Djúpadalsvegi 10
 271,Djúpadalsvegur 11,Djúpadalsvegi 11
 271,Djúpadalsvegur 13,Djúpadalsvegi 13
+271,Djúpadalsvegur 2,Djúpadalsvegi 2
 271,Dísarhöll,Dísarhöll
 271,Efri-Hvoll,Efri-Hvoli
 271,Egilsmói 10,Egilsmóa 10
