@@ -16281,7 +16281,6 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 7400,700,Klettasel,Klettaseli,2
 7400,700,Klettasel,Klettaseli,4
 7400,700,Dalsel,Dalseli,1
-7400,700,Dalsel,Dalseli,5
 7400,700,Dalsel,Dalseli,9
 7400,700,Dalsel,Dalseli,2
 7400,700,Dalsel,Dalseli,12
@@ -60265,7 +60264,6 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 7400,700,Klettasel,Klettaseli,1
 7400,700,Klettasel,Klettaseli,5
 7400,700,Klettasel,Klettaseli,8
-7400,700,Dalsel,Dalseli,3
 7400,700,Dalsel,Dalseli,7
 7400,700,Dalsel,Dalseli,11
 7400,700,Dalsel,Dalseli,4
@@ -104083,7 +104081,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 1604,271,Dalhólar,Dalhólum,
 2000,233,Kirkjuvogur,Kirkjuvogi,4
 4502,381,Rauðamýri,Rauðamýri,
-1300,225,Landakot II,Landakoti II,
+1300,225,Landakot,Landakoti,
 1300,225,Akrakot,Akrakoti,
 1300,225,Akrakot,Akrakoti,
 1300,225,Blikastígur,Blikastíg,1
@@ -105602,6 +105600,8 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 8508,870,Klettsvegur,Klettsvegi,3E
 8401,785,Sandfell,Sandfelli,
 6515,604,Lerkigerði,Lerkigerði,
+6400,620,Böggvisstaðir,Böggvisstöðum,1E
+6400,620,Böggvisstaðir,Böggvisstöðum,1H
 8401,781,Sefdalur,Sefdal,5
 5508,531,Víðigerði,Víðigerði,
 1604,271,Djúpadalsvegur,Djúpadalsvegi,2
@@ -107887,6 +107887,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 4502,381,Árbær,Árbæ,
 6400,621,Öldugata,Öldugötu,8
 1400,221,Tunguhella,Tunguhellu,11U
+7400,701,Sel,Seli,
 8717,815,Selvogsbraut,Selvogsbraut,47E
 8717,815,Selvogsbraut,Selvogsbraut,47F
 5716,561,Frostastaðir,Frostastöðum,3
@@ -108841,7 +108842,6 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 6250,580,Snorragata,Snorragötu,4
 8200,800,Björkurstekkur,Björkurstekk,1C
 7400,701,Skjöldólfsstaðir,Skjöldólfsstöðum,1
-8401,781,Smyrlabjörg,Smyrlabjörgum,
 1400,221,Álhella,Álhellu,22H
 1400,221,Álhella,Álhellu,22I
 1400,221,Álhella,Álhellu,22N
@@ -110475,6 +110475,10 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 2510,250,Háteigur,Háteigi,50
 6601,606,Birnubarð,Birnubarði,
 6601,606,Geldingsá,Geldingsá,2
+6400,620,Böggvisstaðir,Böggvisstöðum,1C
+6400,620,Böggvisstaðir,Böggvisstöðum,1D
+6400,620,Böggvisstaðir,Böggvisstöðum,1F
+6400,620,Böggvisstaðir,Böggvisstöðum,1G
 7400,765,Búland,Búlandi,18
 0000,110,Rafstöðvarvegur,Rafstöðvarvegi,51
 0000,110,Rafstöðvarvegur,Rafstöðvarvegi,53
@@ -112889,6 +112893,11 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 7400,720,Kögur,Kögri,
 8721,806,Haukadalur,Haukadal,4
 8200,800,Þúfulækur,Þúfulæk,3
+7400,701,Stekkjarbrekka,Stekkjarbrekku,2
+7400,701,Stekkjarbrekka,Stekkjarbrekku,4
+7400,701,Stekkjarbrekka,Stekkjarbrekku,6
+7400,701,Stekkjarbrekka,Stekkjarbrekku,8
+7400,701,Stekkjarbrekka,Stekkjarbrekku,9
 1000,200,Hamraborg,Hamraborg,8
 8719,805,Garðarsbraut,Garðarsbraut,7
 8719,805,Hestur,Hesti,
@@ -113056,7 +113065,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 8610,851,Kálfholt,Kálfholti,
 8610,851,Lindarbær,Lindarbæ,2
 8610,851,Sumarliðabær,Sumarliðabæ,
-8610,851,Sumarliðabær,Sumarliðabæ,
+8610,851,Sumarhlíð,Sumarhlíð,
 8610,851,Þjórsártún,Þjórsártúni,
 8610,851,Þjórsá-Tveir hólmar,Þjórsá,
 6400,621,Selá,Selá,
@@ -114559,6 +114568,8 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 8508,870,Smiðjuvegur,Smiðjuvegi,14B
 8508,870,Smiðjuvegur,Smiðjuvegi,20B
 1604,271,Helgadalsvegur,Helgadalsvegi,46
+7400,701,Stekkjarbrekka,Stekkjarbrekku,11
+7400,701,Stekkjarbrekka,Stekkjarbrekku,12
 6000,600,Þórunnarstræti,Þórunnarstræti,108B
 3609,311,Laufásland,Laufáslandi,
 6613,641,Lerkiholt,Lerkiholti,
@@ -117181,6 +117192,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 3609,311,Snorrastaðir,Snorrastöðum,
 7400,700,Miðvangur,Miðvangi,8C
 1300,210,Vetrarbraut,Vetrarbraut,2A
+6000,603,Baldursnes,Baldursnesi,9B
 8721,806,Hellunesgata,Hellunesgötu,11
 8614,851,Leynir,Leyni,4
 1000,203,Tröllakór,Tröllakór,
@@ -117369,6 +117381,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 8401,781,Skálafell,Skálafelli,
 8401,781,Skálafell,Skálafelli,
 5716,550,Borgarflöt,Borgarflöt,35
+5613,541,Reykir,Reykjum,
 8614,851,Hrafnholt,Hrafnholti,2
 8614,851,Hrafnaþing,Hrafnaþingi,
 8614,851,Hrafntóftir,Hrafntóftum,2C
@@ -119138,7 +119151,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 1400,221,Nónhamar,Nónhamri,3A
 8613,860,Austurvegur,Austurvegi,6A
 8613,860,Hlíðarvegur,Hlíðarvegi,1
-8613,860,Sóleyjargata,,10
+8613,860,Bæjarbraut,Bæjarbraut,10
 1400,221,Hringhamar,Hringhamri,2B
 1400,221,Hringhamar,Hringhamri,4F
 5508,531,Reynhólar,Reynhólum,2
@@ -122075,7 +122088,6 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 6601,606,Bakkatún 41,Bakkatúni 41,
 8509,881,Sjónarhóll,Sjónarhóli,
 1400,221,Hádegisskarð,Hádegisskarði,24A
-8710,846,Svanabyggð,Svanabyggð,23
 6601,606,Bakkatún 41,Bakkatúni 41,
 4200,401,Horn,Horni,2
 4200,401,Horn,Horni,3
@@ -123474,7 +123486,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 0000,103,Efstaleiti,Efstaleiti,25
 8719,805,Heiðarbraut,Heiðarbraut,15
 8200,800,Víkurheiði,Víkurheiði,11
-8613,860,Sóleyjargata,,2
+8613,860,Bæjarbraut,Bæjarbraut,2
 1400,221,Nónhamar,Nónhamri,1B
 1400,221,Nónhamar,Nónhamri,1D
 1400,221,Nónhamar,Nónhamri,1E
@@ -134194,7 +134206,6 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 1400,221,Stálhella,Stálhellu,22M
 8716,810,Breiðamörk,Breiðumörk,52B
 8716,810,Breiðamörk,Breiðumörk,52C
-8401,781,Smyrlabjörg,Smyrlabjörgum,
 8613,861,Syðsta-Mörk,Syðstu-Mörk,1
 5716,561,Hyrna,Hyrnu,1
 5716,561,Hyrna,Hyrnu,2
@@ -134503,6 +134514,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 8716,810,Árhólmar,Árhólmum,2B
 8716,810,Árhólmar,Árhólmum,3
 2510,250,Háteigur,Háteigi,
+1400,221,Blýhella,Blýhellu,7
 0000,109,Arnarbakki,Arnarbakka,10
 6613,607,Veturliðastaðir,Veturliðastöðum,
 1000,200,Furugrund,Furugrund,18
@@ -134510,6 +134522,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 6000,600,Eiðsvallagata,Eiðsvallagötu,28A
 8610,851,Nýidalur,Nýjadal,
 6000,600,Eiðsvallagata,Eiðsvallagötu,28B
+1400,221,Blýhella,Blýhellu,9
 8720,804,Holtsflöt,Holtsflöt,
 8720,804,Hæll,Hæl,1
 8720,804,Vigdísarflatir,Vigdísarflötum,
@@ -136428,6 +136441,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 2000,230,Fuglavík,Fuglavík,35C
 2000,230,Fuglavík,Fuglavík,35E
 8717,816,Akurholt,Akurholti,
+1400,220,Eyrartröð,Eyrartröð,2H
 8508,870,Sléttuvegur,Sléttuvegi,
 8508,870,Sléttuvegur,Sléttuvegi,9
 8508,870,Sléttuvegur,Sléttuvegi,11
@@ -138528,7 +138542,6 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 8710,846,Iðjuslóð,Iðjuslóð,6
 8710,846,Iðjuslóð,Iðjuslóð,8
 3000,300,Óðinsgata,Óðinsgötu,5A
-1300,225,Hliðsvegur,Hliðsvegi,7A
 6515,604,Lækjarvellir,Lækjarvöllum,19
 6515,604,Lækjarvellir,Lækjarvöllum,21
 6515,604,Lækjarvellir,Lækjarvöllum,22
@@ -138669,6 +138682,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 8613,861,Foss,Fossi,1
 8613,861,Foss,Fossi,2
 8613,861,Foss,Fossi,3
+6400,620,Böggvisstaðir,Böggvisstöðum,1B
 8722,803,Hjálmholt,Hjálmholti,3
 4604,450,Bjarkargata,Bjarkargötu,10A
 4604,450,Bjarkargata,Bjarkargötu,10F
@@ -139051,6 +139065,7 @@ SVFNR,POSTNR,HEITI_NF,HEITI_TGF,HUSMERKING
 7400,700,Selás,Selási,13B
 5716,551,Hólar,Hólum,
 8717,815,Norðurbakki,Norðurbakka,7
+7300,735,Túngata,Túngötu,11B
 8200,800,Ásavað,Ásavaði,20
 6513,605,Bakkatröð,Bakkatröð,26
 1400,220,Fjarðargata,Fjarðargötu,11H

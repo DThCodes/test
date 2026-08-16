@@ -35814,6 +35814,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 220,Eyrartröð 18,Eyrartröð 18
 220,Eyrartröð 2,Eyrartröð 2
 220,Eyrartröð 2A,Eyrartröð 2A
+220,Eyrartröð 2H,Eyrartröð 2H
 220,Eyrartröð 3,Eyrartröð 3
 220,Eyrartröð 4,Eyrartröð 4
 220,Eyrartröð 5,Eyrartröð 5
@@ -39051,6 +39052,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Blómvellir 7,Blómvöllum 7
 221,Blómvellir 8,Blómvöllum 8
 221,Blómvellir 9,Blómvöllum 9
+221,Blýhella 7,Blýhellu 7
+221,Blýhella 9,Blýhellu 9
 221,Borgahella 1,Borgahellu 1
 221,Borgahella 11,Borgahellu 11
 221,Borgahella 13A,Borgahellu 13A
@@ -42997,7 +43000,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 225,Hliðsnes 6B,Hliðsnesi 6B
 225,Hliðsvegur 1,Hliðsvegi 1
 225,Hliðsvegur 7,Hliðsvegi 7
-225,Hliðsvegur 7A,Hliðsvegi 7A
 225,Hof,Hofi
 225,Holtstún 14,Holtstúni 14
 225,Holtstún 16,Holtstúni 16
@@ -43194,7 +43196,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 225,Landakot,Landakoti
 225,Landakot I A,Landakot I A
 225,Landakot I B,Landakoti I B
-225,Landakot II,Landakoti II
 225,Landspilda 1 úr landi,Landspildu 1 úr landi
 225,Leikskólasvæði,Leikskólasvæði
 225,Leirvík,Leirvík
@@ -84095,6 +84096,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 603,Baldursnes 7,Baldursnesi 7
 603,Baldursnes 8,Baldursnesi 8
 603,Baldursnes 9,Baldursnesi 9
+603,Baldursnes 9B,Baldursnesi 9B
 603,Barmahlíð 2,Barmahlíð 2
 603,Barmahlíð 4,Barmahlíð 4
 603,Barmahlíð 6,Barmahlíð 6
@@ -88459,6 +88461,13 @@ POSTNR,HEITI_NF,HEITI_TGF
 620,Böggvisbraut 8,Böggvisbraut 8
 620,Böggvisbraut 9,Böggvisbraut 9
 620,Böggvisstaðir,Böggvisstöðum
+620,Böggvisstaðir 1B,Böggvisstöðum 1B
+620,Böggvisstaðir 1C,Böggvisstöðum 1C
+620,Böggvisstaðir 1D,Böggvisstöðum 1D
+620,Böggvisstaðir 1E,Böggvisstöðum 1E
+620,Böggvisstaðir 1F,Böggvisstöðum 1F
+620,Böggvisstaðir 1G,Böggvisstöðum 1G
+620,Böggvisstaðir 1H,Böggvisstöðum 1H
 620,Böggvisstaðir 2,Böggvisstöðum 2
 620,Dalbraut 1,Dalbraut 1
 620,Dalbraut 10,Dalbraut 10
@@ -93635,9 +93644,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 700,Dalsel 11,Dalseli 11
 700,Dalsel 12,Dalseli 12
 700,Dalsel 2,Dalseli 2
-700,Dalsel 3,Dalseli 3
 700,Dalsel 4,Dalseli 4
-700,Dalsel 5,Dalseli 5
 700,Dalsel 6,Dalseli 6
 700,Dalsel 7,Dalseli 7
 700,Dalsel 8,Dalseli 8
@@ -95300,6 +95307,13 @@ POSTNR,HEITI_NF,HEITI_TGF
 701,Steinholt 4,Steinholti 4
 701,Stekkhólmi 30,Stekkhólma 30
 701,Stekkjarbrekka 10,Stekkjarbrekku 10
+701,Stekkjarbrekka 11,Stekkjarbrekku 11
+701,Stekkjarbrekka 12,Stekkjarbrekku 12
+701,Stekkjarbrekka 2,Stekkjarbrekku 2
+701,Stekkjarbrekka 4,Stekkjarbrekku 4
+701,Stekkjarbrekka 6,Stekkjarbrekku 6
+701,Stekkjarbrekka 8,Stekkjarbrekku 8
+701,Stekkjarbrekka 9,Stekkjarbrekku 9
 701,Stekkjarhjalli,Stekkjarhjalla
 701,Stormur,Stormi
 701,Stormur 14,Stormi 14
@@ -121661,6 +121675,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 851,Stúfholt 2,Stúfholti 2
 851,Stúfholt 3,Stúfholti 3
 851,Stúfholt 4,Stúfholti 4
+851,Sumarhlíð,Sumarhlíð
 851,Sumarliðabær,Sumarliðabæ
 851,Sumarliðabær 2,Sumarliðabæ 2
 851,Suður-Nýibær,Suður-Nýjabæ
@@ -122040,6 +122055,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 860,Bergþórugerði 4,Bergþórugerði 4
 860,Bergþórugerði 6,Bergþórugerði 6
 860,Bergþórugerði 8,Bergþórugerði 8
+860,Bæjarbraut 10,Bæjarbraut 10
+860,Bæjarbraut 2,Bæjarbraut 2
 860,Dalsbakki 1,Dalsbakka 1
 860,Dalsbakki 10,Dalsbakka 10
 860,Dalsbakki 11,Dalsbakka 11
@@ -122484,8 +122501,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 860,Sólbakki 5,Sólbakka 5
 860,Sólbakki 7,Sólbakka 7
 860,Sólbakki 9,Sólbakka 9
-860,Sóleyjargata 10,
-860,Sóleyjargata 2,
 860,Túngata 1,Túngötu 1
 860,Túngata 3,Túngötu 3
 860,Túngata 5,Túngötu 5
