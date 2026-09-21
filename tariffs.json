@@ -4637,7 +4637,8 @@
   },
   {
     "code": "08012200",
-    "desc": "Nýjar eða þurrkaðar, afhýddar parahnetur"
+    "desc": "Nýjar eða þurrkaðar, afhýddar parahnetur",
+    "msa": "4"
   },
   {
     "code": "08013100",
@@ -7185,7 +7186,11 @@
   },
   {
     "code": "18063109",
-    "desc": "Annað fyllt súkkulaði í blokkum"
+    "desc": "Annað fyllt súkkulaði í blokkum",
+    "aliases": [
+      "annað fyllt súkkulaði"
+    ],
+    "msa": "4"
   },
   {
     "code": "18063201",
@@ -7597,7 +7602,8 @@
   },
   {
     "code": "19053110",
-    "desc": "Sætakex, húðað eða hjúpað súkkulaði eða súkkulaðikremi"
+    "desc": "Sætakex, húðað eða hjúpað súkkulaði eða súkkulaðikremi",
+    "msa": "4"
   },
   {
     "code": "19053120",
@@ -8969,7 +8975,11 @@
   },
   {
     "code": "21069099",
-    "desc": "Önnur matvæli ót.a."
+    "desc": "Önnur matvæli ót.a.",
+    "aliases": [
+      "önnur matvæli"
+    ],
+    "msa": "4"
   },
   {
     "code": "22011011",
@@ -14701,7 +14711,11 @@
   },
   {
     "code": "29362900",
-    "desc": "Önnur vítamín og afleiður þeirra"
+    "desc": "Önnur vítamín og afleiður þeirra",
+    "aliases": [
+      "önnur vítamín"
+    ],
+    "msa": "4"
   },
   {
     "code": "29369000",
@@ -15481,7 +15495,11 @@
   },
   {
     "code": "32082009",
-    "desc": "Önnur akryl- eða vinylmálning og -lökk"
+    "desc": "Önnur akryl- eða vinylmálning og -lökk",
+    "aliases": [
+      "önnur málning og lökk"
+    ],
+    "msa": "4"
   },
   {
     "code": "32089001",
@@ -15497,11 +15515,16 @@
   },
   {
     "code": "32089009",
-    "desc": "Önnur málning og lökk"
+    "desc": "Önnur málning og lökk",
+    "msa": "4"
   },
   {
     "code": "32091001",
-    "desc": "Vatnskennd akryl- og vinylmálning og -lökk, með litarefnum"
+    "desc": "Vatnskennd akryl- og vinylmálning og -lökk, með litarefnum",
+    "aliases": [
+      "málning og lökk með litarefnum"
+    ],
+    "msa": "4"
   },
   {
     "code": "32091002",
@@ -15533,7 +15556,8 @@
   },
   {
     "code": "32100019",
-    "desc": "Önnur málning og lökk"
+    "desc": "Önnur málning og lökk",
+    "msa": "4"
   },
   {
     "code": "32100021",
@@ -15561,11 +15585,19 @@
   },
   {
     "code": "32131000",
-    "desc": "Litir í samstæðum til listmálunar, kennslu, skiltagerðar, dægradvalar o.þ.h., í hvers konar umbúðum"
+    "desc": "Litir í samstæðum til listmálunar, kennslu, skiltagerðar, dægradvalar o.þ.h., í hvers konar umbúðum",
+    "aliases": [
+      "litir í samstæðum"
+    ],
+    "msa": "4"
   },
   {
     "code": "32139000",
-    "desc": "Aðrir litir til listmálunar, kennslu, skiltagerðar, dægradvalar o.þ.h., í hvers konar umbúðum"
+    "desc": "Aðrir litir til listmálunar, kennslu, skiltagerðar, dægradvalar o.þ.h., í hvers konar umbúðum",
+    "aliases": [
+      "aðrir litir"
+    ],
+    "msa": "4"
   },
   {
     "code": "32141001",
@@ -15593,7 +15625,8 @@
   },
   {
     "code": "32141009",
-    "desc": "Annað sparsl"
+    "desc": "Annað sparsl",
+    "msa": "4"
   },
   {
     "code": "32149001",
@@ -15629,7 +15662,8 @@
   },
   {
     "code": "32159000",
-    "desc": "Aðrir litir"
+    "desc": "Aðrir litir",
+    "msa": "4"
   },
   {
     "code": "33011200",
@@ -15717,7 +15751,8 @@
   },
   {
     "code": "33030001",
-    "desc": "Ilmvötn"
+    "desc": "Ilmvötn",
+    "msa": "4"
   },
   {
     "code": "33030002",
@@ -15733,7 +15768,8 @@
   },
   {
     "code": "33043010",
-    "desc": "Naglalakk og aðrar naglasnyrtivörur"
+    "desc": "Naglalakk og aðrar naglasnyrtivörur",
+    "msa": "2"
   },
   {
     "code": "33043090",
@@ -15757,7 +15793,10 @@
   },
   {
     "code": "33049909",
-    "desc": "Aðrar snyrtivörur ót.a."
+    "desc": "Aðrar snyrtivörur ót.a.",
+    "aliases": [
+      "aðrar snyrtivörur"
+    ]
   },
   {
     "code": "33051001",
@@ -15777,7 +15816,8 @@
   },
   {
     "code": "33059000",
-    "desc": "Aðrar hársnyrtivörur"
+    "desc": "Aðrar hársnyrtivörur",
+    "msa": "4"
   },
   {
     "code": "33061000",
@@ -15801,11 +15841,19 @@
   },
   {
     "code": "33071000",
-    "desc": "Vörur til nota fyrir, við eða eftir rakstur"
+    "desc": "Vörur til nota fyrir, við eða eftir rakstur",
+    "aliases": [
+      "vörur fyrir rakstur"
+    ],
+    "msa": "0"
   },
   {
     "code": "33072000",
-    "desc": "Lyktareyðir og svitalyktareyðir fyrir karla"
+    "desc": "Lyktareyðir og svitalyktareyðir fyrir karla",
+    "aliases": [
+      "svitalyktareyðir"
+    ],
+    "msa": "4"
   },
   {
     "code": "33073000",
@@ -15833,7 +15881,8 @@
   },
   {
     "code": "34011101",
-    "desc": "Handsápa"
+    "desc": "Handsápa",
+    "msa": "4"
   },
   {
     "code": "34011102",
@@ -15849,7 +15898,11 @@
   },
   {
     "code": "34011901",
-    "desc": "Pappír, vatt, flóki eða vefleysur, gegndreypt, húðað eða hjúpað með sápu eða þvottaefni (blautþurrkur)"
+    "desc": "Pappír, vatt, flóki eða vefleysur, gegndreypt, húðað eða hjúpað með sápu eða þvottaefni (blautþurrkur)",
+    "aliases": [
+      "blautþurrkur"
+    ],
+    "msa": "4"
   },
   {
     "code": "34011909",
@@ -15949,7 +16002,11 @@
   },
   {
     "code": "34029000",
-    "desc": "Önnur lífræn yfirborðsvirk þvottaefni og hreinsiefni"
+    "desc": "Önnur lífræn yfirborðsvirk þvottaefni og hreinsiefni",
+    "aliases": [
+      "önnur þvottaefni"
+    ],
+    "msa": "3"
   },
   {
     "code": "34031100",
@@ -15985,7 +16042,11 @@
   },
   {
     "code": "34051000",
-    "desc": "Skóáburður, leðurfeiti o.þ.h."
+    "desc": "Skóáburður, leðurfeiti o.þ.h.",
+    "aliases": [
+      "leðuráburður"
+    ],
+    "msa": "4"
   },
   {
     "code": "34052001",
@@ -16017,7 +16078,8 @@
   },
   {
     "code": "34060001",
-    "desc": "Kerti"
+    "desc": "Kerti",
+    "msa": "4"
   },
   {
     "code": "34060009",
@@ -16029,7 +16091,8 @@
   },
   {
     "code": "34070009",
-    "desc": "Leir o.þ.h. fyrir börn"
+    "desc": "Leir o.þ.h. fyrir börn",
+    "msa": "4"
   },
   {
     "code": "35011000",
@@ -16109,7 +16172,11 @@
   },
   {
     "code": "35061000",
-    "desc": "Lím eða heftiefni í <= 1 kg smásöluumbúðum"
+    "desc": "Lím eða heftiefni í <= 1 kg smásöluumbúðum",
+    "aliases": [
+      "lím eða heftiefni"
+    ],
+    "msa": "4"
   },
   {
     "code": "35069100",
@@ -16117,7 +16184,11 @@
   },
   {
     "code": "35069900",
-    "desc": "Annað lím eða heftiefni"
+    "desc": "Annað lím eða heftiefni",
+    "aliases": [
+      "annað lím"
+    ],
+    "msa": "4"
   },
   {
     "code": "35071000",
@@ -16309,7 +16380,11 @@
   },
   {
     "code": "37032000",
-    "desc": "Annar ljósmyndapappír o.þ.h. til litljósmyndunar"
+    "desc": "Annar ljósmyndapappír o.þ.h. til litljósmyndunar",
+    "aliases": [
+      "annar ljósmyndapappír"
+    ],
+    "msa": "0"
   },
   {
     "code": "37039001",
@@ -16601,7 +16676,8 @@
   },
   {
     "code": "38140010",
-    "desc": "Þynnar"
+    "desc": "Þynnar",
+    "msa": "4"
   },
   {
     "code": "38140021",
@@ -16793,7 +16869,10 @@
   },
   {
     "code": "38249999",
-    "desc": "Aðrar kemískar vörur og framleiðsla kemísks eða skylds iðnaðar, ót.a."
+    "desc": "Aðrar kemískar vörur og framleiðsla kemísks eða skylds iðnaðar, ót.a.",
+    "aliases": [
+      "aðrar kemískar vörur"
+    ]
   },
   {
     "code": "38251000",
@@ -17497,7 +17576,11 @@
   },
   {
     "code": "39169009",
-    "desc": "Aðrir einþáttungar úr öðru plasti sem eru > 1 mm í Ø, stengur, stafir og prófílar"
+    "desc": "Aðrir einþáttungar úr öðru plasti sem eru > 1 mm í Ø, stengur, stafir og prófílar",
+    "aliases": [
+      "aðrir einþáttungar úr öðru plasti"
+    ],
+    "msa": "3"
   },
   {
     "code": "39171000",
@@ -17585,7 +17668,11 @@
   },
   {
     "code": "39191000",
-    "desc": "Sjálflímandi plötur, blöð, filmur o.þ.h. í rúllum úr plasti, <= 20 cm breiðar"
+    "desc": "Sjálflímandi plötur, blöð, filmur o.þ.h. í rúllum úr plasti, <= 20 cm breiðar",
+    "aliases": [
+      "límbönd"
+    ],
+    "msa": "4"
   },
   {
     "code": "39199010",
@@ -17601,7 +17688,11 @@
   },
   {
     "code": "39199029",
-    "desc": "Aðrar sjálflímandi plötur, blöð og filmur úr plasti"
+    "desc": "Aðrar sjálflímandi plötur, blöð og filmur úr plasti",
+    "aliases": [
+      "límmiðar"
+    ],
+    "msa": "4"
   },
   {
     "code": "39201001",
@@ -17701,7 +17792,11 @@
   },
   {
     "code": "39206209",
-    "desc": "Aðrar plötur, blöð, filmur o.þ.h. án holrúms, úr póly (etylenterefþalati)"
+    "desc": "Aðrar plötur, blöð, filmur o.þ.h. án holrúms, úr póly (etylenterefþalati)",
+    "aliases": [
+      "aðrar plötur, blöð, filmur o.þ.h. úr póly (etylenterefþalati)"
+    ],
+    "msa": "4"
   },
   {
     "code": "39206301",
@@ -17825,7 +17920,8 @@
   },
   {
     "code": "39211909",
-    "desc": "Plötur, blöð, filmur o.þ.h. með holrúmi, úr öðru plasti"
+    "desc": "Plötur, blöð, filmur o.þ.h. með holrúmi, úr öðru plasti",
+    "msa": "4"
   },
   {
     "code": "39219001",
@@ -17869,7 +17965,11 @@
   },
   {
     "code": "39231009",
-    "desc": "Önnur box, kassar, öskjur o.þ.h."
+    "desc": "Önnur box, kassar, öskjur o.þ.h.",
+    "aliases": [
+      "önnur box"
+    ],
+    "msa": "0"
   },
   {
     "code": "39232101",
@@ -17889,7 +17989,11 @@
   },
   {
     "code": "39232109",
-    "desc": "Aðrir sekkir og pokar úr etylenfjölliðum"
+    "desc": "Aðrir sekkir og pokar úr etylenfjölliðum",
+    "aliases": [
+      "aðrir sekkir og pokar úr plasti"
+    ],
+    "msa": "0"
   },
   {
     "code": "39232901",
@@ -17901,7 +18005,11 @@
   },
   {
     "code": "39233010",
-    "desc": "Einnota umbúðir undir matvæli sem taka minna en lítra í rúmmál þ.m.t. svokallaðar skvísur"
+    "desc": "Einnota umbúðir undir matvæli sem taka minna en lítra í rúmmál þ.m.t. svokallaðar skvísur",
+    "aliases": [
+      "einnota umbúðir"
+    ],
+    "msa": "0"
   },
   {
     "code": "39233090",
@@ -17937,7 +18045,8 @@
   },
   {
     "code": "39241020",
-    "desc": "Annar einnota borðbúnaður"
+    "desc": "Annar einnota borðbúnaður",
+    "msa": "0"
   },
   {
     "code": "39241090",
@@ -17949,7 +18058,11 @@
   },
   {
     "code": "39249099",
-    "desc": "Önnur búsáhöld, hreinlætis- eða baðbúnaður úr plasti"
+    "desc": "Önnur búsáhöld, hreinlætis- eða baðbúnaður úr plasti",
+    "aliases": [
+      "búsáhöld úr plasti"
+    ],
+    "msa": "0"
   },
   {
     "code": "39251000",
@@ -17993,11 +18106,20 @@
   },
   {
     "code": "39261001",
-    "desc": "Stenslar o.þ.h."
+    "desc": "Stenslar o.þ.h.",
+    "aliases": [
+      "stenslar"
+    ],
+    "msa": "0"
   },
   {
     "code": "39261009",
-    "desc": "Skrifstofu- eða skólavarningur úr plasti og plastefnum"
+    "desc": "Skrifstofu- eða skólavarningur úr plasti og plastefnum",
+    "aliases": [
+      "skrifstofuvörur úr plasti",
+      "skrifstofu- eða skólavarningur úr plasti"
+    ],
+    "msa": "3"
   },
   {
     "code": "39262010",
@@ -18017,7 +18139,11 @@
   },
   {
     "code": "39264000",
-    "desc": "Styttur o.þ.h. úr plasti og plastefnum"
+    "desc": "Styttur o.þ.h. úr plasti og plastefnum",
+    "aliases": [
+      "styttur úr plasti"
+    ],
+    "msa": "3"
   },
   {
     "code": "39269011",
@@ -18089,7 +18215,11 @@
   },
   {
     "code": "39269090",
-    "desc": "Annað plast ó.t.a"
+    "desc": "Annað plast ó.t.a",
+    "aliases": [
+      "vörur úr plasti"
+    ],
+    "msa": "3"
   },
   {
     "code": "40011000",
@@ -18209,7 +18339,11 @@
   },
   {
     "code": "40081101",
-    "desc": "Gólfefni og veggfóður úr vúlkaníseruðu holgúmmíi"
+    "desc": "Gólfefni og veggfóður úr vúlkaníseruðu holgúmmíi",
+    "aliases": [
+      "gólfefni og veggfóður"
+    ],
+    "msa": "4"
   },
   {
     "code": "40081109",
@@ -18429,15 +18563,21 @@
   },
   {
     "code": "40161009",
-    "desc": "Annað úr vúlkaníseruðu holgúmmíi"
+    "desc": "Annað úr vúlkaníseruðu holgúmmíi",
+    "aliases": [
+      "vörur úr gúmmíi"
+    ],
+    "msa": "4"
   },
   {
     "code": "40169100",
-    "desc": "Gólfábreiður og mottur úr vúlkaníseruðu gúmmíi"
+    "desc": "Gólfábreiður og mottur úr vúlkaníseruðu gúmmíi",
+    "msa": "4"
   },
   {
     "code": "40169200",
-    "desc": "Strokleður"
+    "desc": "Strokleður",
+    "msa": "3"
   },
   {
     "code": "40169300",
@@ -18509,7 +18649,8 @@
   },
   {
     "code": "40169929",
-    "desc": "Aðrar vörur úr vúlkaníseruðu gúmmíi ót.a."
+    "desc": "Aðrar vörur úr vúlkaníseruðu gúmmíi ót.a.",
+    "msa": "4"
   },
   {
     "code": "40170001",
@@ -18805,7 +18946,10 @@
   },
   {
     "code": "42010091",
-    "desc": "Ný söðulklæði, hnakktöskur, hundaklæði, ólar, dráttarólar, mýli o.þ.h., úr hvers konar efni"
+    "desc": "Ný söðulklæði, hnakktöskur, hundaklæði, ólar, dráttarólar, mýli o.þ.h., úr hvers konar efni",
+    "aliases": [
+      "ný söðulklæði, hnakktöskur, hundaklæði, ólar, dráttarólar, mýli o.þ.h."
+    ]
   },
   {
     "code": "42010092",
@@ -18825,11 +18969,16 @@
   },
   {
     "code": "42022100",
-    "desc": "Handtöskur með ytrabyrði úr leðri eða samsettu leðri"
+    "desc": "Handtöskur með ytrabyrði úr leðri eða samsettu leðri",
+    "msa": "0"
   },
   {
     "code": "42022200",
-    "desc": "Handtöskur með ytrabyrði úr plastþynnu eða spunaefni"
+    "desc": "Handtöskur með ytrabyrði úr plastþynnu eða spunaefni",
+    "aliases": [
+      "handtöskur"
+    ],
+    "msa": "0"
   },
   {
     "code": "42022900",
@@ -18841,7 +18990,11 @@
   },
   {
     "code": "42023200",
-    "desc": "Veski o.þ.h. sem venjulega eru borin í vasa eða handtösku, með ytrabyrði úr plastþynnu eða spunaefni"
+    "desc": "Veski o.þ.h. sem venjulega eru borin í vasa eða handtösku, með ytrabyrði úr plastþynnu eða spunaefni",
+    "aliases": [
+      "veski"
+    ],
+    "msa": "0"
   },
   {
     "code": "42023900",
@@ -18849,15 +19002,24 @@
   },
   {
     "code": "42029100",
-    "desc": "Önnur veski og öskjur með ytrabyrði úr leðri aða samsettu leðri"
+    "desc": "Önnur veski og öskjur með ytrabyrði úr leðri aða samsettu leðri",
+    "msa": "0"
   },
   {
     "code": "42029200",
-    "desc": "Önnur veski og öskjur með ytrabyrði úr plastþynnu eða spunaefni"
+    "desc": "Önnur veski og öskjur með ytrabyrði úr plastþynnu eða spunaefni",
+    "aliases": [
+      "aðrar töskur"
+    ],
+    "msa": "0"
   },
   {
     "code": "42029900",
-    "desc": "Önnur veski og öskjur með ytrabyrði úr öðru efni"
+    "desc": "Önnur veski og öskjur með ytrabyrði úr öðru efni",
+    "aliases": [
+      "aðrar töskur"
+    ],
+    "msa": "0"
   },
   {
     "code": "42031001",
@@ -19369,7 +19531,11 @@
   },
   {
     "code": "44089000",
-    "desc": "Þynnur til spónlagningar og þynnur í krossvið úr öðrum viði, <= 6 mm þykkar"
+    "desc": "Þynnur til spónlagningar og þynnur í krossvið úr öðrum viði, <= 6 mm þykkar",
+    "aliases": [
+      "spónn"
+    ],
+    "msa": "0"
   },
   {
     "code": "44091001",
@@ -19521,7 +19687,10 @@
   },
   {
     "code": "44111209",
-    "desc": "Aðrar trefjaplötum að meðalþéttleika (MDF) <=5 mm, að þykkt"
+    "desc": "Aðrar trefjaplötum að meðalþéttleika (MDF) <=5 mm, að þykkt",
+    "aliases": [
+      "aðrar trefjaplötur"
+    ]
   },
   {
     "code": "44111301",
@@ -19849,7 +20018,10 @@
   },
   {
     "code": "44149000",
-    "desc": "Aðrir viðarrammar fyrir málverk, ljósmyndir, spegla og þess háttar"
+    "desc": "Aðrir viðarrammar fyrir málverk, ljósmyndir, spegla og þess háttar",
+    "aliases": [
+      "aðrir viðarrammar"
+    ]
   },
   {
     "code": "44151000",
@@ -20025,7 +20197,11 @@
   },
   {
     "code": "44199000",
-    "desc": "Borðbúnaður og eldhúsbúnaður úr öðrum viði en bambus"
+    "desc": "Borðbúnaður og eldhúsbúnaður úr öðrum viði en bambus",
+    "aliases": [
+      "búsáhöld úr við"
+    ],
+    "msa": "0"
   },
   {
     "code": "44201100",
@@ -20041,7 +20217,8 @@
   },
   {
     "code": "44209009",
-    "desc": "Skrín, kassar o.þ.h. úr viði"
+    "desc": "Skrín, kassar o.þ.h. úr viði",
+    "msa": "0"
   },
   {
     "code": "44211000",
@@ -20097,7 +20274,11 @@
   },
   {
     "code": "44219199",
-    "desc": "Vörur úr bambus ótaldar annarsstaðar"
+    "desc": "Vörur úr bambus ótaldar annarsstaðar",
+    "aliases": [
+      "vörur úr bambus"
+    ],
+    "msa": "0"
   },
   {
     "code": "44219911",
@@ -20221,7 +20402,11 @@
   },
   {
     "code": "45049009",
-    "desc": "Aðrar vörur úr mótuðum korki"
+    "desc": "Aðrar vörur úr mótuðum korki",
+    "aliases": [
+      "vörur úr korki"
+    ],
+    "msa": "0"
   },
   {
     "code": "46012100",
@@ -20581,7 +20766,11 @@
   },
   {
     "code": "48102200",
-    "desc": "Léttur, húðaður skrif-, prent- eða grafískur pappír og pappi > 10% trefjainnihald, í rúllum eða örkum"
+    "desc": "Léttur, húðaður skrif-, prent- eða grafískur pappír og pappi > 10% trefjainnihald, í rúllum eða örkum",
+    "aliases": [
+      "léttur, húðaður skrif-, prent- eða grafískur pappír og pappi"
+    ],
+    "msa": "3"
   },
   {
     "code": "48102900",
@@ -20665,7 +20854,8 @@
   },
   {
     "code": "48119009",
-    "desc": "Annar pappír, pappi, sellulósavatt og vefir úr sellulósatrefjum"
+    "desc": "Annar pappír, pappi, sellulósavatt og vefir úr sellulósatrefjum",
+    "msa": "0"
   },
   {
     "code": "48120000",
@@ -20721,7 +20911,11 @@
   },
   {
     "code": "48171001",
-    "desc": "Óáprentuð umslög"
+    "desc": "Óáprentuð umslög",
+    "aliases": [
+      "umslög"
+    ],
+    "msa": "4"
   },
   {
     "code": "48171009",
@@ -20729,11 +20923,16 @@
   },
   {
     "code": "48172000",
-    "desc": "Bréfkort, póstkort án mynda og skrifkort"
+    "desc": "Bréfkort, póstkort án mynda og skrifkort",
+    "msa": "4"
   },
   {
     "code": "48173000",
-    "desc": "Öskjur, pokar, veski og skrifmöppur úr pappír eða pappa, sem innihalda ýmiss konar bréfsefni"
+    "desc": "Öskjur, pokar, veski og skrifmöppur úr pappír eða pappa, sem innihalda ýmiss konar bréfsefni",
+    "aliases": [
+      "öskjur með bréfsefni"
+    ],
+    "msa": "3"
   },
   {
     "code": "48181000",
@@ -20741,11 +20940,16 @@
   },
   {
     "code": "48182000",
-    "desc": "Vasaklútar, hreinsi- eða andlitsþurrkur og handþurrkur úr pappír"
+    "desc": "Vasaklútar, hreinsi- eða andlitsþurrkur og handþurrkur úr pappír",
+    "aliases": [
+      "þurrkur úr pappír"
+    ],
+    "msa": "4"
   },
   {
     "code": "48183000",
-    "desc": "Borðdúkar og servéttur úr pappír"
+    "desc": "Borðdúkar og servéttur úr pappír",
+    "msa": "4"
   },
   {
     "code": "48185010",
@@ -20769,7 +20973,11 @@
   },
   {
     "code": "48191009",
-    "desc": "Aðrar öskjur, box og kassar úr bylgjupappír eða bylgjupappa"
+    "desc": "Aðrar öskjur, box og kassar úr bylgjupappír eða bylgjupappa",
+    "aliases": [
+      "aðrar öskjur"
+    ],
+    "msa": "0"
   },
   {
     "code": "48192011",
@@ -20833,7 +21041,11 @@
   },
   {
     "code": "48196000",
-    "desc": "Spjaldskrárkassar, bréfabakkar, búðarkassar o.þ.h. til nota á skrifstofum, í verslunum o.þ.h."
+    "desc": "Spjaldskrárkassar, bréfabakkar, búðarkassar o.þ.h. til nota á skrifstofum, í verslunum o.þ.h.",
+    "aliases": [
+      "spjaldskrárkassar, bréfabakkar, búðarkassar o.þ.h."
+    ],
+    "msa": "0"
   },
   {
     "code": "48201001",
@@ -20841,11 +21053,16 @@
   },
   {
     "code": "48201009",
-    "desc": "Aðrar skrár, reikningsbækur, minnisbækur, pöntunarbækur, kvittanabækur, skrifblokkir, minnisblokkir, dagbækur o.þ.h."
+    "desc": "Aðrar skrár, reikningsbækur, minnisbækur, pöntunarbækur, kvittanabækur, skrifblokkir, minnisblokkir, dagbækur o.þ.h.",
+    "aliases": [
+      "skrifblokkir"
+    ],
+    "msa": "4"
   },
   {
     "code": "48202000",
-    "desc": "Stílabækur"
+    "desc": "Stílabækur",
+    "msa": "4"
   },
   {
     "code": "48203000",
@@ -20857,11 +21074,16 @@
   },
   {
     "code": "48205000",
-    "desc": "Albúm fyrir sýnishorn eða söfn"
+    "desc": "Albúm fyrir sýnishorn eða söfn",
+    "msa": "4"
   },
   {
     "code": "48209000",
-    "desc": "Aðrar skrár, bækur, blokkir o.þ.h."
+    "desc": "Aðrar skrár, bækur, blokkir o.þ.h.",
+    "aliases": [
+      "aðrar skrár, bækur og blokkir"
+    ],
+    "msa": "3"
   },
   {
     "code": "48211001",
@@ -20869,7 +21091,11 @@
   },
   {
     "code": "48211009",
-    "desc": "Aðrir áprentaðir pappírs- og pappamiðar"
+    "desc": "Aðrir áprentaðir pappírs- og pappamiðar",
+    "aliases": [
+      "aðrir áprentaðir pappírsmiðar"
+    ],
+    "msa": "4"
   },
   {
     "code": "48219000",
@@ -20913,7 +21139,11 @@
   },
   {
     "code": "48237009",
-    "desc": "Aðrar mótaðar eða þrykktar vörur úr pappírsdeigi"
+    "desc": "Aðrar mótaðar eða þrykktar vörur úr pappírsdeigi",
+    "aliases": [
+      "mótaðar vörur úr pappír"
+    ],
+    "msa": "3"
   },
   {
     "code": "48239001",
@@ -20949,7 +21179,11 @@
   },
   {
     "code": "48239009",
-    "desc": "Aðrar pappírs- og pappavörur ót.a."
+    "desc": "Aðrar pappírs- og pappavörur ót.a.",
+    "aliases": [
+      "aðrar pappírs- og pappavörur"
+    ],
+    "msa": "4"
   },
   {
     "code": "49011001",
@@ -20957,7 +21191,12 @@
   },
   {
     "code": "49011009",
-    "desc": "Bæklingar, blöð o.þ.h. á erlendum málum"
+    "desc": "Bæklingar, blöð o.þ.h. á erlendum málum",
+    "aliases": [
+      "bæklingar",
+      "vörur úr pappír"
+    ],
+    "msa": "3"
   },
   {
     "code": "49019101",
@@ -20973,7 +21212,11 @@
   },
   {
     "code": "49019909",
-    "desc": "Aðrar erlendar bækur"
+    "desc": "Aðrar erlendar bækur",
+    "aliases": [
+      "bækur ekki á íslensku"
+    ],
+    "msa": "3"
   },
   {
     "code": "49021001",
@@ -20993,11 +21236,19 @@
   },
   {
     "code": "49030000",
-    "desc": "Myndabækur, teiknibækur eða litabækur"
+    "desc": "Myndabækur, teiknibækur eða litabækur",
+    "aliases": [
+      "mynda og litabækur"
+    ],
+    "msa": "3"
   },
   {
     "code": "49040000",
-    "desc": "Nótur, prentaðar eða í handriti"
+    "desc": "Nótur, prentaðar eða í handriti",
+    "aliases": [
+      "nótur"
+    ],
+    "msa": "3"
   },
   {
     "code": "49052001",
@@ -21037,7 +21288,11 @@
   },
   {
     "code": "49089000",
-    "desc": "Aðrar þrykkimyndir"
+    "desc": "Aðrar þrykkimyndir",
+    "aliases": [
+      "þrykkimyndir"
+    ],
+    "msa": "4"
   },
   {
     "code": "49090001",
@@ -21045,11 +21300,16 @@
   },
   {
     "code": "49090009",
-    "desc": "Önnur prentuð eða myndskreytt kort, einnig með umslögum"
+    "desc": "Önnur prentuð eða myndskreytt kort, einnig með umslögum",
+    "aliases": [
+      "önnur prentuð kort"
+    ],
+    "msa": "4"
   },
   {
     "code": "49100000",
-    "desc": "Prentuð almanök"
+    "desc": "Prentuð almanök",
+    "msa": "4"
   },
   {
     "code": "49111001",
@@ -21057,7 +21317,11 @@
   },
   {
     "code": "49111009",
-    "desc": "Auglýsingar, vöruskrár o.þ.h., á erlendum málum"
+    "desc": "Auglýsingar, vöruskrár o.þ.h., á erlendum málum",
+    "aliases": [
+      "plaköt"
+    ],
+    "msa": "0"
   },
   {
     "code": "49119101",
@@ -21069,7 +21333,11 @@
   },
   {
     "code": "49119900",
-    "desc": "Aðrar prentvörur ót.a."
+    "desc": "Aðrar prentvörur ót.a.",
+    "aliases": [
+      "aðrar prentvörur"
+    ],
+    "msa": "3"
   },
   {
     "code": "50010000",
@@ -22061,7 +22329,11 @@
   },
   {
     "code": "54075200",
-    "desc": "Ofinn dúkur úr syntetísku þráðgarni (5404), >= 85% hrýft pólyester, litaður"
+    "desc": "Ofinn dúkur úr syntetísku þráðgarni (5404), >= 85% hrýft pólyester, litaður",
+    "aliases": [
+      "ofinn dúkur úr syntetísku þráðgarni"
+    ],
+    "msa": "4"
   },
   {
     "code": "54075300",
@@ -22685,7 +22957,8 @@
   },
   {
     "code": "56021000",
-    "desc": "Stunginn flóki og samstunginn trefjadúkur"
+    "desc": "Stunginn flóki og samstunginn trefjadúkur",
+    "msa": "4"
   },
   {
     "code": "56022100",
@@ -22693,7 +22966,11 @@
   },
   {
     "code": "56022900",
-    "desc": "Annar flóki úr öðrum spunatrefjum"
+    "desc": "Annar flóki úr öðrum spunatrefjum",
+    "aliases": [
+      "annar flóki"
+    ],
+    "msa": "4"
   },
   {
     "code": "56029001",
@@ -22905,7 +23182,8 @@
   },
   {
     "code": "57022000",
-    "desc": "Gólfábreiður úr kókostrefjum"
+    "desc": "Gólfábreiður úr kókostrefjum",
+    "msa": "4"
   },
   {
     "code": "57023100",
@@ -22977,7 +23255,8 @@
   },
   {
     "code": "57033909",
-    "desc": "Önnur límbundin gólfteppi og gólfábreiður úr öðrum tilbúnum spunaefnum"
+    "desc": "Önnur límbundin gólfteppi og gólfábreiður úr öðrum tilbúnum spunaefnum",
+    "msa": "4"
   },
   {
     "code": "57039001",
@@ -23005,7 +23284,11 @@
   },
   {
     "code": "57050009",
-    "desc": "Önnur gólfteppi og ábreiður úr spunaefnum"
+    "desc": "Önnur gólfteppi og ábreiður úr spunaefnum",
+    "aliases": [
+      "dyramottur"
+    ],
+    "msa": "0"
   },
   {
     "code": "58011000",
@@ -23441,7 +23724,11 @@
   },
   {
     "code": "61013000",
-    "desc": "Yfirhafnir karla eða drengja, prjónaðar eða heklaðar, úr tilbúnum trefjum"
+    "desc": "Yfirhafnir karla eða drengja, prjónaðar eða heklaðar, úr tilbúnum trefjum",
+    "aliases": [
+      "yfirhafnir karla eða drengja"
+    ],
+    "msa": "4"
   },
   {
     "code": "61019000",
@@ -23477,7 +23764,11 @@
   },
   {
     "code": "61032200",
-    "desc": "Fatasamstæður karla eða drengja, prjónaðar eða heklaðar, úr baðmull"
+    "desc": "Fatasamstæður karla eða drengja, prjónaðar eða heklaðar, úr baðmull",
+    "aliases": [
+      "fatasamstæður karla eða drengja úr baðmull"
+    ],
+    "msa": "4"
   },
   {
     "code": "61032300",
@@ -23513,7 +23804,11 @@
   },
   {
     "code": "61034300",
-    "desc": "Buxur karla eða drengja, prjónaðar eða heklaðar, úr syntetískum trefjum"
+    "desc": "Buxur karla eða drengja, prjónaðar eða heklaðar, úr syntetískum trefjum",
+    "aliases": [
+      "buxur karla eða drengja úr syntetískum trefjum"
+    ],
+    "msa": "4"
   },
   {
     "code": "61034900",
@@ -23601,7 +23896,11 @@
   },
   {
     "code": "61046300",
-    "desc": "Buxur kvenna eða telpna, prjónaðar eða heklaðar, úr syntetískum trefjum"
+    "desc": "Buxur kvenna eða telpna, prjónaðar eða heklaðar, úr syntetískum trefjum",
+    "aliases": [
+      "buxur kvenna eða telpna úr syntetískum trefjum"
+    ],
+    "msa": "4"
   },
   {
     "code": "61046900",
@@ -23609,7 +23908,11 @@
   },
   {
     "code": "61051000",
-    "desc": "Karla- eða drengjaskyrtur, prjónaðar eða heklaðar, úr baðmull"
+    "desc": "Karla- eða drengjaskyrtur, prjónaðar eða heklaðar, úr baðmull",
+    "aliases": [
+      "karla- eða drengjaskyrtur úr baðmull"
+    ],
+    "msa": "4"
   },
   {
     "code": "61052000",
@@ -23629,7 +23932,11 @@
   },
   {
     "code": "61062000",
-    "desc": "Blússur og skyrtur kvenna eða telpna, prjónaðar eða heklaðar, úr tilbúnum trefjum"
+    "desc": "Blússur og skyrtur kvenna eða telpna, prjónaðar eða heklaðar, úr tilbúnum trefjum",
+    "aliases": [
+      "blússur og skyrtur kvenna eða telpna"
+    ],
+    "msa": "4"
   },
   {
     "code": "61069001",
@@ -23645,7 +23952,11 @@
   },
   {
     "code": "61071200",
-    "desc": "Nærbuxur karla eða drengja, prjónaðar eða heklaðar, úr tilbúnum trefjum"
+    "desc": "Nærbuxur karla eða drengja, prjónaðar eða heklaðar, úr tilbúnum trefjum",
+    "aliases": [
+      "nærbuxur karla eða drengja úr tilbúnum trefjum"
+    ],
+    "msa": "4"
   },
   {
     "code": "61071901",
@@ -23669,7 +23980,11 @@
   },
   {
     "code": "61072909",
-    "desc": "Náttserkir og náttföt karla eða drengja, prjónuð eða hekluð, úr öðrum spunaefnum"
+    "desc": "Náttserkir og náttföt karla eða drengja, prjónuð eða hekluð, úr öðrum spunaefnum",
+    "aliases": [
+      "náttföt karla eða drengja"
+    ],
+    "msa": "4"
   },
   {
     "code": "61079100",
@@ -23697,7 +24012,11 @@
   },
   {
     "code": "61082200",
-    "desc": "Nærbuxur kvenna eða telpna, prjónaðar eða heklaðar, úr tilbúnum trefjum"
+    "desc": "Nærbuxur kvenna eða telpna, prjónaðar eða heklaðar, úr tilbúnum trefjum",
+    "aliases": [
+      "nærbuxur kvenna eða telpna úr tilbúnum trefjum"
+    ],
+    "msa": "4"
   },
   {
     "code": "61082901",
@@ -23721,7 +24040,11 @@
   },
   {
     "code": "61083909",
-    "desc": "Náttkjólar og náttföt kvenna eða telpna, prjónuð eða hekluð, úr öðrum spunaefnum"
+    "desc": "Náttkjólar og náttföt kvenna eða telpna, prjónuð eða hekluð, úr öðrum spunaefnum",
+    "aliases": [
+      "náttföt kvenna eða telpna"
+    ],
+    "msa": "4"
   },
   {
     "code": "61089100",
@@ -23737,7 +24060,11 @@
   },
   {
     "code": "61091000",
-    "desc": "T-bolir, nærbolir o.þ.h., prjónaðir eða heklaðir, úr baðmull"
+    "desc": "T-bolir, nærbolir o.þ.h., prjónaðir eða heklaðir, úr baðmull",
+    "aliases": [
+      "bolir"
+    ],
+    "msa": "4"
   },
   {
     "code": "61099001",
@@ -23761,11 +24088,19 @@
   },
   {
     "code": "61102000",
-    "desc": "Peysur, vesti o.þ.h., prjónuð eða hekluð, úr baðmull"
+    "desc": "Peysur, vesti o.þ.h., prjónuð eða hekluð, úr baðmull",
+    "aliases": [
+      "peysur"
+    ],
+    "msa": "4"
   },
   {
     "code": "61103000",
-    "desc": "Peysur, vesti o.þ.h., prjónuð eða hekluð, úr tilbúnum trefjum"
+    "desc": "Peysur, vesti o.þ.h., prjónuð eða hekluð, úr tilbúnum trefjum",
+    "aliases": [
+      "peysur úr tilbúnum trefjum"
+    ],
+    "msa": "4"
   },
   {
     "code": "61109000",
@@ -23777,7 +24112,11 @@
   },
   {
     "code": "61112009",
-    "desc": "Annar ungbarnafatnaður o.þ.h. prjónaður eða heklaður, úr baðmull"
+    "desc": "Annar ungbarnafatnaður o.þ.h. prjónaður eða heklaður, úr baðmull",
+    "aliases": [
+      "annar ungbarnafatnaður"
+    ],
+    "msa": "4"
   },
   {
     "code": "61113001",
@@ -23849,7 +24188,8 @@
   },
   {
     "code": "61143090",
-    "desc": "Annað úr tilbúnum trefjum"
+    "desc": "Annað úr tilbúnum trefjum",
+    "msa": "0"
   },
   {
     "code": "61149010",
@@ -23857,7 +24197,11 @@
   },
   {
     "code": "61149090",
-    "desc": "Annað úr öðrum spunaefnum"
+    "desc": "Annað úr öðrum spunaefnum",
+    "aliases": [
+      "annað úr spunaefnum"
+    ],
+    "msa": "4"
   },
   {
     "code": "61151000",
@@ -23893,7 +24237,11 @@
   },
   {
     "code": "61159509",
-    "desc": "Aðrir sokkar, prjónaðir eða heklaðir, úr baðmull"
+    "desc": "Aðrir sokkar, prjónaðir eða heklaðir, úr baðmull",
+    "aliases": [
+      "aðrir sokkar úr baðmull"
+    ],
+    "msa": "4"
   },
   {
     "code": "61159601",
@@ -23901,7 +24249,11 @@
   },
   {
     "code": "61159609",
-    "desc": "Aðrir sokkar, prjónaðir eða heklaðir, úr syntetískum trefjum"
+    "desc": "Aðrir sokkar, prjónaðir eða heklaðir, úr syntetískum trefjum",
+    "aliases": [
+      "sokkar"
+    ],
+    "msa": "4"
   },
   {
     "code": "61159901",
@@ -23933,7 +24285,8 @@
   },
   {
     "code": "61169300",
-    "desc": "Aðrir hanskar og vettlingar úr syntetískum trefjum"
+    "desc": "Aðrir hanskar og vettlingar úr syntetískum trefjum",
+    "msa": "4"
   },
   {
     "code": "61169900",
@@ -23953,7 +24306,8 @@
   },
   {
     "code": "61179009",
-    "desc": "Aðrir prjónaðir eða heklaðir fylgihlutir fatnaðar"
+    "desc": "Aðrir prjónaðir eða heklaðir fylgihlutir fatnaðar",
+    "msa": "4"
   },
   {
     "code": "62012000",
@@ -23965,7 +24319,11 @@
   },
   {
     "code": "62014000",
-    "desc": "Yfirhafnir karla eða drengja, úr tilbúnum trefjum þó ekki vörur í 6203"
+    "desc": "Yfirhafnir karla eða drengja, úr tilbúnum trefjum þó ekki vörur í 6203",
+    "aliases": [
+      "yfirhafnir karla eða drengja úr tilbúnum trefjum"
+    ],
+    "msa": "4"
   },
   {
     "code": "62019000",
@@ -23997,7 +24355,11 @@
   },
   {
     "code": "62031900",
-    "desc": "Jakkaföt karla eða drengja, úr öðrum spunaefnum"
+    "desc": "Jakkaföt karla eða drengja, úr öðrum spunaefnum",
+    "aliases": [
+      "jakkaföt karla eða drengja"
+    ],
+    "msa": "4"
   },
   {
     "code": "62032200",
@@ -24025,7 +24387,11 @@
   },
   {
     "code": "62033900",
-    "desc": "Jakkar karla eða drengja, úr öðrum spunaefnum"
+    "desc": "Jakkar karla eða drengja, úr öðrum spunaefnum",
+    "aliases": [
+      "jakkar karla eða drengja"
+    ],
+    "msa": "4"
   },
   {
     "code": "62034100",
@@ -24033,7 +24399,11 @@
   },
   {
     "code": "62034200",
-    "desc": "Buxur karla eða drengja, úr baðmull"
+    "desc": "Buxur karla eða drengja, úr baðmull",
+    "aliases": [
+      "buxur karla eða drengja úr baðmull"
+    ],
+    "msa": "4"
   },
   {
     "code": "62034300",
@@ -24145,7 +24515,11 @@
   },
   {
     "code": "62052000",
-    "desc": "Karla- eða drengjaskyrtur úr baðmull"
+    "desc": "Karla- eða drengjaskyrtur úr baðmull",
+    "aliases": [
+      "skyrtur karla eða drengja"
+    ],
+    "msa": "4"
   },
   {
     "code": "62053000",
@@ -24293,7 +24667,8 @@
   },
   {
     "code": "62104090",
-    "desc": "Annar fatnaður karla eða drengja"
+    "desc": "Annar fatnaður karla eða drengja",
+    "msa": "4"
   },
   {
     "code": "62105010",
@@ -24365,7 +24740,11 @@
   },
   {
     "code": "62114309",
-    "desc": "Annar fatnaður kvenna eða telpna úr tilbúnum trefjum"
+    "desc": "Annar fatnaður kvenna eða telpna úr tilbúnum trefjum",
+    "aliases": [
+      "annar fatnaður kvenna eða telpna"
+    ],
+    "msa": "4"
   },
   {
     "code": "62114910",
@@ -24489,7 +24868,11 @@
   },
   {
     "code": "63014009",
-    "desc": "Aðrar ábreiður og ferðateppi úr syntetískum trefjum"
+    "desc": "Aðrar ábreiður og ferðateppi úr syntetískum trefjum",
+    "aliases": [
+      "ábreiður"
+    ],
+    "msa": "4"
   },
   {
     "code": "63019001",
@@ -24537,7 +24920,8 @@
   },
   {
     "code": "63023209",
-    "desc": "Annað sængurlín úr öðrum tilbúnum trefjum"
+    "desc": "Annað sængurlín úr öðrum tilbúnum trefjum",
+    "msa": "4"
   },
   {
     "code": "63023900",
@@ -24561,7 +24945,8 @@
   },
   {
     "code": "63025309",
-    "desc": "Annað borðlín úr öðrum tilbúnum trefjum"
+    "desc": "Annað borðlín úr öðrum tilbúnum trefjum",
+    "msa": "4"
   },
   {
     "code": "63025900",
@@ -24569,7 +24954,8 @@
   },
   {
     "code": "63026000",
-    "desc": "Baðlín og eldhúslín úr baðmullarfrotté"
+    "desc": "Baðlín og eldhúslín úr baðmullarfrotté",
+    "msa": "4"
   },
   {
     "code": "63029101",
@@ -24701,7 +25087,11 @@
   },
   {
     "code": "63052000",
-    "desc": "Umbúðasekkir og -pokar úr baðmull"
+    "desc": "Umbúðasekkir og -pokar úr baðmull",
+    "aliases": [
+      "pokar úr bómull"
+    ],
+    "msa": "0"
   },
   {
     "code": "63053200",
@@ -24761,7 +25151,11 @@
   },
   {
     "code": "63071000",
-    "desc": "Gólf-, uppþvotta-, afþurrkunarklútar o.þ.h."
+    "desc": "Gólf-, uppþvotta-, afþurrkunarklútar o.þ.h.",
+    "aliases": [
+      "afþurrkunarklútar"
+    ],
+    "msa": "0"
   },
   {
     "code": "63072000",
@@ -24785,7 +25179,12 @@
   },
   {
     "code": "63079009",
-    "desc": "Aðrar fullgerðar vörur þ.m.t. fatasnið"
+    "desc": "Aðrar fullgerðar vörur þ.m.t. fatasnið",
+    "aliases": [
+      "andlitsgrímur",
+      "aðrar fullgerðar vörur"
+    ],
+    "msa": "4"
   },
   {
     "code": "63080001",
@@ -24793,7 +25192,11 @@
   },
   {
     "code": "63080009",
-    "desc": "Hannyrðavörur í settum sem í er ofinn dúkur og garn, í smásöluumbúðum"
+    "desc": "Hannyrðavörur í settum sem í er ofinn dúkur og garn, í smásöluumbúðum",
+    "aliases": [
+      "hannyrðavörur"
+    ],
+    "msa": "4"
   },
   {
     "code": "63090000",
@@ -24813,7 +25216,11 @@
   },
   {
     "code": "64019201",
-    "desc": "Vatnsþétt, ökklahá stígvél, með ytri sóla og yfirhluta úr gúmmíi eða plasti"
+    "desc": "Vatnsþétt, ökklahá stígvél, með ytri sóla og yfirhluta úr gúmmíi eða plasti",
+    "aliases": [
+      "vatnsþétt ökklahá stígvél"
+    ],
+    "msa": "3"
   },
   {
     "code": "64019209",
@@ -24841,7 +25248,11 @@
   },
   {
     "code": "64029900",
-    "desc": "Annar skófatnaður, með ytri sóla og yfirhluta úr gúmmíi eða plasti"
+    "desc": "Annar skófatnaður, með ytri sóla og yfirhluta úr gúmmíi eða plasti",
+    "aliases": [
+      "annar skófatnaður"
+    ],
+    "msa": "0"
   },
   {
     "code": "64031200",
@@ -24937,7 +25348,11 @@
   },
   {
     "code": "64041909",
-    "desc": "Aðrir karlmannaskór með ytri sóla úr gúmmíi eða plasti og yfirhluta úr spunaefni"
+    "desc": "Aðrir karlmannaskór með ytri sóla úr gúmmíi eða plasti og yfirhluta úr spunaefni",
+    "aliases": [
+      "aðrir karlmannaskór"
+    ],
+    "msa": "3"
   },
   {
     "code": "64042001",
@@ -25013,7 +25428,11 @@
   },
   {
     "code": "65040000",
-    "desc": "Flókahattar og annar höfuðbúnaður, fléttað eða úr ræmum, úr hvers konar efni, einnig fóðrað eða bryddað"
+    "desc": "Flókahattar og annar höfuðbúnaður, fléttað eða úr ræmum, úr hvers konar efni, einnig fóðrað eða bryddað",
+    "aliases": [
+      "flókahattar"
+    ],
+    "msa": "0"
   },
   {
     "code": "65050010",
@@ -25021,7 +25440,11 @@
   },
   {
     "code": "65050090",
-    "desc": "Annar höfuðfatnaður og þess háttar"
+    "desc": "Annar höfuðfatnaður og þess háttar",
+    "aliases": [
+      "annar höfuðfatnaður"
+    ],
+    "msa": "0"
   },
   {
     "code": "65061010",
@@ -25077,7 +25500,11 @@
   },
   {
     "code": "67029000",
-    "desc": "Gerviblóm, gervilauf, gerviávextir o.þ.h., úr öðrum efnum"
+    "desc": "Gerviblóm, gervilauf, gerviávextir o.þ.h., úr öðrum efnum",
+    "aliases": [
+      "gerviblóm"
+    ],
+    "msa": "0"
   },
   {
     "code": "67030000",
@@ -25521,7 +25948,11 @@
   },
   {
     "code": "69111000",
-    "desc": "Borðbúnaður og eldhúsbúnaður úr postulíni"
+    "desc": "Borðbúnaður og eldhúsbúnaður úr postulíni",
+    "aliases": [
+      "búsáhöld úr postulíni"
+    ],
+    "msa": "0"
   },
   {
     "code": "69119000",
@@ -25529,7 +25960,11 @@
   },
   {
     "code": "69120000",
-    "desc": "Borðbúnaður, eldhúsbúnaður, önnur búsáhöld og baðbúnaður úr öðrum leir"
+    "desc": "Borðbúnaður, eldhúsbúnaður, önnur búsáhöld og baðbúnaður úr öðrum leir",
+    "aliases": [
+      "búsáhöld úr leir"
+    ],
+    "msa": "0"
   },
   {
     "code": "69131000",
@@ -25537,7 +25972,8 @@
   },
   {
     "code": "69139000",
-    "desc": "Styttur og aðrir skrautmunir úr öðrum leir en postulíni"
+    "desc": "Styttur og aðrir skrautmunir úr öðrum leir en postulíni",
+    "msa": "3"
   },
   {
     "code": "69141000",
@@ -25545,7 +25981,11 @@
   },
   {
     "code": "69149000",
-    "desc": "Aðrar leirvörur"
+    "desc": "Aðrar leirvörur",
+    "aliases": [
+      "leirvörur"
+    ],
+    "msa": "0"
   },
   {
     "code": "70010000",
@@ -25669,7 +26109,8 @@
   },
   {
     "code": "70109090",
-    "desc": "Önnur glerílát"
+    "desc": "Önnur glerílát",
+    "msa": "0"
   },
   {
     "code": "70111000",
@@ -25685,7 +26126,11 @@
   },
   {
     "code": "70131000",
-    "desc": "Glervörur notaðar sem borð-, eldhús-, bað- eða skrifstofubúnaður eða til innanhússskreytingar o.þ.h., úr glerpostulíni"
+    "desc": "Glervörur notaðar sem borð-, eldhús-, bað- eða skrifstofubúnaður eða til innanhússskreytingar o.þ.h., úr glerpostulíni",
+    "aliases": [
+      "vörur úr gleri"
+    ],
+    "msa": "3"
   },
   {
     "code": "70132200",
@@ -25693,7 +26138,8 @@
   },
   {
     "code": "70132800",
-    "desc": "Glerglös á fæti"
+    "desc": "Glerglös á fæti",
+    "msa": "0"
   },
   {
     "code": "70133300",
@@ -25701,7 +26147,11 @@
   },
   {
     "code": "70133700",
-    "desc": "Önnur glerglös"
+    "desc": "Önnur glerglös",
+    "aliases": [
+      "glerglös"
+    ],
+    "msa": "0"
   },
   {
     "code": "70134100",
@@ -25713,7 +26163,11 @@
   },
   {
     "code": "70134900",
-    "desc": "Borð- og eldhúsbúnaður úr öðru gleri"
+    "desc": "Borð- og eldhúsbúnaður úr öðru gleri",
+    "aliases": [
+      "búsáhöld úr gleri"
+    ],
+    "msa": "0"
   },
   {
     "code": "70139100",
@@ -25721,7 +26175,8 @@
   },
   {
     "code": "70139900",
-    "desc": "Aðrar vörur úr öðru gleri"
+    "desc": "Aðrar vörur úr öðru gleri",
+    "msa": "3"
   },
   {
     "code": "70140001",
@@ -26093,11 +26548,19 @@
   },
   {
     "code": "71171900",
-    "desc": "Annar glysvarningur, úr ódýrum málmi, einnig húðuðum eða plettuðum góðmálmi"
+    "desc": "Annar glysvarningur, úr ódýrum málmi, einnig húðuðum eða plettuðum góðmálmi",
+    "aliases": [
+      "annar glysvarningur"
+    ],
+    "msa": "0"
   },
   {
     "code": "71179000",
-    "desc": "Annar glysvarningur"
+    "desc": "Annar glysvarningur",
+    "aliases": [
+      "glysvarningur"
+    ],
+    "msa": "0"
   },
   {
     "code": "71181000",
@@ -27241,7 +27704,8 @@
   },
   {
     "code": "73181500",
-    "desc": "Aðrar skrúfur og boltar, einnig með tilheyrandi róm og skinnum"
+    "desc": "Aðrar skrúfur og boltar, einnig með tilheyrandi róm og skinnum",
+    "msa": "3"
   },
   {
     "code": "73181600",
@@ -27253,7 +27717,8 @@
   },
   {
     "code": "73182100",
-    "desc": "Spenniskífur og lásskinnur"
+    "desc": "Spenniskífur og lásskinnur",
+    "msa": "3"
   },
   {
     "code": "73182200",
@@ -27273,7 +27738,11 @@
   },
   {
     "code": "73194000",
-    "desc": "Öryggisnælur og prjónar"
+    "desc": "Öryggisnælur og prjónar",
+    "aliases": [
+      "nælur"
+    ],
+    "msa": "0"
   },
   {
     "code": "73199000",
@@ -27357,7 +27826,11 @@
   },
   {
     "code": "73239100",
-    "desc": "Eldhúsbúnaður eða önnur búsáhöld og hlutar til þeirra úr steypujárni"
+    "desc": "Eldhúsbúnaður eða önnur búsáhöld og hlutar til þeirra úr steypujárni",
+    "aliases": [
+      "búsáhöld úr steypujárni"
+    ],
+    "msa": "0"
   },
   {
     "code": "73239200",
@@ -27365,11 +27838,19 @@
   },
   {
     "code": "73239300",
-    "desc": "Eldhúsbúnaður eða önnur búsáhöld og hlutar til þeirra úr ryðfríu stáli"
+    "desc": "Eldhúsbúnaður eða önnur búsáhöld og hlutar til þeirra úr ryðfríu stáli",
+    "aliases": [
+      "búsáhöld úr ryðfríu stáli"
+    ],
+    "msa": "0"
   },
   {
     "code": "73239400",
-    "desc": "Emaléraður eldhúsbúnaður eða önnur búsáhöld og hlutar til þeirra úr öðru járni eða stáli"
+    "desc": "Emaléraður eldhúsbúnaður eða önnur búsáhöld og hlutar til þeirra úr öðru járni eða stáli",
+    "aliases": [
+      "búsáhöld úr emaléraðu járni eða stáli"
+    ],
+    "msa": "0"
   },
   {
     "code": "73239900",
@@ -27469,7 +27950,10 @@
   },
   {
     "code": "73269019",
-    "desc": "Aðrar vörur úr járni eða stáli ót.a."
+    "desc": "Aðrar vörur úr járni eða stáli ót.a.",
+    "aliases": [
+      "aðrar vörur úr járni eða stáli"
+    ]
   },
   {
     "code": "74010000",
@@ -27973,7 +28457,11 @@
   },
   {
     "code": "76151090",
-    "desc": "Annar borðbúnaður, eldhúsbúnaður og hlutar til þeirra úr áli"
+    "desc": "Annar borðbúnaður, eldhúsbúnaður og hlutar til þeirra úr áli",
+    "aliases": [
+      "búsáhöld úr áli"
+    ],
+    "msa": "0"
   },
   {
     "code": "76152000",
@@ -28145,7 +28633,11 @@
   },
   {
     "code": "79070009",
-    "desc": "Aðrar vörur úr sinki"
+    "desc": "Aðrar vörur úr sinki",
+    "aliases": [
+      "vörur úr sinki"
+    ],
+    "msa": "0"
   },
   {
     "code": "80011000",
@@ -28189,7 +28681,10 @@
   },
   {
     "code": "80070009",
-    "desc": "Aðrar vörur úr tini"
+    "desc": "Aðrar vörur úr tini",
+    "aliases": [
+      "vörur úr tini"
+    ]
   },
   {
     "code": "81011000",
@@ -28481,11 +28976,19 @@
   },
   {
     "code": "82031000",
-    "desc": "Þjalir, raspar o.þ.h."
+    "desc": "Þjalir, raspar o.þ.h.",
+    "aliases": [
+      "þjalir og raspar"
+    ],
+    "msa": "4"
   },
   {
     "code": "82032000",
-    "desc": "Tengur, klippitengur, griptengur, spennitengur o.þ.h."
+    "desc": "Tengur, klippitengur, griptengur, spennitengur o.þ.h.",
+    "aliases": [
+      "tengur"
+    ],
+    "msa": "4"
   },
   {
     "code": "82033000",
@@ -28493,7 +28996,8 @@
   },
   {
     "code": "82034000",
-    "desc": "Pípuskerar, boltaskerar, gattengur o.þ.h."
+    "desc": "Pípuskerar, boltaskerar, gattengur o.þ.h.",
+    "msa": "4"
   },
   {
     "code": "82041100",
@@ -28509,7 +29013,8 @@
   },
   {
     "code": "82051000",
-    "desc": "Verkfæri til að bora, snitta eða skrúfuskera"
+    "desc": "Verkfæri til að bora, snitta eða skrúfuskera",
+    "msa": "4"
   },
   {
     "code": "82052000",
@@ -28529,7 +29034,8 @@
   },
   {
     "code": "82055900",
-    "desc": "Önnur handverkfæri"
+    "desc": "Önnur handverkfæri",
+    "msa": "3"
   },
   {
     "code": "82056000",
@@ -28541,11 +29047,16 @@
   },
   {
     "code": "82059000",
-    "desc": "Samstæður vara úr tveimur eða fleiri undirliðum í 8205"
+    "desc": "Samstæður vara úr tveimur eða fleiri undirliðum í 8205",
+    "msa": "0"
   },
   {
     "code": "82060000",
-    "desc": "Verkfæri í tveimur eða fleiri af 8202-8205, samstæður í smásöluumbúðum"
+    "desc": "Verkfæri í tveimur eða fleiri af 8202-8205, samstæður í smásöluumbúðum",
+    "aliases": [
+      "verkfæri"
+    ],
+    "msa": "4"
   },
   {
     "code": "82071300",
@@ -28641,7 +29152,11 @@
   },
   {
     "code": "82119320",
-    "desc": "Dúkahnífar og hnífar með brotblöðum"
+    "desc": "Dúkahnífar og hnífar með brotblöðum",
+    "aliases": [
+      "dúkahnífar"
+    ],
+    "msa": "4"
   },
   {
     "code": "82119330",
@@ -28669,7 +29184,8 @@
   },
   {
     "code": "82122000",
-    "desc": "Rakvélablöð, þ.m.t. efni í rakblöð í ræmum"
+    "desc": "Rakvélablöð, þ.m.t. efni í rakblöð í ræmum",
+    "msa": "4"
   },
   {
     "code": "82129000",
@@ -28697,7 +29213,11 @@
   },
   {
     "code": "82152000",
-    "desc": "Skeiðar, gafflar, sleifar, kökuspaðar, fiskihnífar, smjörhnífar, sykurtengur, o.þ.h., aðrar samstæður mismunandi vara"
+    "desc": "Skeiðar, gafflar, sleifar, kökuspaðar, fiskihnífar, smjörhnífar, sykurtengur, o.þ.h., aðrar samstæður mismunandi vara",
+    "aliases": [
+      "hnífaparasett"
+    ],
+    "msa": "4"
   },
   {
     "code": "82159100",
@@ -28773,7 +29293,11 @@
   },
   {
     "code": "83025000",
-    "desc": "Hengi, snagar, hilluhné o.þ.h."
+    "desc": "Hengi, snagar, hilluhné o.þ.h.",
+    "aliases": [
+      "hengi og snagar"
+    ],
+    "msa": "3"
   },
   {
     "code": "83026000",
@@ -28797,7 +29321,11 @@
   },
   {
     "code": "83059000",
-    "desc": "Bréfaklemmur, bréfahorn, pappírsklemmur, spjaldskrármerki o.þ.h. úr ódýrum málmi"
+    "desc": "Bréfaklemmur, bréfahorn, pappírsklemmur, spjaldskrármerki o.þ.h. úr ódýrum málmi",
+    "aliases": [
+      "bréfaklemmur"
+    ],
+    "msa": "0"
   },
   {
     "code": "83061011",
@@ -28809,15 +29337,21 @@
   },
   {
     "code": "83062100",
-    "desc": "Myndastyttur og aðrir skrautmunir, húðað góðmálmi"
+    "desc": "Myndastyttur og aðrir skrautmunir, húðað góðmálmi",
+    "msa": "3"
   },
   {
     "code": "83062900",
-    "desc": "Aðrar myndastyttur og aðrir skrautmunir"
+    "desc": "Aðrar myndastyttur og aðrir skrautmunir",
+    "msa": "3"
   },
   {
     "code": "83063000",
-    "desc": "Rammar fyrir ljósmyndir, málverk o.þ.h."
+    "desc": "Rammar fyrir ljósmyndir, málverk o.þ.h.",
+    "aliases": [
+      "rammar"
+    ],
+    "msa": "0"
   },
   {
     "code": "83071000",
@@ -28829,7 +29363,11 @@
   },
   {
     "code": "83081000",
-    "desc": "Krókar, lykkjur og hringir úr ódýrum málmi"
+    "desc": "Krókar, lykkjur og hringir úr ódýrum málmi",
+    "aliases": [
+      "lyklakippur"
+    ],
+    "msa": "0"
   },
   {
     "code": "83082000",
@@ -29469,7 +30007,11 @@
   },
   {
     "code": "84219900",
-    "desc": "Hlutar í vélar og tæki til síunar eða hreinsunar á vökva eða lofti"
+    "desc": "Hlutar í vélar og tæki til síunar eða hreinsunar á vökva eða lofti",
+    "aliases": [
+      "hlutir í síubúnað"
+    ],
+    "msa": "3"
   },
   {
     "code": "84221100",
@@ -29505,11 +30047,19 @@
   },
   {
     "code": "84224009",
-    "desc": "Aðrar vélar til pökkunar eða umbúða (þ.m.t. vélbúnaður til hitaherpiumbúða)"
+    "desc": "Aðrar vélar til pökkunar eða umbúða (þ.m.t. vélbúnaður til hitaherpiumbúða)",
+    "aliases": [
+      "aðrar vélar til pökkunar eða umbúða"
+    ],
+    "msa": "3"
   },
   {
     "code": "84229000",
-    "desc": "Hlutar í uppþvotta-, pökkunar- o.þ.h. vélar"
+    "desc": "Hlutar í uppþvotta-, pökkunar- o.þ.h. vélar",
+    "aliases": [
+      "varahlutir"
+    ],
+    "msa": "0"
   },
   {
     "code": "84231000",
@@ -29585,11 +30135,13 @@
   },
   {
     "code": "84248900",
-    "desc": "Önnur úðunar- eða blásturstæki"
+    "desc": "Önnur úðunar- eða blásturstæki",
+    "msa": "3"
   },
   {
     "code": "84249000",
-    "desc": "Hlutar í úðunar- eða blásturstæki"
+    "desc": "Hlutar í úðunar- eða blásturstæki",
+    "msa": "3"
   },
   {
     "code": "84251100",
@@ -30329,7 +30881,11 @@
   },
   {
     "code": "84433200",
-    "desc": "Aðrir prentarar, ljósritunarvélar og faxtæki, tengjanlegt við tölvur eða net"
+    "desc": "Aðrir prentarar, ljósritunarvélar og faxtæki, tengjanlegt við tölvur eða net",
+    "aliases": [
+      "aðrir prentarar"
+    ],
+    "msa": "3"
   },
   {
     "code": "84433900",
@@ -31097,7 +31653,8 @@
   },
   {
     "code": "84671900",
-    "desc": "Önnur loftknúin handverkfæri"
+    "desc": "Önnur loftknúin handverkfæri",
+    "msa": "3"
   },
   {
     "code": "84672100",
@@ -31113,7 +31670,8 @@
   },
   {
     "code": "84672909",
-    "desc": "Önnur rafmagnshandverkfæri"
+    "desc": "Önnur rafmagnshandverkfæri",
+    "msa": "3"
   },
   {
     "code": "84678100",
@@ -31201,7 +31759,11 @@
   },
   {
     "code": "84713009",
-    "desc": "Aðrar fartölvur <= 10 kg"
+    "desc": "Aðrar fartölvur <= 10 kg",
+    "aliases": [
+      "fartölvur"
+    ],
+    "msa": "3"
   },
   {
     "code": "84714101",
@@ -31209,7 +31771,11 @@
   },
   {
     "code": "84714109",
-    "desc": "Aðrar einmenningstölvur"
+    "desc": "Aðrar einmenningstölvur",
+    "aliases": [
+      "borðtölvur"
+    ],
+    "msa": "3"
   },
   {
     "code": "84714901",
@@ -31225,11 +31791,13 @@
   },
   {
     "code": "84716000",
-    "desc": "Inntaks- eða úttakseining, með minniseiningu í sama vélarhúsi"
+    "desc": "Inntaks- eða úttakseining, með minniseiningu í sama vélarhúsi",
+    "msa": "3"
   },
   {
     "code": "84717000",
-    "desc": "Minniseiningar"
+    "desc": "Minniseiningar",
+    "msa": "3"
   },
   {
     "code": "84718000",
@@ -31237,7 +31805,11 @@
   },
   {
     "code": "84719000",
-    "desc": "Önnur jaðartæki fyrir tölvur"
+    "desc": "Önnur jaðartæki fyrir tölvur",
+    "aliases": [
+      "geisladrif"
+    ],
+    "msa": "3"
   },
   {
     "code": "84721001",
@@ -31273,7 +31845,11 @@
   },
   {
     "code": "84733000",
-    "desc": "Hlutar og fylgihlutir í tölvur"
+    "desc": "Hlutar og fylgihlutir í tölvur",
+    "aliases": [
+      "fylgihlutir fyrir tölvur"
+    ],
+    "msa": "3"
   },
   {
     "code": "84734000",
@@ -31537,7 +32113,8 @@
   },
   {
     "code": "84829100",
-    "desc": "Hlutar í kúlur, nálar og kefli"
+    "desc": "Hlutar í kúlur, nálar og kefli",
+    "msa": "0"
   },
   {
     "code": "84829900",
@@ -31785,7 +32362,11 @@
   },
   {
     "code": "85044000",
-    "desc": "Stöðustraumbreytar (afriðlar)"
+    "desc": "Stöðustraumbreytar (afriðlar)",
+    "aliases": [
+      "stöðustraumbreytar"
+    ],
+    "msa": "3"
   },
   {
     "code": "85045000",
@@ -31797,11 +32378,19 @@
   },
   {
     "code": "85051100",
-    "desc": "Síseglar og vörur úr málmi, sem ætlað er að vera síseglar eftir segulmögnun"
+    "desc": "Síseglar og vörur úr málmi, sem ætlað er að vera síseglar eftir segulmögnun",
+    "aliases": [
+      "seglar"
+    ],
+    "msa": "0"
   },
   {
     "code": "85051900",
-    "desc": "Aðrir síseglar og vörur sem ætlað er að vera síseglar eftir segulmögnun"
+    "desc": "Aðrir síseglar og vörur sem ætlað er að vera síseglar eftir segulmögnun",
+    "aliases": [
+      "seglar"
+    ],
+    "msa": "0"
   },
   {
     "code": "85052000",
@@ -31865,7 +32454,8 @@
   },
   {
     "code": "85072022",
-    "desc": "Aðrir blýsýrurafgeymar án vökva <=5 kg"
+    "desc": "Aðrir blýsýrurafgeymar án vökva <=5 kg",
+    "msa": "3"
   },
   {
     "code": "85072091",
@@ -32037,7 +32627,11 @@
   },
   {
     "code": "85131000",
-    "desc": "Ferðaraflampar, þ.m.t. vasaljós"
+    "desc": "Ferðaraflampar, þ.m.t. vasaljós",
+    "aliases": [
+      "ljós og vasaljós"
+    ],
+    "msa": "4"
   },
   {
     "code": "85139000",
@@ -32113,7 +32707,8 @@
   },
   {
     "code": "85158009",
-    "desc": "Aðrar vélar og tæki til lóðunar, brösunar, rafsuðu o.þ.h."
+    "desc": "Aðrar vélar og tæki til lóðunar, brösunar, rafsuðu o.þ.h.",
+    "msa": "3"
   },
   {
     "code": "85159000",
@@ -32173,7 +32768,8 @@
   },
   {
     "code": "85167100",
-    "desc": "Kaffi- og tevélar"
+    "desc": "Kaffi- og tevélar",
+    "msa": "3"
   },
   {
     "code": "85167200",
@@ -32205,7 +32801,8 @@
   },
   {
     "code": "85171300",
-    "desc": "Snjallsímar"
+    "desc": "Snjallsímar",
+    "msa": "3"
   },
   {
     "code": "85171400",
@@ -32221,7 +32818,11 @@
   },
   {
     "code": "85176200",
-    "desc": "Vélar fyrir móttöku, umbreytingar og sendingar á rafrænum gögnum"
+    "desc": "Vélar fyrir móttöku, umbreytingar og sendingar á rafrænum gögnum",
+    "aliases": [
+      "önnur senditæki búin móttökubúnaði"
+    ],
+    "msa": "3"
   },
   {
     "code": "85176900",
@@ -32237,7 +32838,11 @@
   },
   {
     "code": "85181000",
-    "desc": "Hljóðnemar og standar fyrir þá"
+    "desc": "Hljóðnemar og standar fyrir þá",
+    "aliases": [
+      "hljóðnemar"
+    ],
+    "msa": "3"
   },
   {
     "code": "85182101",
@@ -32257,7 +32862,8 @@
   },
   {
     "code": "85182900",
-    "desc": "Aðrir hátalarar"
+    "desc": "Aðrir hátalarar",
+    "msa": "3"
   },
   {
     "code": "85183001",
@@ -32265,11 +32871,19 @@
   },
   {
     "code": "85183009",
-    "desc": "Önnur heyrnartól, eyrnatól og sambyggð hljóðnema- og hátalarasett"
+    "desc": "Önnur heyrnartól, eyrnatól og sambyggð hljóðnema- og hátalarasett",
+    "aliases": [
+      "heyrnartól"
+    ],
+    "msa": "3"
   },
   {
     "code": "85184001",
-    "desc": "Rafmagnsheyrnartíðnimagnarar fyrir hljóðfæri eða söngkerfi"
+    "desc": "Rafmagnsheyrnartíðnimagnarar fyrir hljóðfæri eða söngkerfi",
+    "aliases": [
+      "magnarar"
+    ],
+    "msa": "3"
   },
   {
     "code": "85184009",
@@ -32285,7 +32899,8 @@
   },
   {
     "code": "85189000",
-    "desc": "Hlutar í hljóðnema, magnara og hátalara"
+    "desc": "Hlutar í hljóðnema, magnara og hátalara",
+    "msa": "3"
   },
   {
     "code": "85192000",
@@ -32305,7 +32920,11 @@
   },
   {
     "code": "85198910",
-    "desc": "Þráðlaus hljóðupptöku- eða hljóðflutningstæki með minniseiningu (Ipod, MP3 o.þ.h.)"
+    "desc": "Þráðlaus hljóðupptöku- eða hljóðflutningstæki með minniseiningu (Ipod, MP3 o.þ.h.)",
+    "aliases": [
+      "þráðlaus hljóðupptöku- eða hljóðflutningstæki"
+    ],
+    "msa": "3"
   },
   {
     "code": "85198990",
@@ -32549,7 +33168,11 @@
   },
   {
     "code": "85234942",
-    "desc": "Geisladiskar með erlendri tónlist"
+    "desc": "Geisladiskar með erlendri tónlist",
+    "aliases": [
+      "geisladiskar"
+    ],
+    "msa": "4"
   },
   {
     "code": "85234943",
@@ -32597,7 +33220,11 @@
   },
   {
     "code": "85234962",
-    "desc": "Aðrir optískir diskar með leikjum á erlendum málum"
+    "desc": "Aðrir optískir diskar með leikjum á erlendum málum",
+    "aliases": [
+      "tölvuleikir"
+    ],
+    "msa": "4"
   },
   {
     "code": "85234963",
@@ -32613,7 +33240,11 @@
   },
   {
     "code": "85234969",
-    "desc": "Aðrir optískir diskar með öðru erlendu efni"
+    "desc": "Aðrir optískir diskar með öðru erlendu efni",
+    "aliases": [
+      "DVD/Bluray"
+    ],
+    "msa": "4"
   },
   {
     "code": "85235111",
@@ -32973,7 +33604,11 @@
   },
   {
     "code": "85258900",
-    "desc": "Sjónvarpsmyndavélar, stafrænar og fl.. aðrar."
+    "desc": "Sjónvarpsmyndavélar, stafrænar og fl.. aðrar.",
+    "aliases": [
+      "stafrænar myndavélar"
+    ],
+    "msa": "3"
   },
   {
     "code": "85261000",
@@ -32989,7 +33624,8 @@
   },
   {
     "code": "85269209",
-    "desc": "Aðrar fjarstýringar"
+    "desc": "Aðrar fjarstýringar",
+    "msa": "4"
   },
   {
     "code": "85271201",
@@ -33089,7 +33725,11 @@
   },
   {
     "code": "85287109",
-    "desc": "Önnur móttökutæki fyrir sjónvarp, án sambyggðs skjás"
+    "desc": "Önnur móttökutæki fyrir sjónvarp, án sambyggðs skjás",
+    "aliases": [
+      "önnur móttökutæki"
+    ],
+    "msa": "3"
   },
   {
     "code": "85287202",
@@ -33265,7 +33905,8 @@
   },
   {
     "code": "85366900",
-    "desc": "Klær og tenglar"
+    "desc": "Klær og tenglar",
+    "msa": "3"
   },
   {
     "code": "85367000",
@@ -33325,7 +33966,8 @@
   },
   {
     "code": "85394100",
-    "desc": "Útfjólubláir eða innrauðir bogalampar"
+    "desc": "Útfjólubláir eða innrauðir bogalampar",
+    "msa": "3"
   },
   {
     "code": "85394900",
@@ -33337,7 +33979,8 @@
   },
   {
     "code": "85395200",
-    "desc": "Ljósdíóðulampar (LED)"
+    "desc": "Ljósdíóðulampar (LED)",
+    "msa": "4"
   },
   {
     "code": "85399000",
@@ -33441,7 +34084,8 @@
   },
   {
     "code": "85423200",
-    "desc": "Minni"
+    "desc": "Minni",
+    "msa": "3"
   },
   {
     "code": "85423300",
@@ -33517,7 +34161,11 @@
   },
   {
     "code": "85442009",
-    "desc": "Aðrir samása, einangraðir kaplar og aðrir samása, einangraðir rafleiðar"
+    "desc": "Aðrir samása, einangraðir kaplar og aðrir samása, einangraðir rafleiðar",
+    "aliases": [
+      "kaplar"
+    ],
+    "msa": "0"
   },
   {
     "code": "85443000",
@@ -35289,7 +35937,8 @@
   },
   {
     "code": "87149500",
-    "desc": "Hnakkar á reiðhjól"
+    "desc": "Hnakkar á reiðhjól",
+    "msa": "0"
   },
   {
     "code": "87149600",
@@ -35301,7 +35950,8 @@
   },
   {
     "code": "87150000",
-    "desc": "Barnavagnar og hlutar í þá"
+    "desc": "Barnavagnar og hlutar í þá",
+    "msa": "3"
   },
   {
     "code": "87161001",
@@ -35769,7 +36419,8 @@
   },
   {
     "code": "90029000",
-    "desc": "Aðrar optískar vörur í umgerð"
+    "desc": "Aðrar optískar vörur í umgerð",
+    "msa": "4"
   },
   {
     "code": "90031100",
@@ -35797,7 +36448,11 @@
   },
   {
     "code": "90049090",
-    "desc": "Gleraugu til annars en sjónréttingar eða verndar"
+    "desc": "Gleraugu til annars en sjónréttingar eða verndar",
+    "aliases": [
+      "önnur gleraugu"
+    ],
+    "msa": "4"
   },
   {
     "code": "90051000",
@@ -35805,7 +36460,8 @@
   },
   {
     "code": "90058000",
-    "desc": "Aðrir sjónaukar"
+    "desc": "Aðrir sjónaukar",
+    "msa": "4"
   },
   {
     "code": "90059000",
@@ -35917,11 +36573,19 @@
   },
   {
     "code": "90132000",
-    "desc": "Leysitæki, þó ekki leysidíóður"
+    "desc": "Leysitæki, þó ekki leysidíóður",
+    "aliases": [
+      "leysitæki"
+    ],
+    "msa": "3"
   },
   {
     "code": "90138001",
-    "desc": "Annar rafknúinn eða rafstýrður vökvakristalbúnaður, -tæki og -áhöld"
+    "desc": "Annar rafknúinn eða rafstýrður vökvakristalbúnaður, -tæki og -áhöld",
+    "aliases": [
+      "annar rafknúinn eða rafstýrður vökvakristalbúnaður"
+    ],
+    "msa": "3"
   },
   {
     "code": "90138009",
@@ -35985,7 +36649,11 @@
   },
   {
     "code": "90172000",
-    "desc": "Önnur áhöld til teiknunar, afmörkunar eða útreiknings"
+    "desc": "Önnur áhöld til teiknunar, afmörkunar eða útreiknings",
+    "aliases": [
+      "önnur áhöld til teiknunar"
+    ],
+    "msa": "3"
   },
   {
     "code": "90173000",
@@ -35993,7 +36661,8 @@
   },
   {
     "code": "90178000",
-    "desc": "Önnur áhöld til teiknunar"
+    "desc": "Önnur áhöld til teiknunar",
+    "msa": "3"
   },
   {
     "code": "90179000",
@@ -36029,7 +36698,11 @@
   },
   {
     "code": "90183200",
-    "desc": "Pípulaga málmnálar og nálar fyrir seymi"
+    "desc": "Pípulaga málmnálar og nálar fyrir seymi",
+    "aliases": [
+      "sprautunálar"
+    ],
+    "msa": "4"
   },
   {
     "code": "90183900",
@@ -36061,7 +36734,8 @@
   },
   {
     "code": "90191019",
-    "desc": "Önnur nuddtæki"
+    "desc": "Önnur nuddtæki",
+    "msa": "3"
   },
   {
     "code": "90191090",
@@ -36177,7 +36851,8 @@
   },
   {
     "code": "90251900",
-    "desc": "Aðrir hitamælar og háhitamælar, ekki tengdir öðrum áhöldum"
+    "desc": "Aðrir hitamælar og háhitamælar, ekki tengdir öðrum áhöldum",
+    "msa": "4"
   },
   {
     "code": "90258000",
@@ -36385,7 +37060,11 @@
   },
   {
     "code": "91021200",
-    "desc": "Rafknúin armbandsúr eingöngu með rafeindastöfum, einnig með skeiðklukku"
+    "desc": "Rafknúin armbandsúr eingöngu með rafeindastöfum, einnig með skeiðklukku",
+    "aliases": [
+      "rafknúin armbandsúr"
+    ],
+    "msa": "3"
   },
   {
     "code": "91021900",
@@ -36421,7 +37100,11 @@
   },
   {
     "code": "91051100",
-    "desc": "Rafknúnar vekjaraklukkur"
+    "desc": "Rafknúnar vekjaraklukkur",
+    "aliases": [
+      "rafmagns vekjaraklukkur"
+    ],
+    "msa": "0"
   },
   {
     "code": "91051900",
@@ -36577,7 +37260,8 @@
   },
   {
     "code": "92059000",
-    "desc": "Önnur blásturshljóðfæri"
+    "desc": "Önnur blásturshljóðfæri",
+    "msa": "0"
   },
   {
     "code": "92060000",
@@ -36625,7 +37309,8 @@
   },
   {
     "code": "92099900",
-    "desc": "Hlutar og fylgihlutir fyrir önnur hljóðfæri"
+    "desc": "Hlutar og fylgihlutir fyrir önnur hljóðfæri",
+    "msa": "3"
   },
   {
     "code": "93011000",
@@ -36737,7 +37422,11 @@
   },
   {
     "code": "94012002",
-    "desc": "Barnabílstólar, viðurkenndir og E merktir skv. ECE reglum nr. 44.03 eða viðurkenndir skv. viðeigandi FMVSS- eða CMVSS-stöðlum"
+    "desc": "Barnabílstólar, viðurkenndir og E merktir skv. ECE reglum nr. 44.03 eða viðurkenndir skv. viðeigandi FMVSS- eða CMVSS-stöðlum",
+    "aliases": [
+      "barnabílstólar"
+    ],
+    "msa": "3"
   },
   {
     "code": "94012009",
@@ -36789,7 +37478,8 @@
   },
   {
     "code": "94018000",
-    "desc": "Önnur sæti"
+    "desc": "Önnur sæti",
+    "msa": "3"
   },
   {
     "code": "94019100",
@@ -36833,7 +37523,11 @@
   },
   {
     "code": "94032009",
-    "desc": "Önnur málmhúsgögn"
+    "desc": "Önnur málmhúsgögn",
+    "aliases": [
+      "málmhúsgögn"
+    ],
+    "msa": "3"
   },
   {
     "code": "94033001",
@@ -36869,7 +37563,8 @@
   },
   {
     "code": "94036002",
-    "desc": "Viðarborð"
+    "desc": "Viðarborð",
+    "msa": "3"
   },
   {
     "code": "94036003",
@@ -36889,7 +37584,8 @@
   },
   {
     "code": "94037009",
-    "desc": "Önnur plasthúsgögn"
+    "desc": "Önnur plasthúsgögn",
+    "msa": "0"
   },
   {
     "code": "94038201",
@@ -36953,7 +37649,11 @@
   },
   {
     "code": "94042100",
-    "desc": "Dýnur úr holgúmmíi eða -plasti"
+    "desc": "Dýnur úr holgúmmíi eða -plasti",
+    "aliases": [
+      "dýnur"
+    ],
+    "msa": "3"
   },
   {
     "code": "94042900",
@@ -36977,11 +37677,19 @@
   },
   {
     "code": "94049000",
-    "desc": "Aðrir rúmbotnar,rekkjubúnaðir eða áþekktir húsbúnaðir"
+    "desc": "Aðrir rúmbotnar,rekkjubúnaðir eða áþekktir húsbúnaðir",
+    "aliases": [
+      "annar rekkjubúnaður"
+    ],
+    "msa": "4"
   },
   {
     "code": "94051100",
-    "desc": "Ljósakrónur og ljós í loft eða á veggi fyrir LED"
+    "desc": "Ljósakrónur og ljós í loft eða á veggi fyrir LED",
+    "aliases": [
+      "led ljós á loft og vegg"
+    ],
+    "msa": "4"
   },
   {
     "code": "94051901",
@@ -36989,11 +37697,16 @@
   },
   {
     "code": "94051909",
-    "desc": "Aðrar ljósakrónur og, ljós, í loft eða á veggi"
+    "desc": "Aðrar ljósakrónur og, ljós, í loft eða á veggi",
+    "msa": "3"
   },
   {
     "code": "94052100",
-    "desc": "Lampar fyrir LED"
+    "desc": "Lampar fyrir LED",
+    "aliases": [
+      "led lampar"
+    ],
+    "msa": "4"
   },
   {
     "code": "94052901",
@@ -37017,7 +37730,11 @@
   },
   {
     "code": "94054200",
-    "desc": "Önnur rafmagnsljós og -ljósabúnaður, eingöngu hannað fyrir LED"
+    "desc": "Önnur rafmagnsljós og -ljósabúnaður, eingöngu hannað fyrir LED",
+    "aliases": [
+      "led ljós"
+    ],
+    "msa": "4"
   },
   {
     "code": "94054901",
@@ -37025,11 +37742,13 @@
   },
   {
     "code": "94054909",
-    "desc": "Önnur rafmagnsljós"
+    "desc": "Önnur rafmagnsljós",
+    "msa": "4"
   },
   {
     "code": "94055000",
-    "desc": "Lampar og ljós, ekki fyrir rafmagn"
+    "desc": "Lampar og ljós, ekki fyrir rafmagn",
+    "msa": "4"
   },
   {
     "code": "94056100",
@@ -37093,7 +37812,8 @@
   },
   {
     "code": "95030012",
-    "desc": "Hlaupahjól"
+    "desc": "Hlaupahjól",
+    "msa": "3"
   },
   {
     "code": "95030013",
@@ -37113,7 +37833,8 @@
   },
   {
     "code": "95030021",
-    "desc": "Brúður"
+    "desc": "Brúður",
+    "msa": "4"
   },
   {
     "code": "95030022",
@@ -37121,7 +37842,8 @@
   },
   {
     "code": "95030023",
-    "desc": "Leikföng, í líki dýra eða ómennsk"
+    "desc": "Leikföng, í líki dýra eða ómennsk",
+    "msa": "4"
   },
   {
     "code": "95030031",
@@ -37129,15 +37851,18 @@
   },
   {
     "code": "95030039",
-    "desc": "Önnur leikföng og líkön með hreyfli"
+    "desc": "Önnur leikföng og líkön með hreyfli",
+    "msa": "4"
   },
   {
     "code": "95030041",
-    "desc": "Líkön og módel til samsetningar"
+    "desc": "Líkön og módel til samsetningar",
+    "msa": "4"
   },
   {
     "code": "95030049",
-    "desc": "Byggingarsett og byggingarleikföng"
+    "desc": "Byggingarsett og byggingarleikföng",
+    "msa": "4"
   },
   {
     "code": "95030050",
@@ -37145,7 +37870,10 @@
   },
   {
     "code": "95030060",
-    "desc": "Þrautir"
+    "desc": "Þrautir",
+    "aliases": [
+      "púsluspil"
+    ]
   },
   {
     "code": "95030071",
@@ -37153,7 +37881,11 @@
   },
   {
     "code": "95030079",
-    "desc": "Önnur leikföng í búningum"
+    "desc": "Önnur leikföng í búningum",
+    "aliases": [
+      "önnur leikföng"
+    ],
+    "msa": "4"
   },
   {
     "code": "95030080",
@@ -37169,11 +37901,13 @@
   },
   {
     "code": "95044000",
-    "desc": "Spil"
+    "desc": "Spil",
+    "msa": "4"
   },
   {
     "code": "95045000",
-    "desc": "Leikjatölvur"
+    "desc": "Leikjatölvur",
+    "msa": "3"
   },
   {
     "code": "95049001",
@@ -37185,7 +37919,12 @@
   },
   {
     "code": "95049009",
-    "desc": "Aðrir hlutar til samkvæmisleikja, borð- eða spilastofuleiktæki, þ.m.t. pinnaborð, borð fyrir fjárhættuspil og sjálfvirkur búnaður fyrir keilubrautir"
+    "desc": "Aðrir hlutar til samkvæmisleikja, borð- eða spilastofuleiktæki, þ.m.t. pinnaborð, borð fyrir fjárhættuspil og sjálfvirkur búnaður fyrir keilubrautir",
+    "aliases": [
+      "önnur spil",
+      "teningar"
+    ],
+    "msa": "4"
   },
   {
     "code": "95051000",
@@ -37193,11 +37932,20 @@
   },
   {
     "code": "95059010",
-    "desc": "Blöðrur til skemmtana og annarra hátíðarhalda, þ.m.t. gripir fyrir töfrabrögð og sjónhverfingar"
+    "desc": "Blöðrur til skemmtana og annarra hátíðarhalda, þ.m.t. gripir fyrir töfrabrögð og sjónhverfingar",
+    "aliases": [
+      "blöðrur"
+    ],
+    "msa": "4"
   },
   {
     "code": "95059090",
-    "desc": "Aðrir hlutir til skemmtana og annarra hátíðarhalda, þ.m.t. gripir fyrir töfrabrögð og sjónhverfingar"
+    "desc": "Aðrir hlutir til skemmtana og annarra hátíðarhalda, þ.m.t. gripir fyrir töfrabrögð og sjónhverfingar",
+    "aliases": [
+      "aðrar jólavörur",
+      "aðrar vörur til skemmtana"
+    ],
+    "msa": "0"
   },
   {
     "code": "95061100",
@@ -37253,7 +38001,8 @@
   },
   {
     "code": "95066900",
-    "desc": "Aðrir boltar"
+    "desc": "Aðrir boltar",
+    "msa": "4"
   },
   {
     "code": "95067000",
@@ -37389,7 +38138,8 @@
   },
   {
     "code": "96032100",
-    "desc": "Tannburstar"
+    "desc": "Tannburstar",
+    "msa": "4"
   },
   {
     "code": "96032901",
@@ -37401,7 +38151,11 @@
   },
   {
     "code": "96033000",
-    "desc": "Listmálunarpenslar, ritpenslar og áþekkir burstar til förðunar"
+    "desc": "Listmálunarpenslar, ritpenslar og áþekkir burstar til förðunar",
+    "aliases": [
+      "penslar"
+    ],
+    "msa": "4"
   },
   {
     "code": "96034000",
@@ -37461,15 +38215,24 @@
   },
   {
     "code": "96081000",
-    "desc": "Kúlupennar"
+    "desc": "Kúlupennar",
+    "msa": "0"
   },
   {
     "code": "96082000",
-    "desc": "Pennar og merkipennar með filtoddi o.þ.h."
+    "desc": "Pennar og merkipennar með filtoddi o.þ.h.",
+    "aliases": [
+      "pennar"
+    ],
+    "msa": "0"
   },
   {
     "code": "96083000",
-    "desc": "Sjálfblekungar, stylógrafpennar og aðrir pennar"
+    "desc": "Sjálfblekungar, stylógrafpennar og aðrir pennar",
+    "aliases": [
+      "aðrir pennar"
+    ],
+    "msa": "0"
   },
   {
     "code": "96084000",
@@ -37477,7 +38240,8 @@
   },
   {
     "code": "96085000",
-    "desc": "Pennasett"
+    "desc": "Pennasett",
+    "msa": "4"
   },
   {
     "code": "96086000",
@@ -37493,7 +38257,11 @@
   },
   {
     "code": "96091000",
-    "desc": "Blýantar og vaxlitir með blýi"
+    "desc": "Blýantar og vaxlitir með blýi",
+    "aliases": [
+      "blýantar og vaxlitir"
+    ],
+    "msa": "4"
   },
   {
     "code": "96092000",
@@ -37545,7 +38313,11 @@
   },
   {
     "code": "96151100",
-    "desc": "Greiður, hárspennur o.þ.h. úr harðgúmmíi eða plasti"
+    "desc": "Greiður, hárspennur o.þ.h. úr harðgúmmíi eða plasti",
+    "aliases": [
+      "greiður og hárspennur"
+    ],
+    "msa": "4"
   },
   {
     "code": "96151900",
@@ -37561,11 +38333,16 @@
   },
   {
     "code": "96162000",
-    "desc": "Púðar og leppar til þess að dyfta með"
+    "desc": "Púðar og leppar til þess að dyfta með",
+    "msa": "4"
   },
   {
     "code": "96170000",
-    "desc": "Hitaflöskur og hlutar í þær"
+    "desc": "Hitaflöskur og hlutar í þær",
+    "aliases": [
+      "hitaflöskur"
+    ],
+    "msa": "4"
   },
   {
     "code": "96180000",
