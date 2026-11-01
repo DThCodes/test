@@ -2435,11 +2435,11 @@ POSTNR,HEITI_NF,HEITI_TGF
 101,Spítalastígur 2B,Spítalastíg 2B
 101,Spítalastígur 3,Spítalastíg 3
 101,Spítalastígur 4,Spítalastíg 4
-101,Spítalastígur 4B,Spítalastíg 4B
+101,Spítalastígur 4A,Spítalastíg 4A
 101,Spítalastígur 4D,Spítalastíg 4D
 101,Spítalastígur 5,Spítalastíg 5
 101,Spítalastígur 6,Spítalastíg 6
-101,Spítalastígur 6B,Spítalastíg 6B
+101,Spítalastígur 6A,Spítalastíg 6A
 101,Spítalastígur 7,Spítalastíg 7
 101,Spítalastígur 8,Spítalastíg 8
 101,Stýrimannastígur 10,Stýrimannastíg 10
@@ -14543,7 +14543,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 110,Eldshöfði 25,Eldshöfða 25
 110,Eldshöfði 27,Eldshöfða 27
 110,Eldshöfði 29,Eldshöfða 29
-110,Eldshöfði 2A,Eldshöfða 2A
+110,Eldshöfði 2X,Eldshöfða 2X
 110,Eldshöfði 31,Eldshöfða 31
 110,Eldshöfði 33,Eldshöfða 33
 110,Eldshöfði 4,Eldshöfða 4
@@ -39484,7 +39484,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Breiðhella 3N,Breiðhellu 3N
 221,Breiðhella 3O,Breiðhellu 3O
 221,Breiðhella 3P,Breiðhellu 3P
-221,Breiðhella 3Q,Breiðhellu 3Q
 221,Breiðhella 3R,Breiðhellu 3R
 221,Breiðhella 3S,Breiðhellu 3S
 221,Breiðhella 3T,Breiðhellu 3T
@@ -39893,6 +39892,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Drangsskarð 8B,Drangsskarði 8B
 221,Drangsskarð 8C,Drangsskarði 8C
 221,Drangsskarð 8G,Drangsskarði 8G
+221,Drangsskarð 9A,Drangsskarði 9A
+221,Drangsskarð 9B,Drangsskarði 9B
 221,Drekavellir 10,Drekavöllum 10
 221,Drekavellir 11A,Drekavöllum 11A
 221,Drekavellir 11B,Drekavöllum 11B
@@ -40944,6 +40945,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 221,Hádegisskarð 14A,Hádegisskarði 14A
 221,Hádegisskarð 14B,Hádegisskarði 14B
 221,Hádegisskarð 15,Hádegisskarði 15
+221,Hádegisskarð 15D,Hádegisskarði 15D
 221,Hádegisskarð 16,Hádegisskarði 16
 221,Hádegisskarð 16A,Hádegisskarði 16A
 221,Hádegisskarð 16B,Hádegisskarði 16B
@@ -63209,13 +63211,13 @@ POSTNR,HEITI_NF,HEITI_TGF
 311,Fitjahlíð 95,Fitjahlíð 95
 311,Fitjahlíð 95A,Fitjahlíð 95A
 311,Fitjahlíð 97,Fitjahlíð 97
-311,Fitjahlíð 97a,Fitjahlíð 97a
 311,Fitjahlíð 99,Fitjahlíð 99
 311,Fitjahlíð 9A,Fitjahlíð 9A
+311,Fitjakirkja,Fitjakirkju
 311,Fitjar,Fitjum
+311,Fitjar II,Fitjar II
 311,Fitjar-Kot,Fitjar-Koti
 311,Fitjar-Smalagerði,Fitjum-Smalagerði
-311,Fitjar-kirkja,
 311,Fjall,Fjalli
 311,Fjárhúsaflatir,Fjárhúsflötum
 311,Fjárhúsás 1,Fjárhúsás 1
@@ -71185,7 +71187,9 @@ POSTNR,HEITI_NF,HEITI_TGF
 400,Hlíðarvegur 8,Hlíðarvegi 8
 400,Hlíðarvegur 9,Hlíðarvegi 9
 400,Hnífalaut 12,Hnífalaut 12
+400,Hnífalaut 19,Hnífalaut 19
 400,Hnífalaut 6,Hnífalaut 6
+400,Hnífalaut 9,Hnífalaut 9
 400,Hnífsdalsvegur 1,Hnífsdalsvegi 1
 400,Hnífsdalsvegur 10,Hnífsdalsvegi 10
 400,Hnífsdalsvegur 13,Hnífsdalsvegi 13
@@ -71214,7 +71218,10 @@ POSTNR,HEITI_NF,HEITI_TGF
 400,Hrauntunga 2,Hrauntungu 2
 400,Hrauntunga 3,Hrauntungu 3
 400,Hrauntunga 4,Hrauntungu 4
+400,Hádegislaut 10,Hádegislaut 10
+400,Hádegislaut 12,Hádegislaut 12
 400,Hádegislaut 14,Hádegislaut 14
+400,Hádegislaut 6,Hádegislaut 6
 400,Höfði við Kirkjubólshlíð,Höfða við Kirkjubólshlíð
 400,Kaplaskjól,Kaplaskjóli
 400,Kaplaskjól 1,Kaplaskjóli 1
@@ -71458,6 +71465,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 400,Skipagata 4,Skipagötu 4
 400,Skipagata 6,Skipagötu 6
 400,Skipagata 8,Skipagötu 8
+400,Skíðalaut 8,Skíðalaut 8
 400,Skógarbraut,Skógarbraut
 400,Skógarbraut 1,Skógarbraut 1
 400,Skógarbraut 2,Skógarbraut 2
@@ -78517,6 +78525,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 551,Einholt,Einholti
 551,Einhyrningur,Einhyrningi
 551,Enni,Enni
+551,Enni 2,Enni 2
 551,Eyhildarholt 1,Eyhildarholti 1
 551,Eyhildarholt 2,Eyhildarholti 2
 551,Eyhildarholt 3,Eyhildarholti 3
@@ -79006,6 +79015,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 561,Djúpidalur,Djúpadal
 561,Dýrfinnustaðir,Dýrfinnustöðum
 561,Egilsá,Egilsá
+561,Eikarás,Eikarási
 561,Einimelur,Einimel
 561,Einimelur 2A,Einimel 2A
 561,Einimelur 2B,Einimel 2B
@@ -86609,8 +86619,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 604,Lónsvegur 7,Lónsvegi 7
 604,Lónsvegur 9,Lónsvegi 9
 604,Lónsá,Lónsá
-604,Lónsá 2,Lónsá 2
-604,Lónsá N,Lónsá N
 604,Melar,Melum
 604,Meltunga,Meltungu
 604,Mikligarður,Miklagarði
@@ -86992,7 +87000,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 605,Brekkutröð 8,Brekkutröð 8
 605,Bringa,Bringu
 605,Brúarland,Brúarlandi
-605,Brúnagerði,Brúnagerði
 605,Brúnagerði 1,Brúnagerði 1
 605,Brúnagerði 10,Brúnagerði 10
 605,Brúnagerði 11,Brúnagerði 11
@@ -91280,6 +91287,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 641,Bergsstaðir,Bergsstöðum
 641,Berjalaut,Berjalaut
 641,Birningsstaðir,Birningsstöðum
+641,Bjarkarlundur 1,Bjarkarlundi 1
 641,Bjarkarlundur 10,Bjarkarlundi 10
 641,Bjarkarlundur 11,Bjarkarlundi 11
 641,Bjarkarlundur 12,Bjarkarlundi 12
@@ -94128,6 +94136,10 @@ POSTNR,HEITI_NF,HEITI_TGF
 700,Fífuhvammur 4,Fífuhvammi 4
 700,Fífutún 1,Fífutúni 1
 700,Fífutún 2,Fífutúni 2
+700,Fífutún 2A,Fífutúni 2A
+700,Fífutún 2B,Fífutúni 2B
+700,Fífutún 2C,Fífutúni 2C
+700,Fífutún 2D,Fífutúni 2D
 700,Fífutún 3,Fífutúni 3
 700,Fífutún 4,Fífutúni 4
 700,Fífutún 5,Fífutúni 5
@@ -99755,7 +99767,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 780,Hafnarbraut 10,Hafnarbraut 10
 780,Hafnarbraut 11,Hafnarbraut 11
 780,Hafnarbraut 12,Hafnarbraut 12
-780,Hafnarbraut 13,Hafnarbraut 13
 780,Hafnarbraut 13A,Hafnarbraut 13A
 780,Hafnarbraut 14,Hafnarbraut 14
 780,Hafnarbraut 15,Hafnarbraut 15
@@ -100327,7 +100338,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 780,Víkurbraut 9,Víkurbraut 9
 780,Álaleira 1,Álaleiru 1
 780,Álaleira 10,Álaleiru 10
-780,Álaleira 11,Álaleiru 11
 780,Álaleira 12,Álaleiru 12
 780,Álaleira 13A,Álaleiru 13A
 780,Álaleira 13B,Álaleiru 13B
@@ -100402,6 +100412,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 781,Akurnes 3,Akurnesi 3
 781,Auralind,
 781,Austurhóll,Austurhól
+781,Austurhóll 2,Austurhóli 2
 781,Austurhóll Skógey,Austurhól Skógey
 781,Aðalból,Aðalbóli
 781,Aðalból 2,Aðalbóli 2
@@ -100966,9 +100977,12 @@ POSTNR,HEITI_NF,HEITI_TGF
 785,Sandbúðir 1A,
 785,Sandbúðir 1B,
 785,Sandbúðir 2,
+785,Sandbúðir 2X,
+785,Sandbúðir 2Y,
 785,Sandbúðir 3,
 785,Sandfell,Sandfelli
 785,Sel 1,Seli 1
+785,Skaftafell 1,Skaftafelli 1
 785,Skaftafell 1A,Skaftafelli 1A
 785,Skaftafell 1D,Skaftafelli 1D
 785,Skaftafell 1b,Skaftafelli 1b
@@ -100980,6 +100994,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 785,Skaftafell 3B,Skaftafelli 3B
 785,Skaftafell 3C,Skaftafelli 3C
 785,Skaftafell 3R,Skaftafelli 3R
+785,Skaftafell 3X,Skaftafelli 3X
 785,Skaftafell 4,Skaftafelli 4
 785,Skaftafell 4A,Skaftafelli 4A
 785,Skeiðarárjökull Suður,Skeiðarárjökli Suður
@@ -104472,6 +104487,27 @@ POSTNR,HEITI_NF,HEITI_TGF
 800,Víkurheiði 16,Víkurheiði 16
 800,Víkurheiði 17,Víkurheiði 17
 800,Víkurheiði 18,Víkurheiði 18
+800,Víkurheiði 18A,Víkurheiði 18A
+800,Víkurheiði 18B,Víkurheiði 18B
+800,Víkurheiði 18C,Víkurheiði 18C
+800,Víkurheiði 18D,Víkurheiði 18D
+800,Víkurheiði 18E,Víkurheiði 18E
+800,Víkurheiði 18F,Víkurheiði 18F
+800,Víkurheiði 18G,Víkurheiði 18G
+800,Víkurheiði 18H,Víkurheiði 18H
+800,Víkurheiði 18I,Víkurheiði 18I
+800,Víkurheiði 18J,Víkurheiði 18J
+800,Víkurheiði 18K,Víkurheiði 18K
+800,Víkurheiði 18L,Víkurheiði 18L
+800,Víkurheiði 18M,Víkurheiði 18M
+800,Víkurheiði 18N,Víkurheiði 18N
+800,Víkurheiði 18O,Víkurheiði 18O
+800,Víkurheiði 18P,Víkurheiði 18P
+800,Víkurheiði 18Q,Víkurheiði 18Q
+800,Víkurheiði 18R,Víkurheiði 18R
+800,Víkurheiði 18S,Víkurheiði 18S
+800,Víkurheiði 18T,Víkurheiði 18T
+800,Víkurheiði 18U,Víkurheiði 18U
 800,Víkurheiði 19,Víkurheiði 19
 800,Víkurheiði 2,Víkurheiði 2
 800,Víkurheiði 20,Víkurheiði 20
@@ -106656,6 +106692,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 804,Skeiðháholt,Skeiðháholti
 804,Skeiðháholt 1,Skeiðháholti 1
 804,Skeiðháholt 1A,Skeiðháholti 1A
+804,Skeiðháholt 1B,Skeiðháholti 1B
 804,Skeiðháholt 2,Skeiðháholti 2
 804,Skeiðháholt 2B,Skeiðháholti 2B
 804,Skeiðháholt 2a,Skeiðháholti 2a
@@ -106706,7 +106743,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 804,Snyrting,Snyrtingu
 804,Spónakriki 5,Spónakrika 5
 804,Steinkerstún,Steinkerstúni
-804,Steinsholt,Steinsholti
 804,Steinsholt 1,Steinsholti 1
 804,Steinsholt 1B,Steinsholti 1B
 804,Steinsholt 1C,Steinsholti 1C
@@ -107229,6 +107265,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 805,Bjarnastaðir I,Bjarnastöðum I
 805,Björk,Björk
 805,Björk 1,Björk 1
+805,Björk 3,Björk 3
 805,Björk II,Björk II
 805,Bláskógar,Bláskógum
 805,Borg,Borg
@@ -110565,6 +110602,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 805,Steinahlíð,Steinahlíð
 805,Steinar,Steinum
 805,Steingrímsstöð,Steingrímsstöð
+805,Stekkjardalur,Stekkjardal
 805,Stekkjarflöt,Stekkjarflöt
 805,Stekkjarholt 2,Stekkjarholti 2
 805,Stekkjarholt 3,Stekkjarholti 3
@@ -110808,7 +110846,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 805,Tíðhóll 6,Tíðhóli 6
 805,Tíðhóll 7,Tíðhóli 7
 805,Tíðhóll 8,Tíðhóli 8
-805,Tóftabraut,Tóftabraut
 805,Tóftabraut 1,Tóftabraut 1
 805,Tóftabraut 2,Tóftabraut 2
 805,Tóftabraut 3,Tóftabraut 3
@@ -112416,7 +112453,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 806,Faxabúðir 15,Faxabúðum 15
 806,Faxabúðir 16,Faxabúðum 16
 806,Faxabúðir 18,Faxabúðum 18
-806,Faxabúðir 19,Faxabúðum 19
 806,Faxabúðir 2,Faxabúðum 2
 806,Faxabúðir 20,Faxabúðum 20
 806,Faxabúðir 21,Faxabúðum 21
@@ -113436,6 +113472,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 806,Mosaskyggnir 10,Mosaskyggni 10
 806,Mosaskyggnir 11,Mosaskyggni 11
 806,Mosaskyggnir 12,Mosaskyggni 12
+806,Mosaskyggnir 13,Mosaskyggni 13
+806,Mosaskyggnir 14,Mosaskyggni 14
 806,Mosaskyggnir 16,Mosaskyggni 16
 806,Mosaskyggnir 18,Mosaskyggni 18
 806,Mosaskyggnir 19,Mosaskyggni 19
@@ -113789,6 +113827,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 806,Selholtsvegur 14,Selholtsvegi 14
 806,Selholtsvegur 16,Selholtsvegi 16
 806,Selholtsvegur 18,Selholtsvegi 18
+806,Selholtsvegur 2,Selholtsvegi 2
 806,Selholtsvegur 20,Selholtsvegi 20
 806,Selholtsvegur 22,Selholtsvegi 22
 806,Selholtsvegur 24,Selholtsvegi 24
@@ -113796,6 +113835,9 @@ POSTNR,HEITI_NF,HEITI_TGF
 806,Selholtsvegur 28,Selholtsvegi 28
 806,Selholtsvegur 30,Selholtsvegi 30
 806,Selholtsvegur 32,Selholtsvegi 32
+806,Selholtsvegur 4,Selholtsvegi 4
+806,Selholtsvegur 6,Selholtsvegi 6
+806,Selholtsvegur 8,Selholtsvegi 8
 806,Seljaland 1,Seljalandi 1
 806,Seljaland 10,Seljalandi 10
 806,Seljaland 11,Seljalandi 11
@@ -117731,6 +117773,10 @@ POSTNR,HEITI_NF,HEITI_TGF
 816,Mýrarsel 7,Mýrarseli 7
 816,Mýrarsel 8,Mýrarseli 8
 816,Mýrarsel 9,Mýrarseli 9
+816,Mýrarsel 9B,Mýrarseli 9B
+816,Mýrarsel 9C,Mýrarseli 9C
+816,Mýrarsel 9D,Mýrarseli 9D
+816,Mýrarsel 9E,Mýrarseli 9E
 816,Nautaflatir,Nautaflötum
 816,Nes,Nesi
 816,Nessandur,Nessandi
@@ -118716,7 +118762,13 @@ POSTNR,HEITI_NF,HEITI_TGF
 840,Eyvindartunga 1,Eyvindartungu 1
 840,Eyvindartunguland,Eyvindartungulandi
 840,Garðstígur 1,Garðstíg 1
+840,Herutún 1,Herutúni 1
+840,Herutún 3,Herutúni 3
+840,Herutún 5,Herutúni 5
 840,Herutún 6,Herutúni 6
+840,Herutún 6A,Herutúni 6A
+840,Herutún 7A,Herutúni 7A
+840,Herutún 9,Herutúni 9
 840,Hrísholt 1,Hrísholti 1
 840,Hrísholt 10,Hrísholti 10
 840,Hrísholt 11,Hrísholti 11
@@ -119712,6 +119764,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 846,Syðra-Langholt 12,Syðra-Langholti 12
 846,Syðra-Langholt 1a,Syðra-Langholti 1a
 846,Syðra-Langholt 2,Syðra-Langholti 2
+846,Syðra-Langholt 20,Syðra-Langholti 20
+846,Syðra-Langholt 22,Syðra-Langholti 22
 846,Syðra-Langholt 2A,Syðra-Langholti 2A
 846,Syðra-Langholt 2A la 3,Syðra-Langholti 2A la 3
 846,Syðra-Langholt 2A la 4,Syðra-Langholti 2A la 4
@@ -119719,6 +119773,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 846,Syðra-Langholt 3A,Syðra-Langholti 3A
 846,Syðra-Langholt 4,Syðra-Langholti 4
 846,Syðra-Langholt 4A,Syðra-Langholti 4A
+846,Syðra-Langholt 5,Syðra-Langholti 5
 846,Syðra-Langholt 6,Syðra-Langholti 6
 846,Syðra-Langholt 7,Syðra-Langholti 7
 846,Syðra-Langholt 9,Syðra-Langholti 9
@@ -119763,9 +119818,16 @@ POSTNR,HEITI_NF,HEITI_TGF
 846,Unnarholtskot 1C,Unnarholtskoti 1C
 846,Unnarholtskot 2,Unnarholtskoti 2
 846,Unnarholtskot 3,Unnarholtskoti 3
+846,Uppsalir 1,Uppsölum 1
+846,Uppsalir 10,Uppsölum 10
 846,Uppsalir 2,Uppsölum 2
 846,Uppsalir 3,Uppsölum 3
 846,Uppsalir 4,Uppsölum 4
+846,Uppsalir 5,Uppsölum 5
+846,Uppsalir 6,Uppsölum 6
+846,Uppsalir 7,Uppsölum 7
+846,Uppsalir 8,Uppsölum 8
+846,Uppsalir 9,Uppsölum 9
 846,Vakholt,Vakholti
 846,Vallarslóð 2,Vallarslóð 2
 846,Vallarslóð 6B,Vallarslóð 6B
@@ -122032,6 +122094,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 851,Stúfholt 2,Stúfholti 2
 851,Stúfholt 3,Stúfholti 3
 851,Stúfholt 4,Stúfholti 4
+851,Stúfholtshjáleiga,Stúfholtshjáleigu
 851,Sumarhlíð,Sumarhlíð
 851,Sumarliðabær,Sumarliðabæ
 851,Sumarliðabær 2,Sumarliðabæ 2
@@ -122334,6 +122397,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 851,Útgarður 1,Útgarði 1
 851,Þingholt,Þingholti
 851,Þingskálar,Þingskálum
+851,Þingás,Þingási
 851,Þjórsá-Tveir hólmar,Þjórsá
 851,Þjórsárbakki,Þjórsárbakka
 851,Þjórsártún,Þjórsártúni
@@ -123015,6 +123079,9 @@ POSTNR,HEITI_NF,HEITI_TGF
 861,Bólstaður land (B),Bóstað land (B)
 861,Bót,Bót
 861,Búland,Búlandi
+861,Búland A,Búlandi A
+861,Búland B,Búlandi B
+861,Búland C,Búlandi C
 861,Búðarhóll 1,Búðarhóli 1
 861,Búðarhóll 2,Búðarhóli 2
 861,C-gata 1,C-götu 1
@@ -123047,7 +123114,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 861,Deild 2,Deild 2
 861,Djúpidalur,Djúpadal
 861,Drangshlíð,Drangshlíð
-861,Drangshlíð 1,Drangshlíð 1
+861,Drangshlíð 1 Gisting,
 861,Drangshlíð 2,Drangshlíð 2
 861,Drangshlíðardalur,Drangshlíðardal
 861,Drangshlíðardalur 2,Drangshlíðardal 2
@@ -123415,6 +123482,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 861,Kirkjulækur 1,Kirkjulæk 1
 861,Kirkjulækur 1F,Kirkjulæk 1F
 861,Kirkjulækur 2,Kirkjulæk 2
+861,Kirkjulækur 2A,Kirkjulæk 2A
 861,Kirkjulækur 3,Kirkjulæk 3
 861,Kirkjulækur 3A,Kirkjulæk 3A
 861,Kjóavellir 1,Kjóavöllum 1
