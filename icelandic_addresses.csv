@@ -24282,7 +24282,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 190.0,Fagridalur 8,Fagradal 8
 190.0,Fagridalur 9,Fagradal 9
 190.0,Garðhús,Garðhúsum
-190.0,Grænaborg,Grænuborg
+190.0,Grænaborg,Grænaborg
 190.0,Grænaborg 10,Grænuborg 10
 190.0,Grænaborg 12,Grænuborg 12
 190.0,Grænaborg 14,Grænuborg 14
@@ -24938,7 +24938,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 191.0,Spítalalóð,Spítalalóð
 191.0,Stapavegur 1,Stapavegi 1
 191.0,Stapavegur 1a,Stapavegi 1a
-191.0,Stóra Knarrarnes I,Minna Knarrarnesi I
+191.0,Stóra Knarrarnes I,Stóra Knarrarnesi I
 191.0,Stóra Knarrarnes II,Stóra Knarrarnes II
 191.0,Stóra Knarrarnes III,Stóra Knarrarnesi III
 191.0,Stóra Vatnsleysa,Stóru Vatnsleysu
@@ -42181,6 +42181,9 @@ POSTNR,HEITI_NF,HEITI_TGF
 221.0,Stálhella 2D,Stálhellu 2D
 221.0,Stálhella 2H,Stálhellu 2H
 221.0,Stálhella 4,Stálhellu 4
+221.0,Stálhella 4A,Stálhellu 4A
+221.0,Stálhella 4B,Stálhellu 4B
+221.0,Stálhella 4K,Stálhellu 4K
 221.0,Stálhella 6,Stálhellu 6
 221.0,Stálhella 8,Stálhellu 8
 221.0,Suðurhella 10,Suðurhellu 10
@@ -42785,6 +42788,13 @@ POSTNR,HEITI_NF,HEITI_TGF
 221.0,Álhella 5,Álhellu 5
 221.0,Álhella 6,Álhellu 6
 221.0,Álhella 7,Álhellu 7
+221.0,Álhella 7A,Álhellu 7A
+221.0,Álhella 7B,Álhellu 7B
+221.0,Álhella 7C,Álhellu 7C
+221.0,Álhella 7D,Álhellu 7D
+221.0,Álhella 7E,Álhellu 7E
+221.0,Álhella 7F,Álhellu 7F
+221.0,Álhella 7G,Álhellu 7G
 221.0,Álhella 7H,Álhellu 7H
 221.0,Álhella 9,Álhellu 9
 221.0,Ás,Ási
@@ -43166,20 +43176,19 @@ POSTNR,HEITI_NF,HEITI_TGF
 225.0,Heimatún 2,Heimatúni 2
 225.0,Heimatún 3,Heimatúni 3
 225.0,Helguvík,Helguvík
-225.0,Hestamýri 1,Hestamýri 1
 225.0,Hestamýri 1A,Hestamýri 1A
 225.0,Hestamýri 1B,Hestamýri 1B
 225.0,Hestamýri 2,Hestamýri 2
 225.0,Hestamýri 2A,Hestamýri 2A
 225.0,Hestamýri 2B,Hestamýri 2B
-225.0,Hestamýri 3,Hestamýri 3
 225.0,Hestamýri 3A,Hestamýri 3A
 225.0,Hestamýri 3B,Hestamýri 3B
-225.0,Hestamýri 4,Hestamýri 4
 225.0,Hestamýri 4A,Hestamýri 4A
 225.0,Hestamýri 4B,Hestamýri 4B
-225.0,Hestamýri 5,Hestamýri 5
-225.0,Hestamýri 6,Hestamýri 6
+225.0,Hestamýri 5A,Hestamýri 5A
+225.0,Hestamýri 5B,Hestamýri 5B
+225.0,Hestamýri 6A,Hestamýri 6A
+225.0,Hestamýri 6B,Hestamýri 6B
 225.0,Hlein,Hlein
 225.0,Hlið,Hliði
 225.0,Hliðsnes,Hliðsnesi
@@ -48075,7 +48084,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 245.0,Bæjarsker,Bæjarskeri
 245.0,Bæjarsker 12,Bæjarskeri 12
 245.0,Bæjarsker 4,Bæjarskeri 4
-245.0,Dreifistöð DRE 20,Strandgötu 20
+245.0,Dreifistöð DRE 20,Dreifistöð DRE 20
 245.0,Dreifistöð DRE 307,Dreifistöð DRE 307
 245.0,Dreifistöð DRE 308,Dreifistöð DRE 308
 245.0,Dreifistöð DRE 314,Dreifistöð DRE 314
@@ -52089,6 +52098,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 260.0,YNJ óskipt,YNJ óskiptu
 260.0,Ytri-Njarðvík 1,Ytri-Njarðvík 1
 260.0,Ytri-Njarðvík 2,Ytri-Njarðvík 2
+260.0,Álfadalur,Álfadal
 260.0,Álfadalur 1,Álfadal 1
 260.0,Álfadalur 10,Álfadal 10
 260.0,Álfadalur 11,Álfadal 11
@@ -54976,13 +54986,16 @@ POSTNR,HEITI_NF,HEITI_TGF
 270.0,Skálahlíð 9A,Skálahlíð 9A
 270.0,Skálatún,Skálatúni
 270.0,Skógarnes,Skógarnesi
-270.0,Skólabraut,Skólabraut
 270.0,Skólabraut 1,Skólabraut 1
 270.0,Skólabraut 10,Skólabraut 10
+270.0,Skólabraut 12,Skólabraut 12
 270.0,Skólabraut 1A,Skólabraut 1A
+270.0,Skólabraut 2,Skólabraut 2
 270.0,Skólabraut 3,Skólabraut 3
+270.0,Skólabraut 4,Skólabraut 4
 270.0,Skólabraut 6,Skólabraut 6
 270.0,Skólabraut 8,Skólabraut 8
+270.0,Skólaholt 1,Skólaholti 1
 270.0,Snæfríðargata 1,Snæfríðargötu 1
 270.0,Snæfríðargata 10,Snæfríðargötu 10
 270.0,Snæfríðargata 12,Snæfríðargötu 12
@@ -56099,10 +56112,32 @@ POSTNR,HEITI_NF,HEITI_TGF
 271.0,Grenilundur 8,Grenilundi 8
 271.0,Grenilundur 9,Grenilundi 9
 271.0,Grund,Grund
+271.0,Hafravatnsvegur 11,Hafravatnsvegi 11
 271.0,Hafravatnsvegur 12,Hafravatnsvegi 12
+271.0,Hafravatnsvegur 13,Hafravatnsvegi 13
 271.0,Hafravatnsvegur 14,Hafravatnsvegi 14
+271.0,Hafravatnsvegur 15,Hafravatnsvegi 15
 271.0,Hafravatnsvegur 16,Hafravatnsvegi 16
+271.0,Hafravatnsvegur 17,Hafravatnsvegi 17
 271.0,Hafravatnsvegur 18,Hafravatnsvegi 18
+271.0,Hafravatnsvegur 19,Hafravatnsvegi 19
+271.0,Hafravatnsvegur 20,Hafravatnsvegi 20
+271.0,Hafravatnsvegur 21,Hafravatnsvegi 21
+271.0,Hafravatnsvegur 22,Hafravatnsvegi 22
+271.0,Hafravatnsvegur 23,Hafravatnsvegi 23
+271.0,Hafravatnsvegur 24,Hafravatnsvegi 24
+271.0,Hafravatnsvegur 25,Hafravatnsvegi 25
+271.0,Hafravatnsvegur 26,Hafravatnsvegi 26
+271.0,Hafravatnsvegur 27,Hafravatnsvegi 27
+271.0,Hafravatnsvegur 28,Hafravatnsvegi 28
+271.0,Hafravatnsvegur 29,Hafravatnsvegi 29
+271.0,Hafravatnsvegur 30,Hafravatnsvegi 30
+271.0,Hafravatnsvegur 31,Hafravatnsvegi 31
+271.0,Hafravatnsvegur 32,Hafravatnsvegi 32
+271.0,Hafravatnsvegur 33,Hafravatnsvegi 33
+271.0,Hafravatnsvegur 35,Hafravatnsvegi 35
+271.0,Hafravatnsvegur 37,Hafravatnsvegi 37
+271.0,Hafravatnsvegur 39,Hafravatnsvegi 39
 271.0,Hafravatnsvegur 50,Hafravatnsvegi 50
 271.0,Hafravatnsvegur 52,Hafravatnsvegi 52
 271.0,Hafravatnsvegur 54,Hafravatnsvegi 54
@@ -56626,6 +56661,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 271.0,Árvegur 20,Árvegi 20
 271.0,Árvegur 24,Árvegi 24
 271.0,Árvegur 26,Árvegi 26
+271.0,Árvegur 4,Árvegi 4
 271.0,Árvegur 5,Árvegi 5
 271.0,Árvegur 8,Árvegi 8
 271.0,Ásar,Ásum
@@ -56642,7 +56678,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 271.0,Í landi Röðuls,Í landi Röðuls
 271.0,Í Æsustaðalandi,Í Æsustaðalandi
 271.0,Í Úlfarsfellslandi,Í Úlfarsfellslandi
-271.0,Í Þormóðsdalsl,Í
 271.0,Í Þormóðsdalslandi,í Þormóðsdalslandi
 271.0,Óskot,Óskoti
 271.0,Óskotsland,Óskotslandi
@@ -56708,9 +56743,15 @@ POSTNR,HEITI_NF,HEITI_TGF
 271.0,Úr landi Minnamosf,Úr
 271.0,Úr landi Reykjahvols,Úr landi Reykjahvols
 271.0,Úr landi Suður-Reykja,Úr landi Suður-Reykja
-271.0,Þormóðsdalsland,Þormóðsdalslandi
+271.0,Þormóðsdalsvegur 1,Þormóðsdalsvegi 1
+271.0,Þormóðsdalsvegur 11,Þormóðsdalsvegi 11
+271.0,Þormóðsdalsvegur 13,Þormóðsdalsvegi 13
+271.0,Þormóðsdalsvegur 2,Þormóðsdalsvegi 2
+271.0,Þormóðsdalsvegur 3,Þormóðsdalsvegi 3
+271.0,Þormóðsdalsvegur 5,Þormóðsdalsvegi 5
+271.0,Þormóðsdalsvegur 7,Þormóðsdalsvegi 7
+271.0,Þormóðsdalsvegur 9,Þormóðsdalsvegi 9
 271.0,Þormóðsdalur,Þormóðsdal
-271.0,Þorðmósdalur,Þorðmóðsdal
 276.0,Austurbakkavegur 2,Austurbakkavegi 2
 276.0,Austurbakkavegur 3,Austurbakkavegi 3
 276.0,Austurbakkavegur 5,Austurbakkavegi 5
@@ -62651,10 +62692,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 311.0,Bjarkarhraun 7,Bjarkarhrauni 7
 311.0,Bjarkarhraun 8,Bjarkarhrauni 8
 311.0,Bjarkarhraun 9,Bjarkarhrauni 9
-311.0,Bjarkarás 1,Bjarkarás 1
-311.0,Bjarkarás 10,Bjarkarás 10
-311.0,Bjarkarás 3,Bjarkarás 3
-311.0,Bjarkarás 5,Bjarkarás 5
 311.0,Blikavatn,Blikavatni
 311.0,Bollakot 1,Bollakoti 1
 311.0,Bollakot 2,Bollakoti 2
@@ -63036,7 +63073,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 311.0,Dýrastaðir 2,Dýrastöðum 2
 311.0,Efra-Hrísnes,Efra-Hrísnesi
 311.0,Efra-Nes,Efra-Nesi
-311.0,Efri-Hreppur,Efri-Hreppi
+311.0,Efri-Hreppur,Efra-Hreppi
 311.0,Efri-Hreppur 1,Efri-Hreppi 1
 311.0,Efri-Staður,Efri-Stað
 311.0,Efstibær,Efstabæ
@@ -64189,25 +64226,25 @@ POSTNR,HEITI_NF,HEITI_TGF
 311.0,Kvistás 1,Kvistási 1
 311.0,Kvistás 10,Kvistás 10
 311.0,Kvistás 11,Kvistás 11
-311.0,Kvistás 12,Kvistás 12
-311.0,Kvistás 13,Kvistási 13
+311.0,Kvistás 12,Kvistási 12
+311.0,Kvistás 13,Kvistás 13
 311.0,Kvistás 14,Kvistás 14
 311.0,Kvistás 15,Kvistás 15
 311.0,Kvistás 16,Kvistás 16
-311.0,Kvistás 17,Kvistási 17
+311.0,Kvistás 17,Kvistás 17
 311.0,Kvistás 18,Kvistási 18
 311.0,Kvistás 19,Kvistási 19
-311.0,Kvistás 2,Kvistás 2
+311.0,Kvistás 2,Kvistási 2
 311.0,Kvistás 20,Kvistási 20
 311.0,Kvistás 21,Kvistási 21
 311.0,Kvistás 22,Kvistási 22
 311.0,Kvistás 23,Kvistási 23
 311.0,Kvistás 24,Kvistási 24
 311.0,Kvistás 25,Kvistási 25
-311.0,Kvistás 3,Kvistás 3
+311.0,Kvistás 3,Kvistási 3
 311.0,Kvistás 4,Kvistás 4
-311.0,Kvistás 5,Kvistási 5
-311.0,Kvistás 6,Kvistás 6
+311.0,Kvistás 5,Kvistás 5
+311.0,Kvistás 6,Kvistási 6
 311.0,Kvistás 7,Kvistás 7
 311.0,Kvistás 8,Kvistás 8
 311.0,Kvistás 9,Kvistási 9
@@ -64633,8 +64670,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 311.0,Munaðanes,Munaðarnesi
 311.0,Munaðarnes,Munaðarnesi
 311.0,Munaðarnes 2,Munaðarnesi 2
-311.0,Munaðarnes Birkihlíð,Munaðarnes Birkihlíð
-311.0,Munaðarnesl.BSRB,Munaðarnesl.BSRB
 311.0,Munaðarnesl.BSRB 1,Munaðarnesl.BSRB 1
 311.0,Munaðarnesl.BSRB 2,Munaðarnesl.BSRB 2
 311.0,Munaðarnesland,Munaðarneslandi
@@ -64779,7 +64814,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 311.0,Nestjörn,Nestjarnar
 311.0,Neðra-Hrísnes,Neðra-Hrísnesi
 311.0,Neðra-Nes,Neðra-Nesi
-311.0,Neðri-Hreppur,Neðri-Hreppi
+311.0,Neðri-Hreppur,Neðra-Hreppi
 311.0,Neðri-Hreppur 1,Neðri-Hreppi 1
 311.0,Norðtunga,Norðtungu
 311.0,Norðtunga 1,Norðtungu 1
@@ -65061,7 +65096,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 311.0,Skógarkot hitaveitugeymir,Skógarkoti hitaveitugeymi
 311.0,Skógarnef 1,Skógarnefi 1
 311.0,Skógarnes,Skógarnesi
-311.0,Skógarsel,Skógarseli
 311.0,Skógarvegur 1,Skógarvegi 1
 311.0,Skógarvegur 10,Skógarvegi 10
 311.0,Skógarvegur 12,Skógarvegi 12
@@ -65112,6 +65146,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 311.0,Snorrastaðir 2,Snorrastöðum 2
 311.0,Snorrastaðir 3,Snorrastöðum 3
 311.0,Sobbasel,Sobbaseli
+311.0,Solveigarblettur,Solveigarbletti
 311.0,Sporður,Sporði
 311.0,Stafholt,Stafholti
 311.0,Stafholtsey,Stafholtsey
@@ -65907,18 +65942,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 311.0,Vörðuháls 2,Vörðuhálsi 2
 311.0,Vörðuháls 3,Vörðuhálsi 3
 311.0,Vörðuháls 4,Vörðuhálsi 4
-311.0,Vörðuás 11,Vörðuás 11
-311.0,Vörðuás 12,Vörðuás 12
-311.0,Vörðuás 13,Vörðuás 13
-311.0,Vörðuás 14,Vörðuás 14
-311.0,Vörðuás 15,Vörðuás 15
-311.0,Vörðuás 16,Vörðuás 16
-311.0,Vörðuás 17,Vörðuás 17
-311.0,Vörðuás 18,Vörðuás 18
-311.0,Vörðuás 19,Vörðuás 19
-311.0,Vörðuás 20,Vörðuás 20
-311.0,Vörðuás 21,Vörðuás 21
-311.0,Vörðuás 22,Vörðuás 22
 311.0,Ystu Garðar 2,Ystu Görðum 2
 311.0,Ystu-Garðar,Ystu-Görðum
 311.0,Ystu-Garðar 3,Ystu-Görðum 3
@@ -68131,6 +68154,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 345.0,Barnaskóli,Barnaskóla
 345.0,Bentshús,Bentshúsi
 345.0,Berg,Bergi
+345.0,Beykishús,Beykishúsi
 345.0,Bjarg,Bjargi
 345.0,Bogabúð,Bogabúð
 345.0,Bogaskemma,Bogaskemmu
@@ -73671,7 +73695,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 451.0,Bjargtangar,Bjargtöngum
 451.0,Bjargtangaviti,Bjargtangavita
 451.0,Bjarkarholt,Bjarkarholti
-451.0,Breiðavík,Breiðuvík
+451.0,Breiðavík,Breiðavík
 451.0,Breiðavíkurkirkja,Breiðavíkurkirkju
 451.0,Breiðilækur,Breiðalæk
 451.0,Brekkuvellir,Brekkuvöllum
@@ -76263,6 +76287,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 540.0,Fornastaðir,Fornastöðum
 540.0,Fálkagerði 1,Fálkagerði 1
 540.0,Fálkagerði 2,Fálkagerði 2
+540.0,Fálkagerði 3,Fálkagerði 3
 540.0,Fálkagerði 4,Fálkagerði 4
 540.0,Fálkagerði 4B,Fálkagerði 4B
 540.0,Fálkagerði 6,Fálkagerði 6
@@ -76924,7 +76949,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 541.0,Stekkjardalur 1,Stekkjardal 1
 541.0,Stekkjardalur 2,Stekkjardal 2
 541.0,Stekkjarás,Stekkjarási
-541.0,Strangakvísl,Stangakvísl
+541.0,Strangakvísl,Ströngukvísl
 541.0,Strjúgsstaðir,Strjúgsstöðum
 541.0,Sturluhóll,Sturluhóli
 541.0,Stóra-Búrfell,Stóra-Búrfelli
@@ -79232,7 +79257,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 561.0,Litla Hlíð,Litlu Hlíð
 561.0,Litla-Hlíð,Litlu-Hlíð
 561.0,Litla-Horn,Litla-Horni
-561.0,Litlidalur,Litladal
+561.0,Litlidalur,Litlidal
 561.0,Ljósaland,Ljósalandi
 561.0,Lyngbrekka,Lyngbrekku
 561.0,Lynghólmi,Lynghólma
@@ -80798,6 +80823,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 600.0,Aðalstræti 80B,Aðalstræti 80B
 600.0,Aðalstræti 80C,Aðalstræti 80C
 600.0,Aðalstræti 82,Aðalstræti 82
+600.0,Aðalstræti 8A,Aðalstræti 8A
+600.0,Aðalstræti 8B,Aðalstræti 8B
 600.0,Aðalstræti 9,Aðalstræti 9
 600.0,Barrlundur 1,Barrlundi 1
 600.0,Barrlundur 2,Barrlundi 2
@@ -84834,6 +84861,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 603.0,Goðanes 1A,Goðanesi 1A
 603.0,Goðanes 1B,Goðanesi 1B
 603.0,Goðanes 2A,Goðanesi 2A
+603.0,Goðanes 2B,Goðanesi 2B
 603.0,Goðanes 3,Goðanesi 3
 603.0,Goðanes 3A,Goðanesi 3A
 603.0,Goðanes 3B,Goðanesi 3B
@@ -85391,6 +85419,8 @@ POSTNR,HEITI_NF,HEITI_TGF
 603.0,Lyngmói 17,Lyngmóa 17
 603.0,Lyngmói 19,Lyngmóa 19
 603.0,Lyngmói 21,Lyngmóa 21
+603.0,Lyngmói 23,Lyngmóa 23
+603.0,Lyngmói 25,Lyngmóa 25
 603.0,Lyngmói 3,Lyngmóa 3
 603.0,Lyngmói 5,Lyngmóa 5
 603.0,Lyngmói 7,Lyngmóa 7
@@ -86434,7 +86464,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 604.0,Búland,Búlandi
 604.0,Búland 2,Búlandi 2
 604.0,Búland 3,Búlandi 3
-604.0,Búðagata 13,Búðagötu 13
+604.0,Búðagata 13A,Búðagötu 13A
 604.0,Búðagata 17,Búðagötu 17
 604.0,Búðagata 21,Búðagötu 21
 604.0,Búðagata 23,Búðagötu 23
@@ -86523,7 +86553,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 604.0,Hagaflöt 12B,Hagaflöt 12B
 604.0,Hagaflöt 14,Hagaflöt 14
 604.0,Hagaflöt 14B,Hagaflöt 14B
-604.0,Hagaflöt 16,Hagaflöt 16
+604.0,Hagaflöt 16A,Hagaflöt 16A
 604.0,Hagaflöt 16B,Hagaflöt 16B
 604.0,Hagaflöt 1B,Hagaflöt 1B
 604.0,Hagaflöt 1C,Hagaflöt 1C
@@ -86638,7 +86668,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 604.0,Kirkjubraut 1,Kirkjubraut 1
 604.0,Kjarni,Kjarna
 604.0,Klappir,Klöppum
-604.0,Knútshús,Knútshúsi
+604.0,Knútshús,
 604.0,Kornþurrkun,Kornþurrkun
 604.0,Krossastaðir,Krossastöðum
 604.0,Krummaból,Krummabóli
@@ -88113,6 +88143,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 606.0,Árnagerði,Árnagerði
 606.0,Ás,Ási
 606.0,Ásgarður,Ásgarði
+606.0,Ásulundur,Ásulundi
 606.0,Þinghúsið,Þinghúsinu
 606.0,Þórisstaðir,Þórisstöðum
 606.0,Þórisstaðir 2,Þórisstöðum 2
@@ -90865,7 +90896,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 640.0,Kaldbaks-Kot,Kaldbaks-Koti
 640.0,Kaldbakshöfði,Kaldbakshöfða
 640.0,Kaldbaksstaðir,Kaldbaksstöðum
-640.0,Kaldbakur,Kaldbaki
+640.0,Kaldbakur,Kaldbak
 640.0,Katlavöllur,Katlavelli
 640.0,Ketilsbraut 11,Ketilsbraut 11
 640.0,Ketilsbraut 13,Ketilsbraut 13
@@ -95447,6 +95478,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 701.0,Hádegisholt 2,Hádegisholti 2
 701.0,Hádegisholt 3,Hádegisholti 3
 701.0,Háholt,Háholti
+701.0,Hákonarstaðir,Hákonarstöðum
 701.0,Hákonarstaðir 1,Hákonarstöðum 1
 701.0,Hákonarstaðir 2,Hákonarstöðum 2
 701.0,Hákonarstaðir 3,Hákonarstöðum 3
@@ -95586,7 +95618,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 701.0,Mýrar I,Mýrum I
 701.0,Mýrar II,Mýrum II
 701.0,Nefbjarnarstaðir,Nefbjarnarstöðum
-701.0,Nátthagi,Nátthaga
+701.0,Nátthagi,Náthaga
 701.0,Nýbýlaland VI,Nýbýlalandi VI
 701.0,Ormarsstaðir 1,Ormarsstöðum 1
 701.0,Ormarsstaðir 2,Ormarsstöðum 2
@@ -95734,7 +95766,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 701.0,Stóri-Hagi 7,Stóra-Haga 7
 701.0,Stóri-Hagi 8,Stóra-Haga 8
 701.0,Stóri-Hagi 9,Stóra-Haga 9
-701.0,Sumarbústaður,Sumarbústað
+701.0,Sumarbústaður,Sumarbústaði
 701.0,Sumarhús,Sumarhúsum
 701.0,Sundlaugin Hallormsstað,Sundlauginni Hallormsstað
 701.0,Surtsstaðir,Surtsstöðum
@@ -95868,7 +95900,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 701.0,Ánastaðir,Ánastöðum
 701.0,Árbakki,Árbakka
 701.0,Árteigur,Árteigi
-701.0,Ártún,Ártúnum
+701.0,Ártún,Ártúni
 701.0,Ás,Ási
 701.0,Ás 1,Ási 1
 701.0,Ás-Völlur,Ási-Velli
@@ -96824,6 +96856,12 @@ POSTNR,HEITI_NF,HEITI_TGF
 730.0,Búðareyri 2,Búðareyri 2
 730.0,Búðareyri 21,Búðareyri 21
 730.0,Búðareyri 25,Búðareyri 25
+730.0,Búðareyri 25A,Búðareyri 25A
+730.0,Búðareyri 25B,Búðareyri 25B
+730.0,Búðareyri 25C,Búðareyri 25C
+730.0,Búðareyri 25D,Búðareyri 25D
+730.0,Búðareyri 25E,Búðareyri 25E
+730.0,Búðareyri 25F,Búðareyri 25F
 730.0,Búðareyri 28,Búðareyri 28
 730.0,Búðareyri 29,Búðareyri 29
 730.0,Búðareyri 3,Búðareyri 3
@@ -99511,7 +99549,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 765.0,Markarland 8b,Markarlandi 8b
 765.0,Markarland 9,Markarlandi 9
 765.0,Melar,Melum
-765.0,Miðhús,Miðhúsum
+765.0,Miðhús,Miðhúsi
 765.0,Mörk 1,Mörk 1
 765.0,Mörk 12,Mörk 12
 765.0,Mörk 14,Mörk 14
@@ -100976,7 +101014,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 785.0,Borgartún 8,Borgartúni 8
 785.0,Borgartún 9,Borgartúni 9
 785.0,Breiðármörk,Breiðármörk
-785.0,Bölti,Bölta
 785.0,Eystribær 1,
 785.0,Eystribær 3,
 785.0,Eystritorfa,Eystritorfu
@@ -101023,7 +101060,6 @@ POSTNR,HEITI_NF,HEITI_TGF
 785.0,Hálsasker,Hálsaskeri
 785.0,Hálsasker 2,Hálsaskeri 2
 785.0,Hálsasker 3,Hálsaskeri 3
-785.0,Hæðir,Hæðum
 785.0,Hótel Skaftafell,Hótel Skaftafelli
 785.0,Ingólfshöfðaviti,Ingólfshöfðavita
 785.0,Klettasel,Klettaseli
@@ -106540,6 +106576,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 804.0,Háholt 1,Háholti 1
 804.0,Háholt 2,Háholti 2
 804.0,Háholt 3,Háholti 3
+804.0,Háholtshjáleiga,Háholtshjáleigu
 804.0,Hátún 2,Hátúni 2
 804.0,Hátún 3,Hátúni 3
 804.0,Hátún 4,Hátúni 4
@@ -106857,6 +106894,10 @@ POSTNR,HEITI_NF,HEITI_TGF
 804.0,Sælugrund 8,Sælugrund 8
 804.0,Sæluvellir,Sæluvöllum
 804.0,Sólbakki,Sólbakka
+804.0,Taglateigur 1,Taglateigi 1
+804.0,Taglateigur 2,Taglateigi 2
+804.0,Taglateigur 5,Taglateigi 5
+804.0,Taglavegur,Taglavegi
 804.0,Tjarnarholt,Tjarnarholti
 804.0,Tjarnarver,Tjarnarveri
 804.0,Tröð,Tröð
@@ -106905,6 +106946,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 804.0,Votamýri 2A,Votumýri 2A
 804.0,Víðihlíð,Víðihlíð
 804.0,Víðimýri,Víðimýri
+804.0,Völlur,Velli
 804.0,Álfholt 1,Álfholti 1
 804.0,Álfholt 2,Álfholti 2
 804.0,Álfholt 3,Álfholti 3
@@ -111029,7 +111071,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 805.0,Vaðhólsbraut 4,Vaðhólsbraut 4
 805.0,Vaðhólsbraut 6,Vaðhólsbraut 6
 805.0,Vaðhólsbraut 8,Vaðhólsbraut 8
-805.0,Vaðnes,Vaðnesi
+805.0,Vaðnes,Vaðnes
 805.0,Vaðnes 2,Vaðnesi 2
 805.0,Vaðnes 3,Vaðnesi 3
 805.0,Vaðnes Borgartún 1,Vaðnesi Borgartúni 1
@@ -111430,6 +111472,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 805.0,Ásabraut 5,Ásabraut 5
 805.0,Ásabraut 6A,Ásabraut 6A
 805.0,Ásabraut 6B,Ásabraut 6B
+805.0,Ásabraut 6C,Ásabraut 6C
 805.0,Ásabraut 7,Ásabraut 7
 805.0,Ásabraut 8,Ásabraut 8
 805.0,Ásabraut 9,Ásabraut 9
@@ -112714,7 +112757,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 806.0,Grímsnesafréttur,Grímsnesafrétti
 806.0,Gröf,Gröf
 806.0,Gufuhlíð,Gufuhlíð
-806.0,Gullfoss,Gulfossi
+806.0,Gullfoss,Gullfossi
 806.0,Gullfosskaffi,Gulfosskaffi
 806.0,Gullfossland,Gullfosslandi
 806.0,Gunnarsbraut,Gunnarsbraut
@@ -113602,7 +113645,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 806.0,Mýrarheiði 7,Mýrarheiði 7
 806.0,Mýrarheiði 9,Mýrarheiði 9
 806.0,Neðra-Berg,Neðra-Bergi
-806.0,Neðri-Dalur,Neðra-Dal
+806.0,Neðri-Dalur,Neðri-Dal
 806.0,Neðristígur 1,Neðristíg 1
 806.0,Neðristígur 10,Neðristíg 10
 806.0,Neðristígur 11,Neðristíg 11
@@ -114960,7 +115003,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 810.0,Breiðamörk 23,Breiðumörk 23
 810.0,Breiðamörk 24,Breiðumörk 24
 810.0,Breiðamörk 25,Breiðumörk 25
-810.0,Breiðamörk 25a,Breiðumörk 25a
+810.0,Breiðamörk 25A,Breiðumörk 25A
 810.0,Breiðamörk 25b,Breiðumörk 25b
 810.0,Breiðamörk 26,Breiðumörk 26
 810.0,Breiðamörk 27,Breiðumörk 27
@@ -117480,7 +117523,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 816.0,Bakkakot,Bakkakoti
 816.0,Bakkatjörn,Bakkatjörn
 816.0,Bakki 1,Bakka 1
-816.0,Bakki 1 Neðrafjall,Bakka 1 Neðrafjall
+816.0,Bakki 1 Neðrafjall,Bakka 1 Neðrafjalli
 816.0,Bakki 2,Bakka 2
 816.0,Bakkárholt,Bakkárholti
 816.0,Bakkárholt 1,Bakkárholti 1
@@ -117598,7 +117641,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 816.0,Gljúfurárholt 28,Gljúfurárholti 28
 816.0,Gljúfurárholt land-2,Gljúfurárholti
 816.0,Gljúfurárholt land-3,Gljúfurárholti
-816.0,Gljúfurárholt land-4,Gljúfurárholti
+816.0,Gljúfurárholt land-4,Gljúfurárholti landi-4
 816.0,Gljúfurárholt land-5,Gljúfurárholti
 816.0,Gljúfurárholt land-6,Gljúfurárholti
 816.0,Gljúfurárholt land-8,Gljúfurárholti
@@ -121537,7 +121580,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 851.0,Landborgir 4,Landborgum 4
 851.0,Landborgir 5,Landborgum 5
 851.0,Landborgir 6,Landborgum 6
-851.0,Landmannaafréttur,Landmannaafrétt
+851.0,Landmannaafréttur,Landmannaafrétti
 851.0,Landmannalaugar,Landmannalaugum
 851.0,Langabarð,Langabarði
 851.0,Langanesmelar,Langanesmelum
@@ -122257,7 +122300,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 851.0,Tröð,Tröð
 851.0,Tyrfingsstaðir,Tyrfingsstöðum
 851.0,Unhóll 1,Unhóli 1
-851.0,Unhóll 1A,Unhóli 1A
+851.0,Unhóll 1A,Unhóli
 851.0,Unhóll 2,Unhóli 2
 851.0,Unhóll 3,Unhóli 3
 851.0,Unhóll 4,Unhóli 4
@@ -123214,7 +123257,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 861.0,Efra-Bakkakot,Efra-Bakkakoti
 861.0,Efra-Holt,Efra-Holti
 861.0,Efri Botn,Efri Botni
-861.0,Efri-Hvoll,Efri-Hvoli
+861.0,Efri-Hvoll,Efra-Hvoli
 861.0,Efri-Hóll,Efra-Hóli
 861.0,Efri-Hóll 2,Efra-Hóli 2
 861.0,Efri-Kvíhólmi,Efri-Kvíhólma
@@ -124101,7 +124144,7 @@ POSTNR,HEITI_NF,HEITI_TGF
 861.0,Syðri-Hóll B,Syðra-Hóli B
 861.0,Syðri-Kvíhólmi,Syðri-Kvíhólma
 861.0,Syðri-Kvíhólmi 2,Syðri-Kvíhólma 2
-861.0,Syðri-Rot,Syðra-Rot
+861.0,Syðri-Rot,Syðri-Roti
 861.0,Syðri-Úlfsstaðahjáleiga,Syðri-Úlfsstaðahjáleigu
 861.0,Syðri-Úlfsstaðir,Syðri-Úlfsstöðum
 861.0,Syðsta-Grund,Syðstu-Grund
